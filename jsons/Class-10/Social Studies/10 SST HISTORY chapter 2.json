@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Nationalism in India",
+    "chapter_title_hindi": "भारत में राष्ट्रवाद",
+    "subject": "History (India and the Contemporary World - II) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10th_History_Ch2_NationalismInIndia_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-19T22:35:00Z",
+    "notes": "Verified bilingual consistency, absolute JSON validation, precise distractors, and complete coverage from Gandhi's return in 1915 to the collective sense of belonging."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "From which country did Mahatma Gandhi return to India in January 1915, where he had successfully led a mass movement based on Satyagraha?",
+        "hi": "महात्मा गांधी जनवरी 1915 में किस देश से भारत लौटे थे, जहाँ उन्होंने सत्याग्रह पर आधारित एक सफल जन-आंदोलन का नेतृत्व किया था?"
+      },
+      "options": {
+        "a": {"en": "England", "hi": "इंग्लैंड"},
+        "b": {"en": "South Africa", "hi": "दक्षिण अफ्रीका"},
+        "c": {"en": "USA", "hi": "अमेरिका"},
+        "d": {"en": "Kenya", "hi": "केन्या"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is the country where he fought against the racist regime using his novel method of mass agitation.",
+        "hi": "यह वही देश है जहाँ उन्होंने नस्लभैदी सरकार के खिलाफ जन-आंदोलन की अपनी नई पद्धति का प्रयोग किया था।"
+      },
+      "explanation": {
+        "en": "Mahatma Gandhi returned to India in January 1915 from South Africa, where he had successfully fought the racist regime with a novel method of mass agitation called Satyagraha.",
+        "hi": "महात्मा गांधी जनवरी 1915 में दक्षिण अफ्रीका से भारत लौटे, जहाँ उन्होंने नस्लभैदी सरकार के खिलाफ 'सत्याग्रह' नामक नए जन-आंदोलन का सफलतापूर्वक संचालन किया था।"
+      },
+      "key_takeaway": {
+        "en": "January 1915 = Gandhi's return from South Africa.",
+        "hi": "जनवरी 1915 = गांधीजी की दक्षिण अफ्रीका से भारत वापसी।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Where did Mahatma Gandhi launch his first successful Satyagraha movement in India in 1917 against the oppressive plantation system?",
+        "hi": "महात्मा गांधी ने भारत में अपना पहला सफल सत्याग्रह आंदोलन 1917 में दमनकारी बगान व्यवस्था के खिलाफ कहाँ शुरू किया था?"
+      },
+      "options": {
+        "a": {"en": "Kheda", "hi": "खेड़ा"},
+        "b": {"en": "Ahmedabad", "hi": "अहमदाबाद"},
+        "c": {"en": "Champaran", "hi": "चंपारण"},
+        "d": {"en": "Bardoli", "hi": "बारडोली"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This place is located in Bihar where peasants were forced to grow indigo.",
+        "hi": "यह स्थान बिहार में स्थित है जहाँ किसानों को जबरन नील की खेती करने के लिए मजबूर किया जाता था।"
+      },
+      "explanation": {
+        "en": "In 1917, Mahatma Gandhi travelled to Champaran in Bihar to inspire the peasants to struggle against the oppressive indigo plantation system.",
+        "hi": "1917 में महात्मा गांधी ने बिहार के चंपारण का दौरा किया और दमनकारी नील बगान व्यवस्था के खिलाफ किसानों को संघर्ष के लिए प्रेरित किया।"
+      },
+      "key_takeaway": {
+        "en": "1917 Champaran Satyagraha = First indigo peasant movement in India.",
+        "hi": "1917 चंपारण सत्याग्रह = भारत में पहला नील किसान आंदोलन।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which act passed in 1919 allowed the British government to repress political activities and detain political prisoners without trial for two years?",
+        "hi": "1919 में पारित किस अधिनियम ने ब्रिटिश सरकार को राजनीतिक गतिविधियों को दबाने और बिना मुकदमे के दो साल तक राजनीतिक कैदियों को हिरासत में रखने की अनुमति दी थी?"
+      },
+      "options": {
+        "a": {"en": "The Rowlatt Act", "hi": "रॉलेट एक्ट"},
+        "b": {"en": "Inland Emigration Act", "hi": "अंतर्देशीय आप्रवासन अधिनियम"},
+        "c": {"en": "Vernacular Press Act", "hi": "वर्नाक्युलर प्रेस एक्ट"},
+        "d": {"en": "The Defence of India Act", "hi": "भारत रक्षा अधिनियम"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Indians called it the 'Black Act' and organized nationwide hartals against it.",
+        "hi": "भारतीयों ने इसे 'काला कानून' कहा था और इसके खिलाफ देशव्यापी हड़तालें बुलाई थीं।"
+      },
+      "explanation": {
+        "en": "The Rowlatt Act of 1819 gave the government enormous powers to repress political activities, and allowed detention of political prisoners without trial for two years.",
+        "hi": "1919 के रॉलेट एक्ट ने ब्रिटिश सरकार को असीमित शक्तियां दीं, जिसके तहत किसी भी राजनीतिक कैदी को बिना मुकदमा चलाए दो साल तक जेल में रखा जा सकता था।"
+      },
+      "key_takeaway": {
+        "en": "Rowlatt Act 1919 = Detention without trial for two years.",
+        "hi": "रॉलेट एक्ट 1919 = बिना मुकदमे के दो साल की जेल का प्रावधान।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which British officer ordered the troops to open fire on the peaceful gathering at Jallianwala Bagh, Amritsar on 13 April 1919?",
+        "hi": "13 अप्रैल 1919 को अमृतसर के जलियांवाला बाग में शांतिपूर्ण भीड़ पर गोलियां चलाने का आदेश किस ब्रिटिश अधिकारी ने दिया था?"
+      },
+      "options": {
+        "a": {"en": "Lord Curzon", "hi": "लॉर्ड कर्जन"},
+        "b": {"en": "General Dyer", "hi": "जनरल डायर"},
+        "c": {"en": "Lord Irwin", "hi": "लॉर्ड इरविन"},
+        "d": {"en": "Sir John Simon", "hi": "सर जॉन साइमन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He had imposed martial law in Amritsar and wanted to produce a 'moral effect' of terror.",
+        "hi": "उन्होंने अमृतसर में मार्शल लॉ लागू किया था और वे लोगों के मन में आतंक का एक 'नैतिक प्रभाव' पैदा करना चाहते थे।"
+      },
+      "explanation": {
+        "en": "General Dyer blocked the exit points of Jallianwala Bagh and ordered firing on the peaceful crowd to create a feeling of terror and awe in the minds of satyagrahis.",
+        "hi": "जनरल डायर ने जलियांवाला बाग के निकास द्वारों को बंद कर दिया और सत्याग्रहियों के मन में डर पैदा करने के लिए निहत्थी भीड़ पर अंधाधुंध गोलियां चलवाईं।"
+      },
+      "key_takeaway": {
+        "en": "13 April 1919 = Jallianwala Bagh massacre ordered by General Dyer.",
+        "hi": "13 अप्रैल 1919 = जनरल डायर द्वारा कराया गया जलियांवाला बाग हत्याकांड।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "In March 1919, a Khilafat Committee was formed in which city to defend the temporal powers of the Ottoman Caliph?",
+        "hi": "मार्च 1919 में ऑटोमन खलीफा की शक्तियों की रक्षा के लिए किस शहर में एक खिलाफत समिति का गठन किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Calcutta", "hi": "कलकत्ता"},
+        "b": {"en": "Bombay", "hi": "बॉम्बे"},
+        "c": {"en": "Madras", "hi": "मद्रास"},
+        "d": {"en": "Lahore", "hi": "लाहौर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The committee was led by young Muslim leaders like the Ali brothers, Muhammad Ali and Shaukat Ali.",
+        "hi": "इस समिति का गठन अली भाइयों (मोहम्मद अली और शौकत अली) द्वारा तत्कालीन पश्चिमी तटीय व्यावसायिक केंद्र में किया गया था।"
+      },
+      "explanation": {
+        "en": "A Khilafat Committee was formed in Bombay in March 1919 under the leadership of young leaders like the brothers Muhammad Ali and Shaukat Ali.",
+        "hi": "मार्च 1919 में बॉम्बे में मोहम्मद अली और शौकत अली के नेतृत्व में खिलाफत समिति का गठन किया गया था ताकि खलीफा के पवित्र स्थानों की रक्षा की जा सके।"
+      },
+      "key_takeaway": {
+        "en": "March 1919 = Khilafat Committee formed in Bombay.",
+        "hi": "मार्च 1919 = बॉम्बे में खिलाफत समिति का गठन।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "In which famous book published in 1909 did Mahatma Gandhi declare that British rule was established in India with the cooperation of Indians?",
+        "hi": "1909 में प्रकाशित किस प्रसिद्ध पुस्तक में महात्मा गांधी ने घोषणा की थी कि भारत में ब्रिटिश शासन भारतीयों के सहयोग से ही स्थापित हुआ था?"
+      },
+      "options": {
+        "a": {"en": "My Experiments with Truth", "hi": "सत्य के प्रयोग"},
+        "b": {"en": "Hind Swaraj", "hi": "हिन्द स्वराज"},
+        "c": {"en": "Discovery of India", "hi": "भारत की खोज"},
+        "d": {"en": "Gitanjali", "hi": "गीतांजलि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The title signifies 'Indian Home Rule' or self-rule for the country.",
+        "hi": "इस पुस्तक का शीर्षक भारत की स्वयं की शासन व्यवस्था (Self-rule) को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "In his famous book Hind Swaraj (1909), Mahatma Gandhi declared that British rule was established in India with the cooperation of Indians, and if Indians refused to cooperate, British rule would collapse within a year.",
+        "hi": "गांधीजी ने अपनी पुस्तक 'हिन्द स्वराज' (1909) में तर्क दिया था कि यदि भारतीय अपना सहयोग वापस ले लें, तो ब्रिटिश शासन एक साल के भीतर गिर जाएगा और स्वराज आ जाएगा।"
+      },
+      "key_takeaway": {
+        "en": "Hind Swaraj (1909) = Base philosophy of Non-Cooperation movement.",
+        "hi": "हिन्द स्वराज (1909) = असहयोग आंदोलन का मुख्य दार्शनिक आधार।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "At which Congress session in December 1920 was the Non-Cooperation programme finally adopted after intense debate?",
+        "hi": "दिसंबर 1920 में कांग्रेस के किस अधिवेशन में गहन बहस के बाद असहयोग कार्यक्रम को अंतिम रूप से स्वीकार किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Calcutta Session", "hi": "कलकत्ता अधिवेशन"},
+        "b": {"en": "Nagpur Session", "hi": "नागपुर अधिवेशन"},
+        "c": {"en": "Lahore Session", "hi": "लाहौर अधिवेशन"},
+        "d": {"en": "Madras Session", "hi": "मद्रास अधिवेशन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This place is in Maharashtra and is historically famous for orange production.",
+        "hi": "यह स्थान महाराष्ट्र में स्थित है और यह ऐतिहासिक रूप से संतरों के उत्पादन के लिए भी प्रसिद्ध है।"
+      },
+      "explanation": {
+        "en": "At the Congress session at Nagpur in December 1920, a compromise was worked out and the Non-Cooperation programme was formally adopted.",
+        "hi": "दिसंबर 1920 में नागपुर में हुए कांग्रेस अधिवेशन में आपसी सहमति के बाद असहयोग आंदोलन के कार्यक्रम को औपचारिक रूप से स्वीकार किया गया।"
+      },
+      "key_takeaway": {
+        "en": "December 1920 Nagpur Session = Formal adoption of Non-Cooperation.",
+        "hi": "दिसंबर 1920 नागपुर अधिवेशन = असहयोग आंदोलन की औपचारिक स्वीकृति।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who led the peasants' movement in Awadh during the Non-Cooperation Movement, who had earlier been to Fiji as an indentured laborer?",
+        "hi": "असहयोग आंदोलन के दौरान अवध में किसानों के आंदोलन का नेतृत्व किसने किया था, जो पहले फिजी में एक गिरमिटिया मजदूर के रूप में काम कर चुके थे?"
+      },
+      "options": {
+        "a": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "b": {"en": "Baba Ramchandra", "hi": "बाबा रामचंद्र"},
+        "c": {"en": "Alluri Sitaram Raju", "hi": "अल्लूरी सीताराम राजू"},
+        "d": {"en": "Sardar Patel", "hi": "सरदार पटेल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a sanyasi who organized peasants against the high rents demanded by talukdars.",
+        "hi": "वे एक संन्यासी थे जिन्होंने तालुकदारों द्वारा मांगे जा रहे भारी लगान के खिलाफ किसानों को संगठित किया था।"
+      },
+      "explanation": {
+        "en": "In Awadh, peasants were led by Baba Ramchandra – a sanyasi who had earlier been to Fiji as an indentured laborer. The movement here was against talukdars and landlords.",
+        "hi": "अवध में किसान आंदोलन का नेतृत्व बाबा रामचंद्र ने किया था, जो एक संन्यासी थे और पूर्व में फिजी में गिरमिटिया (Indentured) मजदूर रह चुके थे।"
+      },
+      "key_takeaway": {
+        "en": "Baba Ramchandra = Led Awadh peasant struggle against high rents.",
+        "hi": "बाबा रामचंद्र = उच्च लगान के खिलाफ अवध किसान संघर्ष के नेता।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Who led the militant guerrilla movement of tribal peasants in the Gudem Hills of Andhra Pradesh in the early 1920s?",
+        "hi": "1920 के दशक के शुरुआती वर्षों में आंध्र प्रदेश की गुडेम पहाड़ियों में आदिवासी किसानों के उग्र गुरिल्ला आंदोलन का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Birsa Munda", "hi": "बिरसा मुंडा"},
+        "b": {"en": "Alluri Sitaram Raju", "hi": "अल्लूरी सीताराम राजू"},
+        "c": {"en": "Sidhu Murmu", "hi": "सिद्धू मुर्मू"},
+        "d": {"en": "Kanhu Murmu", "hi": "कान्हू मुर्मू"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He claimed he had special astrological powers and could survive even bullet shots.",
+        "hi": "उन्होंने दावा किया था कि उनके पास विशेष खगोलीय शक्तियां हैं और वे गोलियों से भी बच सकते हैं।"
+      },
+      "explanation": {
+        "en": "Alluri Sitaram Raju led the tribal rebellion in the Gudem Hills of Andhra Pradesh. He spoke of Mahatma Gandhi's greatness but argued that India could be liberated only by force.",
+        "hi": "अल्लूरी सीताराम राजू ने गुडेम पहाड़ियों के आदिवासियों का नेतृत्व किया। वे गांधीजी के असहयोग से प्रेरित थे लेकिन स्वतंत्रता के लिए बल प्रयोग को आवश्यक मानते थे।"
+      },
+      "key_takeaway": {
+        "en": "Alluri Sitaram Raju = Led tribal guerrilla warfare in Gudem Hills.",
+        "hi": "अल्लूरी सीताराम राजू = गुडेम पहाड़ियों में आदिवासी गुरिल्ला युद्ध के प्रणेता।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Why did Mahatma Gandhi decide to suddenly withdraw the Non-Cooperation Movement in February 1922?",
+        "hi": "फरवरी 1922 में महात्मा गांधी ने असहयोग आंदोलन को अचानक वापस लेने का निर्णय क्यों लिया था?"
+      },
+      "options": {
+        "a": {"en": "Due to massive arrest of top leaders", "hi": "शीर्ष नेताओं की भारी गिरफ्तारी के कारण"},
+        "b": {"en": "Due to the violent incident at Chauri Chaura", "hi": "चौरी-चौरा में हुई हिंसक घटना के कारण"},
+        "c": {"en": "Because all demands were accepted by the British", "hi": "क्योंकि ब्रिटिश सरकार द्वारा सभी मांगें मान ली गई थीं"},
+        "d": {"en": "To start the Dandi March immediately", "hi": "तुरंत दांडी मार्च शुरू करने के लिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "An angry crowd set fire to a police station in Gorakhpur district, burning alive 22 policemen.",
+        "hi": "उत्तर प्रदेश के गोरखपुर जिले के एक स्थान पर उग्र भीड़ ने एक पुलिस थाने को आग लगा दी थी।"
+      },
+      "explanation": {
+        "en": "In February 1922, Mahatma Gandhi decided to withdraw the Non-Cooperation Movement because at Chauri Chaura in Gorakhpur, a peaceful demonstration turned into a violent clash leading to the burning of a police station.",
+        "hi": "फरवरी 1922 में गोरखपुर के चौरी-चौरा में एक शांतिपूर्ण जुलूस हिंसक झड़प में बदल गया और पुलिस स्टेशन में आग लगा दी गई, जिससे दुखी होकर गांधीजी ने आंदोलन वापस ले लिया।"
+      },
+      "key_takeaway": {
+        "en": "February 1922 Chauri Chaura = Withdrawal of Non-Cooperation Movement.",
+        "hi": "फरवरी 1922 चौरी-चौरा = असहयोग आंदोलन की समाप्ति।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Who formed the 'Swaraj Party' within the Congress to argue for a return to council politics?",
+        "hi": "काउंसिल (परिषद्) की राजनीति में वापस लौटने के लिए कांग्रेस के भीतर ही 'स्वराज पार्टी' का गठन किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Jawaharlal Nehru and Subhas Chandra Bose", "hi": "जवाहरलाल नेहरू और सुभाष चंद्र बोस"},
+        "b": {"en": "C.R. Das and Motilal Nehru", "hi": "चितरंजन दास और मोतीलाल नेहरू"},
+        "c": {"en": "Mahatma Gandhi and B.R. Ambedkar", "hi": "महात्मा गांधी और बी.आर. अम्बेडकर"},
+        "d": {"en": "Bal Gangadhar Tilak and Lala Lajpat Rai", "hi": "बाल गंगाधर तिलक और लाला लाजपत राय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "One of the founders was known as Deshbandu and the other was the father of India's first Prime Minister.",
+        "hi": "संस्थापकों में 'देशबंधु' के नाम से प्रसिद्ध एक नेता और भारत के पहले प्रधानमंत्री के पिता शामिल थे।"
+      },
+      "explanation": {
+        "en": "C.R. Das and Motilal Nehru formed the Swaraj Party within the Congress to contest council elections and oppose British policies from within the legislative councils.",
+        "hi": "सी. आर. दास और मोतीलाल नेहरू ने परिषदों के भीतर से ब्रिटिश नीतियों का विरोध करने के लिए कांग्रेस के अंदर 'स्वराज पार्टी' का गठन किया था।"
+      },
+      "key_takeaway": {
+        "en": "Swaraj Party (1923) = Council entry strategy by C.R. Das and Motilal Nehru.",
+        "hi": "स्वराज पार्टी (1923) = सी.आर. दास और मोतीलाल नेहरू द्वारा काउंसिल प्रवेश की रणनीति।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Why was the Simon Commission boycotted by Indians when it arrived in India in 1928?",
+        "hi": "1928 में जब साइमन कमीशन भारत पहुँचा, तो भारतीयों द्वारा इसका बहिष्कार क्यों किया गया था?"
+      },
+      "options": {
+        "a": {"en": "It recommended the division of Punjab", "hi": "इसने पंजाब के विभाजन की सिफारिश की थी"},
+        "b": {"en": "It did not have any Indian member", "hi": "इसमें एक भी भारतीय सदस्य नहीं था"},
+        "c": {"en": "It refused to meet Mahatma Gandhi", "hi": "इसने महात्मा गांधी से मिलने से इनकार कर दिया था"},
+        "d": {"en": "It was led by General Dyer", "hi": "इसका नेतृत्व जनरल डायर कर रहा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was an all-British statutory commission sent to look into India's constitutional system.",
+        "hi": "भारत के संवैधानिक भविष्य का फैसला करने वाले इस सात सदस्यीय आयोग के सभी सदस्य ब्रिटिश (अंग्रेज) थे।"
+      },
+      "explanation": {
+        "en": "The Simon Commission was boycotted because it was a statutory commission meant to look into India's constitutional system but did not have a single Indian member.",
+        "hi": "सर जॉन साइमन की अध्यक्षता वाले इस वैधानिक आयोग का विरोध इसलिए हुआ क्योंकि भारत के लिए संविधान की समीक्षा करने वाले इस आयोग में कोई भारतीय शामिल नहीं था।"
+      },
+      "key_takeaway": {
+        "en": "1928 Simon Commission Boycott = No Indian representation in the commission.",
+        "hi": "1928 साइमन कमीशन बहिष्कार = आयोग में किसी भारतीय का न होना।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Under the presidency of Jawaharlal Nehru, which Congress session in December 1929 formalized the demand for 'Purna Swaraj'?",
+        "hi": "दिसंबर 1929 में जवाहरलाल नेहरू की अध्यक्षता में कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' की मांग को औपचारिक रूप दिया गया था?"
+      },
+      "options": {
+        "a": {"en": "Bombay Session", "hi": "बॉम्बे अधिवेशन"},
+        "b": {"en": "Lahore Session", "hi": "लाहौर अधिवेशन"},
+        "c": {"en": "Karachi Session", "hi": "कराची अधिवेशन"},
+        "d": {"en": "Surat Session", "hi": "सूरत अधिवेशन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This historic place is situated on the banks of river Ravi, now in Pakistan.",
+        "hi": "यह ऐतिहासिक स्थान रावी नदी के तट पर स्थित है, जो अब पाकिस्तान का हिस्सा है।"
+      },
+      "explanation": {
+        "en": "In December 1929, under the presidency of Jawaharlal Nehru, the Lahore Congress formalized the demand for 'Purna Swaraj' or full independence for India.",
+        "hi": "दिसंबर 1929 के लाहौर अधिवेशन में पूर्ण स्वराज (पूर्ण स्वतंत्रता) का ऐतिहासिक संकल्प पारित किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "1929 Lahore Session = Resolution for Purna Swaraj.",
+        "hi": "1929 लाहौर अधिवेशन = पूर्ण स्वराज का ऐतिहासिक संकल्प।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why did Mahatma Gandhi choose 'Salt' as a powerful symbol to launch the Civil Disobedience Movement?",
+        "hi": "महात्मा गांधी ने सविनय अवज्ञा आंदोलन शुरू करने के लिए 'नमक' को एक शक्तिशाली प्रतीक के रूप में क्यों चुना?"
+      },
+      "options": {
+        "a": {"en": "Because salt was consumed only by the wealthy upper classes", "hi": "क्योंकि नमक का सेवन केवल संपन्न उच्च वर्गों द्वारा किया जाता था"},
+        "b": {"en": "Because it was consumed by both rich and poor and the government had a monopoly over it", "hi": "क्योंकि यह अमीर-गरीब दोनों द्वारा खाया जाता था और इस पर सरकार का एकाधिकार था"},
+        "c": {"en": "Because salt production was declining in India", "hi": "क्योंकि भारत में नमक के उत्पादन में गिरावट आ रही थी"},
+        "d": {"en": "Because it could be easily exported to gain foreign funds", "hi": "क्योंकि विदेशी धन प्राप्त करने के लिए इसका आसानी से निर्यात किया जा सकता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was something consumed by everyone, making the state tax on it feel highly oppressive.",
+        "hi": "यह भोजन की एक ऐसी बुनियादी वस्तु थी जिस पर ब्रिटिश कर लगाना सरकार का सबसे क्रूर चेहरा दिखाता था।"
+      },
+      "explanation": {
+        "en": "Salt was something consumed by the rich and the poor alike, and it was one of the most essential items of food. The tax on salt and the government monopoly over its production revealed the most oppressive face of British rule.",
+        "hi": "नमक अमीर-गरीब सभी के भोजन का अनिवार्य हिस्सा था। इस पर टैक्स लगाना और इसके उत्पादन पर सरकारी एकाधिकार ब्रिटिश सत्ता का सबसे दमनकारी चेहरा था।"
+      },
+      "key_takeaway": {
+        "en": "Salt = A universal symbol uniting all classes against British tax policy.",
+        "hi": "नमक = ब्रिटिश कर नीति के खिलाफ सभी वर्गों को जोड़ने वाला एक सार्वभौमिक प्रतीक।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "With how many of his trusted volunteers did Mahatma Gandhi start his famous Dandi March from Sabarmati Ashram on 12 March 1930?",
+        "hi": "12 मार्च 1930 को महात्मा गांधी ने अपने कितने विश्वसनीय स्वयंसेवकों के साथ साबरमती आश्रम से प्रसिद्ध दांडी मार्च शुरू किया था?"
+      },
+      "options": {
+        "a": {"en": "50 volunteers", "hi": "50 स्वयंसेवक"},
+        "b": {"en": "78 volunteers", "hi": "78 स्वयंसेवक"},
+        "c": {"en": "100 volunteers", "hi": "100 स्वयंसेवक"},
+        "d": {"en": "240 volunteers", "hi": "240 स्वयंसेवक"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The number is two less than eighty, and they walked for 24 days.",
+        "hi": "यह संख्या अस्सी से दो कम है, और इन लोगों ने लगातार 24 दिनों तक पैदल यात्रा की थी।"
+      },
+      "explanation": {
+        "en": "Mahatma Gandhi started his famous salt march accompanied by 78 of his trusted volunteers. The march was over 240 miles from Sabarmati to Dandi.",
+        "hi": "गांधीजी ने अपने 78 चुने हुए स्वयंसेवकों के साथ साबरमती आश्रम से दांडी तक 240 मील लंबी ऐतिहासिक यात्रा शुरू की थी।"
+      },
+      "key_takeaway": {
+        "en": "12 March 1930 = Start of Dandi March with 78 volunteers.",
+        "hi": "12 मार्च 1930 = 78 स्वयंसेवकों के साथ दांडी मार्च की शुरुआत।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "On which date did Mahatma Gandhi reach Dandi and ceremonially violate the salt law by manufacturing salt from sea water?",
+        "hi": "किस तिथि को महात्मा गांधी दांडी पहुंचे और समुद्र के पानी से नमक बनाकर सार्वजनिक रूप से नमक कानून का उल्लंघन किया?"
+      },
+      "options": {
+        "a": {"en": "12 March 1930", "hi": "12 मार्च 1930"},
+        "b": {"en": "6 April 1930", "hi": "6 अप्रैल 1930"},
+        "c": {"en": "26 January 1930", "hi": "26 जनवरी 1930"},
+        "d": {"en": "10 May 1930", "hi": "10 मई 1930"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was the morning of a day in early April, which marked the formal beginning of Civil Disobedience.",
+        "hi": "यह अप्रैल महीने के पहले सप्ताह का वह दिन था, जो सविनय अवज्ञा आंदोलन की आधिकारिक शुरुआत बना।"
+      },
+      "explanation": {
+        "en": "On 6 April 1930, Mahatma Gandhi reached Dandi and ceremonially violated the law, manufacturing salt by boiling sea water, which marked the beginning of Civil Disobedience Movement.",
+        "hi": "6 अप्रैल 1930 को गांधीजी दांडी के तट पर पहुंचे और नमक बनाकर सविनय अवज्ञा आंदोलन का आधिकारिक शंखनाद किया।"
+      },
+      "key_takeaway": {
+        "en": "6 April 1930 = Breaking of salt law and launch of Civil Disobedience.",
+        "hi": "6 अप्रैल 1930 = नमक कानून का उल्लंघन और सविनय अवज्ञा आंदोलन का प्रारंभ।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "The arrest of which devout disciple of Mahatma Gandhi in April 1930 led to angry demonstrations in the streets of Peshawar?",
+        "hi": "अप्रैल 1930 में महात्मा गांधी के किस समर्पित शिष्य की गिरफ्तारी के बाद पेशावर की सड़कों पर उग्र प्रदर्शन हुए थे?"
+      },
+      "options": {
+        "a": {"en": "Abdul Ghaffar Khan", "hi": "अब्दुल गफ्फार खान"},
+        "b": {"en": "Maulana Azad", "hi": "मौलाना आजाद"},
+        "c": {"en": "Muhammad Ali", "hi": "मोहम्मद अली"},
+        "d": {"en": "Subhas Chandra Bose", "hi": "सुभाष चंद्र बोस"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He is also known as Frontier Gandhi and founded the Khudai Khidmatgar.",
+        "hi": "उन्हें 'सीमांत गांधी' भी कहा जाता है और उन्होंने 'खुदाई खिदमतगार' संगठन बनाया था।"
+      },
+      "explanation": {
+        "en": "When Abdul Ghaffar Khan, a devout disciple of Mahatma Gandhi, was arrested in April 1930, angry crowds demonstrated in the streets of Peshawar, facing armored cars and police firing.",
+        "hi": "जब उत्तर-पश्चिम सीमांत प्रांत में 'सीमांत गांधी' अब्दुल गफ्फार खान को गिरफ्तार किया गया, तो पेशावर में सशस्त्र गाड़ियों के सामने जनता खड़ी हो गई।"
+      },
+      "key_takeaway": {
+        "en": "Abdul Ghaffar Khan = Frontier Gandhi, led Peshawar satyagraha.",
+        "hi": "अब्दुल गफ्फार खान = सीमांत गांधी, जिन्होंने पेशावर सत्याग्रह का नेतृत्व किया।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "By signing which pact on 5 March 1931 did Mahatma Gandhi agree to call off the Civil Disobedience Movement and attend the Second Round Table Conference?",
+        "hi": "5 मार्च 1931 को किस समझौते पर हस्ताक्षर करके महात्मा गांधी सविनय अवज्ञा आंदोलन को स्थगित करने और दूसरे गोलमेज सम्मेलन में भाग लेने के लिए सहमत हुए थे?"
+      },
+      "options": {
+        "a": {"en": "Poona Pact", "hi": "पुणे समझौता"},
+        "b": {"en": "Gandhi-Irwin Pact", "hi": "गांधी-इरविन समझौता"},
+        "c": {"en": "Lucknow Pact", "hi": "लखनऊ समझौता"},
+        "d": {"en": "Gandhi-Mountbatten Pact", "hi": "गांधी-माउंटबेटन समझौता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This pact was signed between Mahatma Gandhi and the then British Viceroy of India in Delhi.",
+        "hi": "यह समझौता महात्मा गांधी और भारत के तत्कालीन ब्रिटिश वायसराय के बीच दिल्ली में वार्ताओं के बाद हुआ था।"
+      },
+      "explanation": {
+        "en": "By the Gandhi-Irwin Pact signed on 5 March 1931, Gandhiji consented to participate in a Round Table Conference in London and the government agreed to release political prisoners.",
+        "hi": "5 मार्च 1931 को हुए गांधी-इरविन समझौते के तहत कांग्रेस ने आंदोलन को रोका और गांधीजी लंदन में दूसरे गोलमेज सम्मेलन में जाने को तैयार हुए।"
+      },
+      "key_takeaway": {
+        "en": "5 March 1931 = Gandhi-Irwin Pact suspends Civil Disobedience.",
+        "hi": "5 मार्च 1931 = गांधी-इरविन समझौते द्वारा सविनय अवज्ञा आंदोलन का निलंबन।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "To organize business interests, Indian industrialists formed which apex body in 1927 led by Purshottamdas Thakurdas and G.D. Birla?",
+        "hi": "व्यापारिक हितों को संगठित करने के लिए, भारतीय उद्योगपतियों ने 1927 में किस शीर्ष संस्था का गठन किया था जिसका नेतृत्व पुरुषोत्तमदास ठाकुरदास और जी.डी. बिड़ला ने किया?"
+      },
+      "options": {
+        "a": {"en": "Indian Industrial and Commercial Congress", "hi": "भारतीय औद्योगिक और व्यावसायिक कांग्रेस"},
+        "b": {"en": "Federation of Indian Chambers of Commerce and Industry (FICCI)", "hi": "भारतीय वाणिज्य और उद्योग महासंघ (FICCI)"},
+        "c": {"en": "Associated Chambers of Commerce", "hi": "एसोसिएटेड चैंबर्स ऑफ कॉमर्स"},
+        "d": {"en": "Confederation of Indian Industry (CII)", "hi": "भारतीय उद्योग परिसंघ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is still one of the largest and oldest apex business organizations in India, commonly known by its 5-letter acronym.",
+        "hi": "यह आज भी भारत का सबसे बड़ा और पुराना व्यापारिक महासंघ है, जिसे आमतौर पर इसके 5 अक्षरों के संक्षिप्त नाम से जाना जाता है।"
+      },
+      "explanation": {
+        "en": "To organize business interests, Indian industrialists formed the Federation of Indian Chambers of Commerce and Industry (FICCI) in 1927, which supported the Civil Disobedience Movement.",
+        "hi": "भारतीय व्यापारियों ने अपने व्यावसायिक हितों की रक्षा के लिए 1927 में 'फिक्की' (FICCI) का गठन किया, जिसने सविनय अवज्ञा आंदोलन को वित्तीय सहायता भी दी।"
+      },
+      "key_takeaway": {
+        "en": "1927 = Formation of FICCI to protect Indian business interests.",
+        "hi": "1927 = भारतीय व्यापारिक हितों की रक्षा के लिए फिक्की (FICCI) का गठन।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Who organized the Dalits into the 'Depressed Classes Association' in 1930, demanding separate electorates for them?",
+        "hi": "1930 में दलितों को 'दमित वर्ग एसोसिएशन' (Depressed Classes Association) में किसने संगठित किया और उनके लिए अलग निर्वाचन क्षेत्रों की मांग की?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अम्बेडकर"},
+        "c": {"en": "Jyotirao Phule", "hi": "ज्योतिराव फुले"},
+        "e": {"en": "E.V. Ramasamy Periyar", "hi": "ई.वी. रामासामी पेरियार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He is revered as the chief architect of the Indian Constitution and clashed with Gandhi at the Second Round Table Conference.",
+        "hi": "उन्हें भारतीय संविधान का मुख्य निर्माता माना जाता है और उन्होंने दूसरे गोलमेज सम्मेलन में दलितों के राजनीतिक अधिकारों के लिए कड़ा रुख अपनाया था।"
+      },
+      "explanation": {
+        "en": "Dr. B.R. Ambedkar, who organized the Dalits into the Depressed Classes Association in 1930, clashed with Mahatma Gandhi at the Second Round Table Conference by demanding separate electorates for Dalits.",
+        "hi": "डॉ. बी.आर. अम्बेडकर ने 1930 में दमित वर्ग एसोसिएशन का गठन किया और लंदन सम्मेलन में दलितों के लिए पृथक निर्वाचन मंडल की मांग उठाई थी।"
+      },
+      "key_takeaway": {
+        "en": "1930 = Depressed Classes Association founded by Dr. B.R. Ambedkar.",
+        "hi": "1930 = डॉ. बी.आर. अम्बेडकर द्वारा दमित वर्ग एसोसिएशन की स्थापना।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which pact signed in September 1932 gave reserved seats to the Depressed Classes in provincial and central legislative councils, but they were to be voted in by the general electorate?",
+        "hi": "सितंबर 1932 के किस समझौते के तहत प्रांतीय और केंद्रीय विधायी परिषदों में दमित वर्गों को आरक्षित सीटें दी गईं, लेकिन उनका चुनाव सामान्य मतदाता वर्ग द्वारा ही होना तय हुआ?"
+      },
+      "options": {
+        "a": {"en": "Delhi Pact", "hi": "दिल्ली समझौता"},
+        "b": {"en": "Poona Pact", "hi": "पुणे समझौता (Poona Pact)"},
+        "c": {"en": "Bombay Pact", "hi": "बॉम्बे समझौता"},
+        "d": {"en": "Lucknow Pact", "hi": "लखनऊ समझौता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was signed after Mahatma Gandhi began a fast unto death in Yerwada Jail to oppose separate electorates.",
+        "hi": "यह समझौता महाराष्ट्र के पुणे शहर की यरवदा जेल में गांधीजी के आमरण अनशन के बाद संपन्न हुआ था।"
+      },
+      "explanation": {
+        "en": "The Poona Pact of September 1932 resolved the conflict between Gandhi and Ambedkar. It gave reserved seats to Depressed Classes in legislative councils but abandoned separate electorates.",
+        "hi": "सितंबर 1932 के पूना पैक्ट (पुणे समझौते) के द्वारा पृथक निर्वाचन मंडल की मांग को छोड़ दिया गया और दमित वर्गों को सामान्य सीटों के भीतर आरक्षण दिया गया।"
+      },
+      "key_takeaway": {
+        "en": "September 1932 Poona Pact = Joint electorate with reserved seats for Depressed Classes.",
+        "hi": "सितंबर 1932 पुणे समझौता = संयुक्त निर्वाचन मंडल के तहत दमित वर्गों के लिए सीटों का आरक्षण।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which leader of the Muslim League was willing to give up the demand for separate electorates in 1928 if Muslims were assured reserved seats in the Central Assembly?",
+        "hi": "1928 में मुस्लिम लीग के किस नेता ने पृथक निर्वाचन मंडल की मांग छोड़ने की पेशकश की थी, यदि मुसलमानों को केंद्रीय असेंबली में आरक्षित सीटें दी जाएं?"
+      },
+      "options": {
+        "a": {"en": "Sir Sayyid Ahmed Khan", "hi": "सर सैयद अहमद खान"},
+        "b": {"en": "Muhammad Ali Jinnah", "hi": "मोहम्मद अली जिन्ना"},
+        "c": {"en": "Agha Khan", "hi": "आगा खान"},
+        "d": {"en": "Abul Kalam Azad", "hi": "अब्दुल कलाम आजाद"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He later became the main proponent of a separate Muslim state and is known as the father of Pakistan.",
+        "hi": "वे आगे चलकर मुस्लिम लीग के सबसे प्रमुख प्रवक्ता बने और उन्हें पाकिस्तान का मुख्य संस्थापक माना जाता है।"
+      },
+      "explanation": {
+        "en": "Muhammad Ali Jinnah was willing to give up the demand for separate electorates if Muslims were assured reserved seats in the Central Assembly and representation in proportion to population in Muslim-majority provinces.",
+        "hi": "मोहम्मद अली जिन्ना अलग निर्वाचन मंडल की मांग छोड़ने के लिए तैयार थे बशर्ते केंद्रीय असेंबली में एक-तिहाई सीटें और मुस्लिम बहुल प्रांतों में आबादी के अनुपात में प्रतिनिधित्व मिले।"
+      },
+      "key_takeaway": {
+        "en": "1928 Negotiations = Jinnah's offer to drop separate electorates conditional on reservation.",
+        "hi": "1928 की कूटनीतिक वार्ता = आरक्षण मिलने की शर्त पर जिन्ना द्वारा पृथक निर्वाचन छोड़ने की पेशकश।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Who created the first visual image of Bharat Mata in the 19th century, and also wrote 'Vande Mataram' as a hymn to the motherland?",
+        "hi": "19वीं शताब्दी में भारत माता की पहली दृश्य छवि किसने बनाई थी, और मातृभूमि की स्तुति के रूप में 'वंदे मातरम' गीत भी लिखा था?"
+      },
+      "options": {
+        "a": {"en": "Rabindranath Tagore", "hi": "रवींद्रनाथ टैगोर"},
+        "b": {"en": "Bankim Chandra Chattopadhyay", "hi": "बंकीम चंद्र चट्टोपाध्याय"},
+        "c": {"en": "Abanindranath Tagore", "hi": "अवनिंद्रनाथ टैगोर"},
+        "d": {"en": "Ravi Varma", "hi": "रवि वर्मा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a famous Bengali influential novelist who included this song in his novel 'Anandamath'.",
+        "hi": "वे एक प्रसिद्ध बंगाली उपन्यासकार थे और उन्होंने इस गीत को अपने उपन्यास 'आनंदमठ' में शामिल किया था।"
+      },
+      "explanation": {
+        "en": "The identity of the Indian nation came to be visually associated with the image of Bharat Mata. The image was first created by Bankim Chandra Chattopadhyay, who also wrote 'Vande Mataram' in the 1870s.",
+        "hi": "भारत माता की पहली छवि बंकिम चंद्र चट्टोपाध्याय द्वारा तैयार की गई थी, जिन्होंने 1870 के दशक में 'वंदे मातरम' गीत लिखा था जो बाद में स्वतंत्रता सेनानियों का मुख्य मंत्र बना।"
+      },
+      "key_takeaway": {
+        "en": "Bankim Chandra = Creator of Bharat Mata icon and writer of Vande Mataram.",
+        "hi": "बंकिम चंद्र = भारत माता के मूल रूपक के निर्माता और वंदे मातरम के रचयिता।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Who published a massive four-volume collection of Tamil folktales, 'The Folklore of Southern India', believing that folklore was national literature?",
+        "hi": "मद्रास में 'द फोकलोर्स ऑफ सदर्न इंडिया' के नाम से चार खंडों में तमिल लोककथाओं का एक विशाल संग्रह किसने प्रकाशित किया, जिनका मानना था कि लोककथाएं राष्ट्रीय साहित्य होती हैं?"
+      },
+      "options": {
+        "a": {"en": "Subramania Bharati", "hi": "सुब्रमण्यम भारती"},
+        "b": {"en": "Natesa Sastri", "hi": "नटेसा शास्त्री"},
+        "c": {"en": "C. Rajagopalachari", "hi": "सी. राजगोपालाचारी"},
+        "d": {"en": "K. Kamaraj", "hi": "के. कामराज"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He believed that folklore was the most trustworthy manifestation of people's real thoughts and characteristics.",
+        "hi": "वे दक्षिण भारत के एक बड़े विद्वान थे जिनका मानना था कि लोककथाएं लोगों के वास्तविक विचारों की सबसे विश्वसनीय अभिव्यक्ति हैं।"
+      },
+      "explanation": {
+        "en": "In Madras, Natesa Sastri published a massive four-volume collection of Tamil folktales, The Folklore of Southern India. He believed that folklore was national literature and the manifestation of people's inner thoughts.",
+        "hi": "मद्रास (चेन्नई) में नटेसा शास्त्री ने तमिल लोककथाओं का संकलन किया। उनका दृढ़ विश्वास था कि राष्ट्रीय संस्कृति को बचाने के लिए लोक परंपराओं का संरक्षण आवश्यक है।"
+      },
+      "key_takeaway": {
+        "en": "Natesa Sastri = Compiled southern Indian folklore to boost national pride.",
+        "hi": "नटेसा शास्त्री = राष्ट्रीय गौरव बढ़ाने के लिए दक्षिण भारतीय लोककथाओं का संकलन करने वाले विद्वान।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "During the Swadeshi Movement in Bengal, a tricolor flag (red, green, and yellow) was designed. What did the eight lotuses on it represent?",
+        "hi": "बंगाल में स्वदेशी आंदोलन के दौरान एक तिरंगा झंडा (लाल, हरा और पीला) तैयार किया गया था। इस पर बने आठ कमल के फूल किसके प्रतीक थे?"
+      },
+      "options": {
+        "a": {"en": "Eight major rivers of India", "hi": "भारत की आठ प्रमुख नदियाँ"},
+        "b": {"en": "Eight provinces of British India", "hi": "ब्रिटिश भारत के आठ प्रांत"},
+        "c": {"en": "Eight principal religions of India", "hi": "भारत के आठ प्रमुख धर्म"},
+        "d": {"en": "Eight resolution principles of Congress", "hi": "कांग्रेस के आठ मूल संकल्प सिद्धांत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They represented the large administrative territorial divisions controlled by the British regime at that time.",
+        "hi": "ये फूल उस समय के ब्रिटिश भारत के बड़े प्रशासनिक और क्षेत्रीय सूबों को दर्शाते थे।"
+      },
+      "explanation": {
+        "en": "The tricolor flag designed during the Swadeshi movement in Bengal carried eight lotuses representing the eight provinces of British India, and a crescent moon representing Hindu-Muslim unity.",
+        "hi": "स्वदेशी आंदोलन के झंडे पर बने आठ कमल के फूल ब्रिटिश भारत के आठ प्रांतों (Provinces) का प्रतिनिधित्व करते थे और एक अर्धचंद्र हिंदू-मुस्लिम एकता का प्रतीक था।"
+      },
+      "key_takeaway": {
+        "en": "Swadeshi Flag = 8 lotuses representing 8 British Indian provinces.",
+        "hi": "स्वदेशी झंडा = ब्रिटिश भारत के आठ प्रांतों को दर्शाने वाले आठ कमल।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "By 1921, Mahatma Gandhi had designed the Swaraj flag. What did the 'spinning wheel' in the center symbolize?",
+        "hi": "1921 तक महात्मा गांधी ने भी एक स्वराज ध्वज तैयार कर लिया था। इसके केंद्र में बने 'चरखे' (Spinning Wheel) का पहिया किसका प्रतीक था?"
+      },
+      "options": {
+        "a": {"en": "Industrial revolution and machine age", "hi": "औद्योगिक क्रांति और मशीनी युग"},
+        "b": {"en": "The Gandhian ideal of self-help and self-reliance", "hi": "स्वावलंबन और आत्मनिर्भरता का गांधीवादी आदर्श"},
+        "c": {"en": "Rapid transport and modern connectivity", "hi": "तीव्र परिवहन और आधुनिक गतिशीलता"},
+        "d": {"en": "The cyclical nature of time in ancient history", "hi": "प्राचीन इतिहास में समय का चक्रवात रूप"},
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It represented manual labor and production of one's own cloth without depending on foreign mills.",
+        "hi": "यह प्रतीक दर्शाता था कि भारतीयों को अपने हाथों से श्रम करना चाहिए और विदेशी कपड़ों पर निर्भर नहीं रहना चाहिए।"
+      },
+      "explanation": {
+        "en": "By 1921, Gandhiji had designed the Swaraj flag. It was a tricolor (red, green and white) and had a spinning wheel in the center, representing the Gandhian ideal of self-help.",
+        "hi": "गांधीजी के स्वराज ध्वज के केंद्र में लगा चरखा कताई, श्रम के प्रति सम्मान और देश की आर्थिक आत्मनिर्भरता का सबसे बड़ा प्रतीक था।"
+      },
+      "key_takeaway": {
+        "en": "Spinning Wheel on Swaraj Flag = Symbol of self-reliance.",
+        "hi": "स्वराज ध्वज पर चरखा = आर्थिक आत्मनिर्भरता और स्वावलंबन का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "Under the Inland Emigration Act of 1859, what restriction was imposed on plantation workers in Assam?",
+        "hi": "1859 के अंतर्देशीय आप्रवासन अधिनियम (Inland Emigration Act) के तहत असम के बगान मजदूरों पर क्या प्रतिबंध लगाया गया था?"
+      },
+      "options": {
+        "a": {"en": "They were not permitted to leave the tea gardens without permission", "hi": "उन्हें बिना अनुमति के चाय बागानों को छोड़ने की इजाजत नहीं थी"},
+        "b": {"en": "They were barred from practicing their local religion", "hi": "उन्हें अपने स्थानीय धर्म का पालन करने से रोका गया था"},
+        "c": {"en": "They were forced to wear only western mill clothes", "hi": "उन्हें केवल पश्चिमी मिल के कपड़े पहनने के लिए मजबूर किया गया था"},
+        "d": {"en": "They were not allowed to marry without landlord's consent", "hi": "उन्हें जमींदार की सहमति के बिना विवाह करने की अनुमति नहीं थी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This law confined the workers inside the estates and they were rarely given permission to visit their home villages.",
+        "hi": "इस कानून ने मजदूरों की आवागमन की स्वतंत्रता छीन ली थी और उन्हें बागानों के भीतर एक तरह से बंधक बना दिया था।"
+      },
+      "explanation": {
+        "en": "Under the Inland Emigration Act of 1859, plantation workers were not permitted to leave the tea gardens without permission, and in fact they were rarely given such permission.",
+        "hi": "1859 के इस कड़े कानून के तहत बगान मजदूरों को बिना इजाजत चाय बागान से बाहर जाने की पूरी मनाही थी, और ऐसी अनुमति कभी-कभार ही मिलती थी।"
+      },
+      "key_takeaway": {
+        "en": "Inland Emigration Act 1859 = Plantation workers confined without freedom of movement.",
+        "hi": "1859 का अंतर्देशीय आप्रवासन अधिनियम = बगान मजदूरों की स्वतंत्रता पर दमनकारी प्रतिबंध।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "How did the British government respond to the peaceful satyagrahis during the Civil Disobedience Movement?",
+        "hi": "सविनय अवज्ञा आंदोलन के दौरान ब्रिटिश सरकार ने शांतिपूर्ण सत्याग्रहियों के प्रति क्या प्रतिक्रिया अपनाई थी?"
+      },
+      "options": {
+        "a": {"en": "They permitted peaceful rallies without intervention", "hi": "उन्होंने बिना किसी हस्तक्षेप के शांतिपूर्ण रैलियों की अनुमति दी"},
+        "b": {"en": "They responded with brutal repression, beating peaceful satyagrahis and arresting around 100,000 people", "hi": "उन्होंने बर्बर दमन चक्र चलाया, लाठियां बरसाईं और लगभग 1 लाख लोगों को गिरफ्तार किया"},
+        "c": {"en": "They immediately reduced taxes on all agricultural items", "hi": "उन्होंने तुरंत सभी कृषि वस्तुओं पर कर कम कर दिए"},
+        "d": {"en": "They agreed to replace Viceroy Irwin immediately", "hi": "वे वायसराय इरविन को तुरंत बदलने के लिए सहमत हो गए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Peaceful satyagrahis were attacked, women and children were beaten, and villages were raided to crush the morale.",
+        "hi": "सरकार ने आंदोलन को कुचलने के लिए अत्यधिक लाठीचार्ज किया, गांवों पर छापे मारे और महिलाओं तक को प्रताड़ित किया।"
+      },
+      "explanation": {
+        "en": "Worried by the development of Civil Disobedience, the colonial government responded with brutal repression. Peaceful satyagrahis were attacked, women and children were beaten and about 100,000 people were arrested.",
+        "hi": "सविनय अवज्ञा की व्यापकता से घबराकर ब्रिटिश सरकार ने हिंसक दमन शुरू किया। शांतिपूर्ण प्रदर्शनकारियों को पीटा गया और भारी संख्या में गिरफ्तारियां की गईं।"
+      },
+      "key_takeaway": {
+        "en": "Civil Disobedience Response = Brutal state violence and mass arrests of satyagrahis.",
+        "hi": "सविनय अवज्ञा पर सरकारी प्रतिक्रिया = बर्बर राजकीय हिंसा और सत्याग्रहियों की सामूहिक गिरफ्तारियां।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which famous national educational institution was established during the Non-Cooperation movement as a result of boycotting government colleges?",
+        "hi": "सरकारी कॉलेजों के बहिष्कार के परिणामस्वरूप असहयोग आंदोलन के दौरान किस प्रसिद्ध राष्ट्रीय शैक्षणिक संस्थान की स्थापना की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Aligarh Muslim University", "hi": "अलीगढ़ मुस्लिम विश्वविद्यालय"},
+        "b": {"en": "Jamia Millia Islamia", "hi": "जामिया मिलिया इस्लामिया"},
+        "c": {"en": "Banaras Hindu University", "hi": "बनारस हिंदू विश्वविद्यालय"},
+        "d": {"en": "Jawaharlal Nehru University", "hi": "जवाहरलाल नेहरू विश्वविद्यालय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was originally established at Aligarh by nationalist leaders and later shifted to Delhi.",
+        "hi": "यह विश्वविद्यालय मूल रूप से राष्ट्रवादियों द्वारा अलीगढ़ में स्थापित हुआ था और बाद में इसे दिल्ली स्थानांतरित किया गया।"
+      },
+      "explanation": {
+        "en": "As thousands of students left government-controlled schools and colleges, new nationalist institutions like the Jamia Millia Islamia (originally at Aligarh, later shifted to Delhi), Kashi Vidyapeeth, and Bihar Vidyapeeth were established.",
+        "hi": "असहयोग के दौरान छात्रों ने सरकारी कॉलेजों को छोड़ दिया, जिसके बाद राष्ट्रवादियों ने 'जामिया मिलिया इस्लामिया' और 'काशी विद्यापीठ' जैसे स्वदेशी राष्ट्रीय शिक्षा केंद्रों की नींव रखी।"
+      },
+      "key_takeaway": {
+        "en": "Non-Cooperation Movement = Birth of alternative national educational setups like Jamia Millia.",
+        "hi": "असहयोग आंदोलन = जामिया मिलिया जैसे वैकल्पिक राष्ट्रीय शैक्षणिक संस्थानों का उदय।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which famous Urdu poet and thinker, as the president of the Muslim League in 1930, strongly advocated for a separate political identity for Muslims?",
+        "hi": "1930 में मुस्लिम लीग के अध्यक्ष के रूप में, किस प्रसिद्ध उर्दू कवि और विचारक ने मुसलमानों के लिए एक अलग राजनीतिक पहचान के विचार का पुरजोर समर्थन किया था?"
+      },
+      "options": {
+        "a": {"en": "Sir Muhammad Iqbal", "hi": "सर मोहम्मद इकबाल"},
+        "b": {"en": "Mirza Ghalib", "hi": "मिर्जा गालिब"},
+        "c": {"en": "Sir Sayyid Ahmed Khan", "hi": "सर सैयद अहमद खान"},
+        "d": {"en": "Khan Abdul Ghaffar Khan", "hi": "खान अब्दुल गफ्फार खान"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He is highly celebrated for writing the famous patriotic poem 'Sare Jahan Se Achha'.",
+        "hi": "वे अपनी प्रसिद्ध देशभक्ति कविता 'सारे जहाँ से अच्छा हिन्दोस्ताँ हमारा' लिखने के लिए भी जाने जाते हैं।"
+      },
+      "explanation": {
+        "en": "In 1930, Sir Muhammad Iqbal, as president of the Muslim League, reiterated the importance of separate electorates and a separate political-territorial safeguards for Muslims in undivided India.",
+        "hi": "1930 में मुस्लिम लीग के इलाहबाद अधिवेशन में अपने अध्यक्षीय भाषण में कवि मोहम्मद इकबाल ने मुस्लिम हितों के लिए अलग स्वायत्त राजनीतिक ढांचे की मांग उठाई थी।"
+      },
+      "key_takeaway": {
+        "en": "1930 Muslim League Speech = Sir Muhammad Iqbal emphasizes distinct Muslim political safeguards.",
+        "hi": "1930 मुस्लिम लीग भाषण = सर मोहम्मद इकबाल द्वारा मुस्लिम राजनीतिक सुरक्षा उपायों पर जोर।"
+      }
+    }
+  ]
+}
