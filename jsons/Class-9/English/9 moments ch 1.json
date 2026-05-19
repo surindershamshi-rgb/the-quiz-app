@@ -1,0 +1,440 @@
+{
+"metadata": {
+"chapter_number": 1,
+"chapter_title": "The Lost Child",
+"chapter_title_hindi": "द लॉस्ट चाइल्ड (खोया हुआ बच्चा)",
+"subject": "English (Moments) - Class 9",
+"board": "HPBOSE (NCERT)",
+"total_questions": 30,
+"version": "1.0",
+"naming_convention": "9th_English_Moments_Ch1_TheLostChild_30MCQ.json"
+},
+"validation_report": {
+"is_valid": true,
+"checked_by": "AI Tutor",
+"checked_at": "2026-05-20T00:15:00Z",
+"notes": "Verified complete set of 30 bilingual questions covering all plot transitions of The Lost Child."
+},
+"questions": [
+{
+"question_id": 1,
+"question": {
+"en": "What was the season at the beginning of the story?",
+"hi": "कहानी की शुरुआत में कौन सा मौसम था?"
+},
+"options": {
+"a": {"en": "Winter", "hi": "सर्दियाँ"},
+"b": {"en": "Spring", "hi": "वसंत"},
+"c": {"en": "Autumn", "hi": "पतझड़"},
+"d": {"en": "Summer", "hi": "गर्मी"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 2,
+"question": {
+"en": "Where were the people going in the story?",
+"hi": "कहानी में लोग कहाँ जा रहे थे?"
+},
+"options": {
+"a": {"en": "To a temple", "hi": "मंदिर"},
+"b": {"en": "To a wedding", "hi": "शादी"},
+"c": {"en": "To a spring fair", "hi": "वसंत मेले"},
+"d": {"en": "To a school function", "hi": "स्कूल समारोह"}
+},
+"correct_option": "c"
+},
+{
+"question_id": 3,
+"question": {
+"en": "What was the child's initial desire at the fair?",
+"hi": "मेले में बच्चे की पहली इच्छा क्या थी?"
+},
+"options": {
+"a": {"en": "To ride the swing", "hi": "झूला झूलना"},
+"b": {"en": "To buy toys", "hi": "खिलौने खरीदना"},
+"c": {"en": "To eat sweets", "hi": "मिठाई खाना"},
+"d": {"en": "To play with butterflies", "hi": "तितलियों के साथ खेलना"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 4,
+"question": {
+"en": "How did the father react to the child's desire for toys?",
+"hi": "खिलौनों की इच्छा पर पिता की क्या प्रतिक्रिया थी?"
+},
+"options": {
+"a": {"en": "He bought it", "hi": "उन्होंने खरीद लिया"},
+"b": {"en": "He looked at him with a tyrant's eyes", "hi": "उन्होंने तानाशाह जैसी नज़रों से देखा"},
+"c": {"en": "He laughed", "hi": "वे हँसे"},
+"d": {"en": "He ignored him", "hi": "उन्होंने अनदेखा कर दिया"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 5,
+"question": {
+"en": "What did the mother do to distract the child?",
+"hi": "बच्चे का ध्यान भटकाने के लिए माँ ने क्या किया?"
+},
+"options": {
+"a": {"en": "She gave him a toy", "hi": "उन्होंने खिलौना दिया"},
+"b": {"en": "She pointed to the mustard field", "hi": "उन्होंने सरसों के खेत की ओर इशारा किया"},
+"c": {"en": "She sang a song", "hi": "उन्होंने गाना गाया"},
+"d": {"en": "She bought him sweets", "hi": "उन्होंने मिठाई दिलाई"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 6,
+"question": {
+"en": "What did the child see in the mustard field?",
+"hi": "बच्चे ने सरसों के खेत में क्या देखा?"
+},
+"options": {
+"a": {"en": "Dragonflies", "hi": "ड्रैगनफ्लाई"},
+"b": {"en": "Snakes", "hi": "साँप"},
+"c": {"en": "Flowers only", "hi": "सिर्फ फूल"},
+"d": {"en": "A bird's nest", "hi": "पक्षी का घोंसला"}
+},
+"correct_option": "a"
+},
+{
+"question_id": 7,
+"question": {
+"en": "What fell on the child as he entered the grove?",
+"hi": "उपवन (grove) में प्रवेश करते ही बच्चे पर क्या गिरा?"
+},
+"options": {
+"a": {"en": "Rain drops", "hi": "बारिश की बूंदें"},
+"b": {"en": "Flower petals", "hi": "फूलों की पंखुड़ियाँ"},
+"c": {"en": "Dry leaves", "hi": "सूखी पत्तियाँ"},
+"d": {"en": "Dust", "hi": "धूल"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 8,
+"question": {
+"en": "What sound did the child hear in the grove?",
+"hi": "बच्चे ने उपवन में कौन सी आवाज़ सुनी?"
+},
+"options": {
+"a": {"en": "Doves", "hi": "फाख्ता (कबूतरों) की"},
+"b": {"en": "Crows", "hi": "कौवों की"},
+"c": {"en": "Parrots", "hi": "तोतों की"},
+"d": {"en": "Music", "hi": "संगीत की"}
+},
+"correct_option": "a"
+},
+{
+"question_id": 9,
+"question": {
+"en": "What was the child's favorite sweet?",
+"hi": "बच्चे की पसंदीदा मिठाई कौन सी थी?"
+},
+"options": {
+"a": {"en": "Gulab Jamun", "hi": "गुलाब जामुन"},
+"b": {"en": "Rasgulla", "hi": "रसगुल्ला"},
+"c": {"en": "Barfi", "hi": "बर्फी"},
+"d": {"en": "Jalebi", "hi": "जलेबी"}
+},
+"correct_option": "c"
+},
+{
+"question_id": 10,
+"question": {
+"en": "Why did the child move on without waiting for an answer at the sweet shop?",
+"hi": "मिठाई की दुकान पर जवाब का इंतज़ार किए बिना बच्चा आगे क्यों बढ़ गया?"
+},
+"options": {
+"a": {"en": "He wasn't hungry", "hi": "उसे भूख नहीं थी"},
+"b": {"en": "He knew his parents would refuse", "hi": "उसे पता था कि माता-पिता मना कर देंगे"},
+"c": {"en": "He saw a toy", "hi": "उसने खिलौना देखा"},
+"d": {"en": "He was scared", "hi": "वह डर गया था"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 11,
+"question": {
+"en": "What was the flower seller selling?",
+"hi": "फूल बेचने वाला क्या बेच रहा था?"
+},
+"options": {
+"a": {"en": "Roses", "hi": "गुलाब"},
+"b": {"en": "Gulmohur", "hi": "गुलमोहर"},
+"c": {"en": "Marigold", "hi": "गेंदा"},
+"d": {"en": "Lotus", "hi": "कमल"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 12,
+"question": {
+"en": "What caught the child's attention near the entrance of the fair?",
+"hi": "मेले के प्रवेश द्वार के पास बच्चे का ध्यान किसने खींचा?"
+},
+"options": {
+"a": {"en": "A flute player", "hi": "बांसुरी वादक"},
+"b": {"en": "A snake charmer", "hi": "सपेरा"},
+"c": {"en": "A magician", "hi": "जादूगर"},
+"d": {"en": "A juggler", "hi": "बाजीगर"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 13,
+"question": {
+"en": "Why did the child stop before the snake charmer?",
+"hi": "बच्चा सपेरे के सामने क्यों रुका?"
+},
+"options": {
+"a": {"en": "To see the snake", "hi": "साँप देखने के लिए"},
+"b": {"en": "To hear the music", "hi": "संगीत सुनने के लिए"},
+"c": {"en": "To give money", "hi": "पैसे देने के लिए"},
+"d": {"en": "Both a and b", "hi": "a और b दोनों"}
+},
+"correct_option": "d"
+},
+{
+"question_id": 14,
+"question": {
+"en": "What did the child do at the roundabout?",
+"hi": "बच्चे ने गोल झूले पर क्या किया?"
+},
+"options": {
+"a": {"en": "He rode it", "hi": "उसने सवारी की"},
+"b": {"en": "He asked his parents to let him ride", "hi": "उसने माता-पिता से सवारी करने को कहा"},
+"c": {"en": "He ran away", "hi": "वह भाग गया"},
+"d": {"en": "He stood silent", "hi": "वह चुप खड़ा रहा"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 15,
+"question": {
+"en": "When did the child realize his parents were not with him?",
+"hi": "बच्चे को कब एहसास हुआ कि उसके माता-पिता उसके साथ नहीं हैं?"
+},
+"options": {
+"a": {"en": "While eating sweets", "hi": "मिठाई खाते समय"},
+"b": {"en": "When he turned to ask for the ride", "hi": "जब वह सवारी के लिए पूछने मुड़ा"},
+"c": {"en": "While playing", "hi": "खेलते समय"},
+"d": {"en": "At the entrance", "hi": "प्रवेश द्वार पर"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 16,
+"question": {
+"en": "What was the child's reaction when he didn't find his parents?",
+"hi": "जब उसे माता-पिता नहीं मिले तो बच्चे की क्या प्रतिक्रिया थी?"
+},
+"options": {
+"a": {"en": "He started laughing", "hi": "वह हँसने लगा"},
+"b": {"en": "He started crying", "hi": "वह रोने लगा"},
+"c": {"en": "He sat down", "hi": "वह बैठ गया"},
+"d": {"en": "He kept walking", "hi": "वह चलता रहा"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 17,
+"question": {
+"en": "Where did the child run in search of his parents?",
+"hi": "माता-पिता की तलाश में बच्चा कहाँ भागा?"
+},
+"options": {
+"a": {"en": "Toward the shrine", "hi": "मंदिर की ओर"},
+"b": {"en": "Toward the exit", "hi": "बाहर की ओर"},
+"c": {"en": "Toward the trees", "hi": "पेड़ों की ओर"},
+"d": {"en": "Toward the field", "hi": "खेत की ओर"}
+},
+"correct_option": "a"
+},
+{
+"question_id": 18,
+"question": {
+"en": "Who helped the child in the crowd?",
+"hi": "भीड़ में बच्चे की मदद किसने की?"
+},
+"options": {
+"a": {"en": "A policeman", "hi": "पुलिसकर्मी"},
+"b": {"en": "A kind stranger", "hi": "दयालु अजनबी"},
+"c": {"en": "His teacher", "hi": "अध्यापक"},
+"d": {"en": "A vendor", "hi": "विक्रेता"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 19,
+"question": {
+"en": "What did the man offer to calm the child?",
+"hi": "बच्चे को शांत करने के लिए उस आदमी ने क्या ऑफर किया?"
+},
+"options": {
+"a": {"en": "Sweets", "hi": "मिठाई"},
+"b": {"en": "Balloon", "hi": "गुब्बारा"},
+"c": {"en": "A ride on the roundabout", "hi": "झूले की सवारी"},
+"d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+},
+"correct_option": "d"
+},
+{
+"question_id": 20,
+"question": {
+"en": "What was the child's reply to every offer made by the stranger?",
+"hi": "अजनबी द्वारा दिए गए हर ऑफर पर बच्चे का क्या जवाब था?"
+},
+"options": {
+"a": {"en": "Yes, please", "hi": "हाँ, कृपया"},
+"b": {"en": "I want my mother, I want my father", "hi": "मुझे मेरी माँ चाहिए, मुझे मेरे पिता चाहिए"},
+"c": {"en": "Thank you", "hi": "शुक्रिया"},
+"d": {"en": "I am hungry", "hi": "मुझे भूख लगी है"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 21,
+"question": {
+"en": "How did the child feel while going to the fair?",
+"hi": "मेले में जाते समय बच्चा कैसा महसूस कर रहा था?"
+},
+"options": {
+"a": {"en": "Sad", "hi": "उदास"},
+"b": {"en": "Angry", "hi": "गुस्सा"},
+"c": {"en": "Happy and excited", "hi": "खुश और उत्साहित"},
+"d": {"en": "Scared", "hi": "डरा हुआ"}
+},
+"correct_option": "c"
+},
+{
+"question_id": 22,
+"question": {
+"en": "Who told the child to look at the mustard field?",
+"hi": "बच्चे को सरसों के खेत की ओर देखने के लिए किसने कहा?"
+},
+"options": {
+"a": {"en": "Father", "hi": "पिता"},
+"b": {"en": "Mother", "hi": "माँ"},
+"c": {"en": "A friend", "hi": "दोस्त"},
+"d": {"en": "No one", "hi": "कोई नहीं"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 23,
+"question": {
+"en": "What color were the dragonflies?",
+"hi": "ड्रैगनफ्लाई किस रंग की थी?"
+},
+"options": {
+"a": {"en": "Red", "hi": "लाल"},
+"b": {"en": "Blue", "hi": "नीली"},
+"c": {"en": "Yellow", "hi": "पीली"},
+"d": {"en": "Green", "hi": "हरी"}
+},
+"correct_option": "c"
+},
+{
+"question_id": 24,
+"question": {
+"en": "What did the child want to catch in the field?",
+"hi": "खेत में बच्चा किसे पकड़ना चाहता था?"
+},
+"options": {
+"a": {"en": "Butterfly", "hi": "तितली"},
+"b": {"en": "Dragonfly", "hi": "ड्रैगनफ्लाई"},
+"c": {"en": "Bee", "hi": "मधुमक्खी"},
+"d": {"en": "Bird", "hi": "पक्षी"}
+},
+"correct_option": "a"
+},
+{
+"question_id": 25,
+"question": {
+"en": "What happened to the child's clothes while playing?",
+"hi": "खेलते समय बच्चे के कपड़ों का क्या हुआ?"
+},
+"options": {
+"a": {"en": "They got dirty", "hi": "वे गंदे हो गए"},
+"b": {"en": "They got torn", "hi": "वे फट गए"},
+"c": {"en": "They were lost", "hi": "वे खो गए"},
+"d": {"en": "Nothing", "hi": "कुछ नहीं"}
+},
+"correct_option": "a"
+},
+{
+"question_id": 26,
+"question": {
+"en": "Who called the child from the shade of the grove?",
+"hi": "उपवन की छाया से बच्चे को किसने बुलाया?"
+},
+"options": {
+"a": {"en": "Father", "hi": "पिता"},
+"b": {"en": "Mother", "hi": "माँ"},
+"c": {"en": "Stranger", "hi": "अजनबी"},
+"d": {"en": "Vendor", "hi": "विक्रेता"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 27,
+"question": {
+"en": "What was the child's reaction to the balloon seller?",
+"hi": "गुब्बारे वाले को देखकर बच्चे की क्या प्रतिक्रिया थी?"
+},
+"options": {
+"a": {"en": "He bought all", "hi": "उसने सब खरीद लिए"},
+"b": {"en": "He knew his parents wouldn't buy them", "hi": "उसे पता था कि माता-पिता नहीं खरीदेंगे"},
+"c": {"en": "He cried", "hi": "वह रोया"},
+"d": {"en": "He ran away", "hi": "वह भाग गया"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 28,
+"question": {
+"en": "Why was the child separated from his parents?",
+"hi": "बच्चा अपने माता-पिता से अलग क्यों हो गया?"
+},
+"options": {
+"a": {"en": "He ran away", "hi": "वह भाग गया"},
+"b": {"en": "He was attracted by the roundabout", "hi": "वह झूले की ओर आकर्षित हो गया"},
+"c": {"en": "His parents left him", "hi": "माता-पिता ने उसे छोड़ दिया"},
+"d": {"en": "He was playing", "hi": "वह खेल रहा था"}
+},
+"correct_option": "b"
+},
+{
+"question_id": 29,
+"question": {
+"en": "What was the name of the author?",
+"hi": "लेखक का क्या नाम है?"
+},
+"options": {
+"a": {"en": "Mulk Raj Anand", "hi": "मुल्क राज आनंद"},
+"b": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+"c": {"en": "R.K. Narayan", "hi": "आर.के. नारायण"},
+"d": {"en": "Premchand", "hi": "प्रेमचंद"}
+},
+"correct_option": "a"
+},
+{
+"question_id": 30,
+"question": {
+"en": "What is the theme of the story?",
+"hi": "कहानी का मुख्य विषय (theme) क्या है?"
+},
+"options": {
+"a": {"en": "Child's love for parents", "hi": "बच्चे का माता-पिता के प्रति प्रेम"},
+"b": {"en": "A fair", "hi": "मेला"},
+"c": {"en": "Lost and found", "hi": "खोना और मिलना"},
+"d": {"en": "Child's greed", "hi": "बच्चे का लालच"}
+},
+"correct_option": "a"
+}
+]
+}
