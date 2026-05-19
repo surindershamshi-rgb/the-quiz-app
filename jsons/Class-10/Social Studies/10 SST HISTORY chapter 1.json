@@ -5,15 +5,15 @@
     "chapter_title_hindi": "यूरोप में राष्ट्रवाद का उदय",
     "subject": "History (India and the Contemporary World - II) - Class 10",
     "board": "HPBOSE (NCERT)",
-    "total_questions": 10,
+    "total_questions": 30,
     "version": "1.0",
-    "naming_convention": "10th_History_Ch1_RiseOfNationalism_10MCQ.json"
+    "naming_convention": "10th_History_Ch1_RiseOfNationalism_30MCQ.json"
   },
   "validation_report": {
     "is_valid": true,
     "checked_by": "AI Tutor",
-    "checked_at": "2026-05-19T22:00:00Z",
-    "notes": "Verified bilingual accuracy, key historical terms, and structured JSON schema for Class 10 Social Science."
+    "checked_at": "2026-05-19T22:30:00Z",
+    "notes": "Verified bilingual consistency, absolute JSON verification, precise distractors, and complete content coverage from Sorrieu's prints to the Balkan crisis."
   },
   "questions": [
     {
@@ -274,6 +274,526 @@
       "key_takeaway": {
         "en": "1861 = Victor Emmanuel II becomes King of United Italy.",
         "hi": "1861 = विक्टर इमैनुएल द्वितीय एकीकृत इटली के राजा बने।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which famous statement is attributed to Duke Metternich regarding the political influence of France?",
+        "hi": "फ्रांस के राजनीतिक प्रभाव के संबंध में ड्यूक मेटरनिख का कौन सा प्रसिद्ध कथन है?"
+      },
+      "options": {
+        "a": {"en": "Liberty, Equality, Fraternity", "hi": "स्वतंत्रता, समानता, बंधुत्व"},
+        "b": {"en": "When France sneezes, the rest of Europe catches cold", "hi": "जब फ्रांस छींकता है, तो बाकी यूरोप को जुकाम हो जाता है"},
+        "c": {"en": "Blood and Iron is the only way", "hi": "रक्त और लौह ही एकमात्र रास्ता है"},
+        "d": {"en": "God has intended nations to be natural units", "hi": "ईश्वर की इच्छा थी कि राष्ट्र ही प्राकृतिक इकाइयाँ बनें"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This statement highlights how revolutionary events in France quickly spread to neighboring European states.",
+        "hi": "यह कथन दर्शाता है कि कैसे फ्रांस की क्रांतिकारी घटनाएं तेजी से पड़ोसी यूरोपीय राज्यों में फैल जाती थीं।"
+      },
+      "explanation": {
+        "en": "Austrian Chancellor Duke Metternich remarked, 'When France sneezes, the rest of Europe catches cold,' seeing how the July Revolution in Paris triggered uprisings across Europe.",
+        "hi": "ऑस्ट्रिया के चांसलर मेटरनिख ने फ्रांस की क्रांतियों के प्रभाव को देखकर कहा था कि फ्रांस में होने वाली हलचल पूरे यूरोप को प्रभावित करती है।"
+      },
+      "key_takeaway": {
+        "en": "Metternich's quote reflects France's central role in European revolutions.",
+        "hi": "मेटरनिख का यह कथन यूरोप में फ्रांस के क्रांतिकारी प्रभुत्व को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What was the main purpose of the Treaty of Vienna signed in 1815?",
+        "hi": "1815 में हस्ताक्षरित वियना संधि का मुख्य उद्देश्य क्या था?"
+      },
+      "options": {
+        "a": {"en": "To support democratic movements in Europe", "hi": "यूरोप में लोकतांत्रिक आंदोलनों का समर्थन करना"},
+        "b": {"en": "To undo most of the changes brought by Napoleonic wars", "hi": "नेपोलियन के युद्धों द्वारा लाए गए अधिकांश बदलावों को खत्म करना"},
+        "c": {"en": "To divide Germany among Britain and Russia", "hi": "जर्मनी को ब्रिटेन और रूस के बीच विभाजित करना"},
+        "d": {"en": "To declare France as the permanent superpower", "hi": "फ्रांस को स्थायी महाशक्ति घोषित करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It aimed to restore Bourbon dynasty and establish a conservative order in Europe.",
+        "hi": "इसका उद्देश्य बुर्बो राजवंश को बहाल करना और यूरोप में एक रूढ़िवादी व्यवस्था स्थापित करना था।"
+      },
+      "explanation": {
+        "en": "The main object of the Treaty of Vienna (1815) was to undo most of the changes that had come about in Europe during the Napoleonic Wars and restore absolute monarchies.",
+        "hi": "वियना संधि का मुख्य लक्ष्य उन राजतंत्रों को बहाल करना था जिन्हें नेपोलियन ने हटा दिया था और यूरोप में एक नया रूढ़िवादी संतुलन बनाना था।"
+      },
+      "key_takeaway": {
+        "en": "1815 Treaty of Vienna = Restoration of conservative monarchies.",
+        "hi": "1815 वियना संधि = रूढ़िवादी राजशाही की पुनर्स्थापना।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which dynasty was restored to power in France after the fall of Napoleon in 1815?",
+        "hi": "1815 में नेपोलियन के पतन के बाद फ्रांस में किस राजवंश को फिर से सत्ता सौंपी गई थी?"
+      },
+      "options": {
+        "a": {"en": "Habsburg Dynasty", "hi": "हैब्सबर्ग राजवंश"},
+        "b": {"en": "Bourbon Dynasty", "hi": "बुर्बो राजवंश"},
+        "c": {"en": "Romanov Dynasty", "hi": "रोमानोव राजवंश"},
+        "d": {"en": "Tudor Dynasty", "hi": "ट्यूडर राजवंश"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This dynasty was originally deposed during the French Revolution of 1789.",
+        "hi": "इस राजवंश को मूल रूप से 1789 की फ्रांसीसी क्रांति के दौरान गद्दी से हटा दिया गया था।"
+      },
+      "explanation": {
+        "en": "The Bourbon dynasty, which had been deposed during the French Revolution, was restored to power after the conservative settlement of the Treaty of Vienna in 1815.",
+        "hi": "फ्रांसीसी क्रांति के दौरान हटाए गए बुर्बो राजवंश को 1815 की वियना संधि के निर्णयों के तहत दोबारा फ्रांस की गद्दी सौंपी गई।"
+      },
+      "key_takeaway": {
+        "en": "Post-Napoleon France = Restoration of Bourbon Dynasty.",
+        "hi": "नेपोलियन के बाद का फ्रांस = बुर्बो राजवंश की वापसी।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "How did Duke Metternich describe Giuseppe Mazzini?",
+        "hi": "ड्यूक मेटरनिख ने जूत्सेपे मेत्सिनी का वर्णन किस रूप में किया था?"
+      },
+      "options": {
+        "a": {"en": "The savior of European monarchy", "hi": "यूरोपीय राजशाही का रक्षक"},
+        "b": {"en": "The most dangerous enemy of our social order", "hi": "हमारी सामाजिक व्यवस्था का सबसे खतरनाक दुश्मन"},
+        "c": {"en": "The chief architect of German glory", "hi": "जर्मन गौरव का मुख्य वास्तुकार"},
+        "d": {"en": "The peaceful poet of Italy", "hi": "इटली के शांतिप्रिय कवि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Metternich feared Mazzini's relentless opposition to monarchy and his vision of democratic republics.",
+        "hi": "मेटरनिख मेत्सिनी के राजतंत्र-विरोधी और लोकतांत्रिक विचारों से अत्यधिक भयभीत था।"
+      },
+      "explanation": {
+        "en": "Metternich described Mazzini as 'the most dangerous enemy of our social order' because of Mazzini's fierce rejection of absolute monarchy and creation of underground revolutionary networks.",
+        "hi": "मेटरनिख ने जूत्सेपे मेत्सिनी के क्रांतिकारी विचारों से डरकर उन्हें 'हमारी सामाजिक व्यवस्था का सबसे खतरनाक दुश्मन' कहा था।"
+      },
+      "key_takeaway": {
+        "en": "Mazzini = Viewed by conservatives as a severe threat to monarchical order.",
+        "hi": "मेत्सिनी = रूढ़िवादी राजशाही व्यवस्था के लिए एक बड़ा खतरा।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What does the term 'Romanticism' refer to in the context of 19th-century European nationalism?",
+        "hi": "19वीं शताब्दी के यूरोपीय राष्ट्रवाद के संदर्भ में 'रोमानीवाद' (Romanticism) का क्या अर्थ है?"
+      },
+      "options": {
+        "a": {"en": "A scientific movement emphasizing industrial progress", "hi": "औद्योगिक प्रगति पर जोर देने वाला एक वैज्ञानिक आंदोलन"},
+        "b": {"en": "A cultural movement seeking to develop a particular form of nationalist sentiment", "hi": "एक सांस्कृतिक आंदोलन जो खास तरह की राष्ट्रीय भावना का विकास करना चाहता था"},
+        "c": {"en": "A military strategy used to conquer territorial states", "hi": "क्षेत्रीय राज्यों को जीतने के लिए इस्तेमाल की जाने वाली एक सैन्य रणनीति"},
+        "d": {"en": "A religious campaign led by the Pope to unite Europe", "hi": "यूरोप को एकजुट करने के लिए पोप के नेतृत्व में चलाया गया एक धार्मिक अभियान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It criticized glorification of reason and science, focusing instead on emotions, intuition, and mystical feelings.",
+        "hi": "यह आंदोलन विज्ञान और तर्क के बजाय भावनाओं, कला, कविता और रहस्यवादी भावनाओं पर जोर देता था।"
+      },
+      "explanation": {
+        "en": "Romanticism was a cultural movement that criticized pure reason and instead used art, poetry, folk stories, and music to create a sense of a shared collective heritage as the basis of a nation.",
+        "hi": "रोमानीवाद एक ऐसा सांस्कृतिक आंदोलन था जिसने विज्ञान और तर्क के स्थान पर कला, लोक कथाओं और संस्कृति के माध्यम से साझा राष्ट्रीय पहचान पर बल दिया।"
+      },
+      "key_takeaway": {
+        "en": "Romanticism = Cultural nationalism driven by art, language, and emotion.",
+        "hi": "रोमानीवाद = कला, भाषा और भावनाओं से प्रेरित सांस्कृतिक राष्ट्रवाद।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "How did the German philosopher Johann Gottfried Herder believe the true German culture was to be discovered?",
+        "hi": "जर्मन दार्शनिक योहान गॉटफ्रीड हेडर का क्या मानना था कि सच्चे जर्मन राष्ट्र की आत्मा को कहाँ खोजा जा सकता है?"
+      },
+      "options": {
+        "a": {"en": "Through strict military discipline and drills", "hi": "कड़े सैन्य अनुशासन और अभ्यासों के माध्यम से"},
+        "b": {"en": "Among the common people through folk songs, folk poetry, and folk dances", "hi": "आम जनता ('दास वोल्क') में लोक गीतों, जन-काव्य और लोक नृत्यों के माध्यम से"},
+        "c": {"en": "By copying French administrative reforms and language", "hi": "फ्रांसीसी प्रशासनिक सुधारों और भाषा की नकल करके"},
+        "d": {"en": "In the royal courts of Prussian monarchs", "hi": "प्रसा के राजाओं के शाही दरबारों में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He popularized terms like 'Das Volk' and 'Volksgeist' to represent the collective spirit of common masses.",
+        "hi": "उन्होंने आम लोगों की संस्कृति को प्रकट करने के लिए 'Das Volk' जैसे शब्दों का प्रयोग किया था।"
+      },
+      "explanation": {
+        "en": "Johann Gottfried Herder claimed that true German culture was to be discovered among the common people ('das Volk') and that it was through folk songs, poetry, and dances that the true spirit of the nation ('Volksgeist') was popularized.",
+        "hi": "योहान गॉटफ्रीड जैसे रोमानी विचारकों का दावा था कि सच्ची जर्मन संस्कृति वहाँ के आम लोगों में निहित थी, जिसे लोक कलाओं से ही प्रकट किया जा सकता था।"
+      },
+      "key_takeaway": {
+        "en": "Johann Gottfried Herder = Championed folk culture as the true essence of a nation.",
+        "hi": "योहान गॉटफ्रीड हेडर = लोक संस्कृति को राष्ट्र की वास्तविक आत्मा मानने वाले विचारक।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Why are the 1830s called the years of great economic hardship in Europe?",
+        "hi": "1830 के दशक को यूरोप में 'भारी आर्थिक कठिनाइयों का दौर' क्यों कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Enormous increase in population and widespread unemployment", "hi": "जनसंख्या में भारी वृद्धि और व्यापक बेरोजगारी के कारण"},
+        "b": {"en": "Discovery of gold mines leading to extreme deflation", "hi": "सोने की खदानों की खोज से अत्यधिक मंदी के कारण"},
+        "c": {"en": "A complete ban on trade with countries outside Europe", "hi": "यूरोप के बाहर के देशों के साथ व्यापार पर पूर्ण प्रतिबंध के कारण"},
+        "d": {"en": "Massive reduction in the urban workforce", "hi": "शहरी कार्यबल में भारी कमी के कारण"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Population rose rapidly, jobs were scarce, and cheaper machine-made imports from England challenged local artisans.",
+        "hi": "इस दौर में आबादी बहुत तेजी से बढ़ी, नौकरियां कम थीं और फसलों की बर्बादी से भुखमरी फैल गई थी।"
+      },
+      "explanation": {
+        "en": "The first half of the nineteenth century saw an enormous increase in population in Europe. In most countries, there were more seekers of jobs than employment, forcing mass migration to overcrowded slums.",
+        "hi": "1830 का दशक यूरोप में भारी जनसंख्या वृद्धि, बेरोजगारी, ग्रामीण क्षेत्रों से पलायन और फसलों के खराब होने के कारण घोर आर्थिक संकट का दौर था।"
+      },
+      "key_takeaway": {
+        "en": "1830s Economic Hardship = High population growth, scarce employment, and peasant distress.",
+        "hi": "1830 का दशक = अत्यधिक बेरोजगारी, जनसंख्या वृद्धि और किसान संकट।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Where did the 831 elected representatives march to take their places in the Frankfurt Parliament on 18 May 1848?",
+        "hi": "18 मई 1848 को 831 निर्वाचित प्रतिनिधियों ने फ्रैंकफर्ट संसद में अपना स्थान ग्रहण करने के लिए कहाँ मार्च किया था?"
+      },
+      "options": {
+        "a": {"en": "Palace of Versailles", "hi": "वर्साय का महल"},
+        "b": {"en": "Church of St Paul", "hi": "सेंट पॉल चर्च"},
+        "c": {"en": "The Reichstag Building", "hi": "राइखस्टाग भवन"},
+        "d": {"en": "The Hofburg Palace", "hi": "होफबर्ग महल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This historic German National Assembly met inside a famous church located in Frankfurt.",
+        "hi": "यह ऐतिहासिक जर्मन नेशनल असेंबली फ्रैंकफर्ट में स्थित एक प्रसिद्ध चर्च के भीतर आयोजित की गई थी।"
+      },
+      "explanation": {
+        "en": "On 18 May 1848, 831 elected representatives marched in a festive procession to take their places in the Frankfurt Parliament, convened in the Church of St Paul.",
+        "hi": "18 मई 1848 को 831 निर्वाचित प्रतिनिधियों ने फ्रैंकफर्ट के सेंट पॉल चर्च (St Paul's Church) में आयोजित फ्रैंकफर्ट संसद में अपना स्थान ग्रहण किया था।"
+      },
+      "key_takeaway": {
+        "en": "1848 Frankfurt Parliament = Held inside Church of St Paul.",
+        "hi": "1848 फ्रैंकफर्ट संसद = सेंट पॉल चर्च के भीतर आयोजित।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Why did Friedrich Wilhelm IV, King of Prussia, reject the crown offered by the Frankfurt Parliament in 1848?",
+        "hi": "प्रसा के राजा फ्रेडरिक विल्हेम चतुर्थ ने 1848 में फ्रैंकफर्ट संसद द्वारा प्रस्तुत जर्मन ताज को स्वीकार करने से क्यों मना कर दिया था?"
+      },
+      "options": {
+        "a": {"en": "He wanted to become the emperor of France instead", "hi": "वह इसके बजाय फ्रांस का सम्राट बनना चाहता था"},
+        "b": {"en": "He opposed elected assemblies and stood with other absolute monarchs", "hi": "वह निर्वाचित संसदों के विरोधी थे और अन्य निरंकुश राजाओं के साथ थे"},
+        "c": {"en": "The parliament refused to grant him control over the military", "hi": "संसद ने उन्हें सेना पर नियंत्रण देने से इनकार कर दिया था"},
+        "d": {"en": "He felt Prussia was too small to lead a united Germany", "hi": "उन्हें लगा कि प्रसा एकीकृत जर्मनी का नेतृत्व करने के लिए बहुत छोटा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He chose to side with the conservative aristocracy and rulers who rejected constitutional limits on monarchy.",
+        "hi": "उन्होंने उन रूढ़िवादी राजाओं का साथ दिया जो संसद के नियंत्रण और लोकतंत्र के विरोधी थे।"
+      },
+      "explanation": {
+        "en": "Friedrich Wilhelm IV rejected the constitutional crown because he opposed the liberal parliament's authority and joined other monarchs to suppress the elected assembly.",
+        "hi": "फ्रेडरिक विल्हेम चतुर्थ एक निरंकुश राजा थे और वे किसी उदारवादी जनता द्वारा चुनी गई संसद के प्रति जवाबदेह होना स्वीकार नहीं करना चाहते थे।"
+      },
+      "key_takeaway": {
+        "en": "Frankfurt Parliament Failure = Resistance from absolute rulers like Prussian Monarch.",
+        "hi": "फ्रैंकफर्ट संसद की विफलता = निरंकुश राजाओं द्वारा लोकतांत्रिक नियंत्रण का विरोध।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Which policy did Otto von Bismarck carry out to achieve the political unification of Germany?",
+        "hi": "जर्मनी के राजनीतिक एकीकरण को प्राप्त करने के लिए ऑटो वॉन बिस्मार्क ने कौन सी प्रसिद्ध नीति अपनाई थी?"
+      },
+      "options": {
+        "a": {"en": "Policy of Peaceful Diplomacy", "hi": "शांतिपूर्ण कूटनीति की नीति"},
+        "b": {"en": "Policy of 'Blood and Iron'", "hi": "'रक्त और लौह' (Blood and Iron) की नीति"},
+        "c": {"en": "Policy of Absolute Non-alignment", "hi": "पूर्ण गुटनिरपेक्षता की नीति"},
+        "d": {"en": "Policy of Democratic Decentralization", "hi": "लोकतांत्रिक विकेंद्रीकरण की नीति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This policy relied on military power, wars, and strict administrative execution rather than speeches or majority votes.",
+        "hi": "यह नीति राष्ट्रीय एकीकरण के लक्ष्यों को प्राप्त करने के लिए सैन्य शक्ति और युद्धों पर केंद्रित थी।"
+      },
+      "explanation": {
+        "en": "Otto von Bismarck was the chief architect of German unification, carrying out the process with the help of the Prussian army and bureaucracy through his famous policy of 'Blood and Iron'.",
+        "hi": "प्रसा के मुख्यमंत्री ऑटो वॉन बिस्मार्क ने जर्मनी के एकीकरण के लिए 'रक्त और लौह' की नीति अपनाई और प्रसा की सेना का कुशल नेतृत्व किया।"
+      },
+      "key_takeaway": {
+        "en": "German Unification = Driven by Bismarck's 'Blood and Iron' militaristic approach.",
+        "hi": "जर्मनी का एकीकरण = बिस्मार्क की 'रक्त और लौह' की सैन्यवादी नीति का परिणाम।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who was proclaimed the German Emperor in a ceremony held at Versailles in January 1871?",
+        "hi": "जनवरी 1871 में वर्साय में आयोजित एक समारोह में किसे जर्मन सम्राट घोषित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Otto von Bismarck", "hi": "ऑटो वॉन बिस्मार्क"},
+        "b": {"en": "Prussian King William I", "hi": "प्रसा के राजा विलियम प्रथम (William I)"},
+        "c": {"en": "Friedrich Wilhelm IV", "hi": "फ्रेडरिक विल्हेम चतुर्थ"},
+        "d": {"en": "Victor Emmanuel II", "hi": "विक्टर इमैनुएल द्वितीय"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the ruler of Prussia during the three victorious wars against Austria, Denmark, and France.",
+        "hi": "वह प्रसा के तत्कालीन राजा थे जिनके नेतृत्व में प्रसा ने ऑस्ट्रिया, डेनमार्क और फ्रांस के खिलाफ युद्ध जीते थे।"
+      },
+      "explanation": {
+        "en": "In January 1871, the Prussian King, William I, was proclaimed German Emperor in a historic ceremony held in the Hall of Mirrors at Versailles.",
+        "hi": "18 जनवरी 1871 को वर्साय के ऐतिहासिक शीशमहल (Hall of Mirrors) में प्रसा के राजा कैसर विलियम प्रथम को एकीकृत जर्मनी का सम्राट घोषित किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "1871 Unification = Prussian King William I becomes the first German Emperor.",
+        "hi": "1871 एकीकरण = प्रसा के राजा विलियम प्रथम जर्मनी के पहले सम्राट बने।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "During the mid-nineteenth century, Italy was divided into how many states?",
+        "hi": "उन्नीसवीं शताब्दी के मध्य में इटली कितने राज्यों में राजनीतिक रूप से विभाजित था?"
+      },
+      "options": {
+        "a": {"en": "Five", "hi": "पाँच"},
+        "b": {"en": "Seven", "hi": "सात"},
+        "c": {"en": "Thirty-nine", "hi": "उनतालीस"},
+        "d": {"en": "Eleven", "hi": "ग्यारह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Out of these states, only one was ruled by an Italian princely house.",
+        "hi": "इन राज्यों में से केवल एक पर ही वास्तविक इतालवी राजवंश का शासन था।"
+      },
+      "explanation": {
+        "en": "During the mid-nineteenth century, Italy was divided into seven states, of which only Sardinia-Piedmont was ruled by an Italian princely house.",
+        "hi": "19वीं सदी के मध्य में इटली मुख्य रूप से सात राज्यों में बंटा हुआ था, जिनमें से केवल सार्डिनिया-पीडमोंट पर इतालवी राजघराने का शासन था।"
+      },
+      "key_takeaway": {
+        "en": "Italy's fragmentation = 7 distinct political entities before unification.",
+        "hi": "इटली का विखंडन = एकीकरण से पूर्व 7 अलग-अलग राजनीतिक इकाइयाँ।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Who led the movement to unify the regions of Italy as the Chief Minister of Sardinia-Piedmont?",
+        "hi": "सार्डिनिया-पीडमोंट के मुख्यमंत्री के रूप में इटली के राज्यों को एकीकृत करने वाले आंदोलन का नेतृत्व किसने किया था?"
+      },
+      "options": {
+        "a": {"en": "Giuseppe Garibaldi", "hi": "जूत्सेपे गैरीबाल्डी"},
+        "b": {"en": "Chief Minister Count Cavour", "hi": "मुख्यमंत्री काउंट कावूर (Count Cavour)"},
+        "c": {"en": "Giuseppe Mazzini", "hi": "जूत्सेपे मेत्सिनी"},
+        "d": {"en": "Louis Philippe", "hi": "लुई फिलिप"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was neither a revolutionary nor a democrat, but spoke French much better than Italian and tactfully engineered alliance with France.",
+        "hi": "वे खुद एक क्रांतिकारी नहीं थे, लेकिन उन्होंने चतुर कूटनीति से फ्रांस के साथ गठबंधन करके ऑस्ट्रिया को हराया था।"
+      },
+      "explanation": {
+        "en": "Chief Minister Cavour led the movement to unify Italy. Through a tactful diplomatic alliance with France engineered by Cavour, Sardinia-Piedmont succeeded in defeating Austrian forces in 1859.",
+        "hi": "मुख्यमंत्री काउंट कावूर ने कूटनीतिक संधियों के माध्यम से सार्डिनिया-पीडमोंट को मजबूत किया और 1859 में ऑस्ट्रियाई सेनाओं को परास्त करने में सफलता पाई।"
+      },
+      "key_takeaway": {
+        "en": "Count Cavour = Diplomatic brain behind Italian unification.",
+        "hi": "काउंट कावूर = इतालवी एकीकरण के पीछे का कूटनीतिक दिमाग।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What was the name given to the armed volunteers led by Giuseppe Garibaldi?",
+        "hi": "जूत्सेपे गैरीबाल्डी के नेतृत्व में लड़ने वाले सशस्त्र स्वयंसेवकों की सेना को आमतौर पर किस नाम से जाना जाता था?"
+      },
+      "options": {
+        "a": {"en": "Black Shirts", "hi": "काली कमीज वाले (Black Shirts)"},
+        "b": {"en": "Red Shirts", "hi": "लाल कमीज वाले (Red Shirts)"},
+        "c": {"en": "Green Guards", "hi": "हरी कमीज वाले (Green Guards)"},
+        "d": {"en": "Prussian Blue Force", "hi": "प्रशियन ब्लू फोर्स"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They marched into South Italy and the Kingdom of the Two Sicilies in 1860 to drive out Spanish rulers.",
+        "hi": "इस सेना के स्वयंसेवक एक विशिष्ट प्राथमिक रंग की कमीज पहनते थे, जिसने 1860 में दक्षिण इटली में विजय प्राप्त की।"
+      },
+      "explanation": {
+        "en": "Giuseppe Garibaldi gathered a large number of armed volunteers known as 'Red Shirts'. In 1860, they marched into South Italy and won the support of local peasants to drive out Spanish rulers.",
+        "hi": "गैरीबाल्डी के स्वयंसेवकों को 'रेड शर्ट्स' कहा जाता था, जिन्होंने दक्षिण इटली और दो सिसलियों के राजतंत्र को उखाड़ फेंकने में मुख्य भूमिका निभाई।"
+      },
+      "key_takeaway": {
+        "en": "Garibaldi's Red Shirts = Revolutionary volunteers who liberated southern Italy.",
+        "hi": "गैरीबाल्डी की रेड शर्ट्स = क्रांतिकारी स्वयंसेवक जिन्होंने दक्षिणी इटली को मुक्त कराया।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "What was the result of the Act of Union (1707) between England and Scotland?",
+        "hi": "इंग्लैंड और स्कॉटलैंड के बीच हुए 'एक्ट ऑफ यूनियन' (1707) का मुख्य परिणाम क्या निकला था?"
+      },
+      "options": {
+        "a": {"en": "The independence of Scotland from British control", "hi": "ब्रिटिश नियंत्रण से स्कॉटलैंड की स्वतंत्रता"},
+        "b": {"en": "The formation of the 'United Kingdom of Great Britain'", "hi": "'यूनाइटेड किंगडम ऑफ ग्रेट ब्रिटेन' का गठन"},
+        "c": {"en": "The total surrender of England to the Scottish king", "hi": "इंग्लैंड का स्कॉटिश राजा के समक्ष पूर्ण आत्मसमर्पण"},
+        "d": {"en": "The division of Ireland into two separate colonies", "hi": "आयरलैंड का दो अलग-अलग उपनिवेशों में विभाजन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This political act allowed England to systematically impose its influence over Scotland within a joint kingdom.",
+        "hi": "इस कानून के माध्यम से इंग्लैंड ने व्यावहारिक रूप से स्कॉटलैंड पर अपना राजनीतिक प्रभाव स्थापित कर लिया था।"
+      },
+      "explanation": {
+        "en": "The Act of Union (1707) between England and Scotland resulted in the formation of the 'United Kingdom of Great Britain', which meant that England was able to impose its influence on Scotland.",
+        "hi": "1707 के एक्ट ऑफ यूनियन से 'United Kingdom of Great Britain' का गठन हुआ, जिससे ब्रिटिश द्वीपों में एक नया राजनीतिक ढांचा तैयार हुआ।"
+      },
+      "key_takeaway": {
+        "en": "Act of Union 1707 = Birth of the United Kingdom of Great Britain.",
+        "hi": "1707 का एक्ट ऑफ यूनियन = यूनाइटेड किंगडम ऑफ Great Britain का जन्म।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Who was the female allegory chosen to represent the French nation during the revolution?",
+        "hi": "फ्रांसीसी क्रांति के दौरान फ्रांसीसी राष्ट्र को नारी रूप में चित्रित करने के लिए किस रूपक (Allegory) को चुना गया था?"
+      },
+      "options": {
+        "a": {"en": "Germania", "hi": "जर्मेनिया"},
+        "b": {"en": "Marianne", "hi": "मारियान (Marianne)"},
+        "c": {"en": "Britannia", "hi": "ब्रिटानिया"},
+        "d": {"en": "Bharat Mata", "hi": "भारत माता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her characteristics were drawn from those of Liberty and the Republic – the red cap, the tricolor, the cockade.",
+        "hi": "यह एक लोकप्रिय ईसाई नाम था जिसके चित्रों को सिक्कों और डाक टिकटों पर भी अंकित किया गया था।"
+      },
+      "explanation": {
+        "en": "In France, the nation was personified as Marianne, a popular Christian name, which underlined the idea of a people's nation. Her statues were erected in public squares.",
+        "hi": "फ्रांस में राष्ट्र को 'मारियान' का नाम दिया गया, जो स्वतंत्रता और गणराज्य के प्रतीकों (लाल टोपी, तिरंगा) से सुसज्जित थी।"
+      },
+      "key_takeaway": {
+        "en": "Marianne = Female allegory of the French Republic.",
+        "hi": "मारियान = फ्रांसीसी गणराज्य की नारी प्रतीक रूपक।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "In the German allegory, what does the crown of oak leaves worn by Germania symbolize?",
+        "hi": "जर्मन रूपक में, जर्मेनिया द्वारा पहना गया बलूत (Oak) के पत्तों का मुकुट किसका प्रतीक है?"
+      },
+      "options": {
+        "a": {"en": "Peace and readiness to truce", "hi": "शांति और युद्ध विराम की तत्परता"},
+        "b": {"en": "Heroism and bravery", "hi": "वीरता और बहादुरी"},
+        "c": {"en": "Slavery and subjugation", "hi": "दासता और गुलामी"},
+        "d": {"en": "The beginning of a new economic era", "hi": "एक नए आर्थिक युग की शुरुआत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In German culture, the oak tree is traditional symbol associated with knights and valor.",
+        "hi": "जर्मन सांस्कृतिक परंपराओं में बलूत (Oak) को शूरवीरता और शक्ति का प्रतीक माना जाता है।"
+      },
+      "explanation": {
+        "en": "Germania wears a crown of oak leaves, as the German oak stands for heroism and bravery in their cultural symbolism.",
+        "hi": "जर्मेनिया अपने सिर पर बलूत के पत्तों का मुकुट पहनती है क्योंकि जर्मन संस्कृति में बलूत वीरता का प्रतीक है।"
+      },
+      "key_takeaway": {
+        "en": "Oak leaves in German culture = Symbol of Heroism.",
+        "hi": "जर्मन संस्कृति में बलूत का पत्ता = वीरता का प्रतीक।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which region in Europe became the source of serious nationalist tension after 1871, eventually leading to World War I?",
+        "hi": "1871 के बाद यूरोप में कौन सा क्षेत्र गंभीर राष्ट्रवादी तनाव का मुख्य केंद्र बना, जिसके विवादों ने अंततः प्रथम विश्व युद्ध को जन्म दिया?"
+      },
+      "options": {
+        "a": {"en": "The Scandinavian States", "hi": "स्कैंडिनेवियाई राज्य"},
+        "b": {"en": "The Balkan Region", "hi": "बाल्कन क्षेत्र (Balkan Region)"},
+        "c": {"en": "The Iberian Peninsula", "hi": "आईबेरियन प्रायद्वीप"},
+        "d": {"en": "The British Isles", "hi": "ब्रिटिश द्वीप समूह"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This region comprised modern-day Romania, Bulgaria, Greece, Serbia, and its inhabitants were broadly known as Slavs.",
+        "hi": "यह क्षेत्र भौगोलिक और जातीय विविधताओं से भरा था और ऑटोमन साम्राज्य के पतन के बाद बड़ी शक्तियों का रणक्षेत्र बन गया।"
+      },
+      "explanation": {
+        "en": "The most serious source of nationalist tension in Europe after 1871 was the Balkan region, which became an area of intense conflict among European superpowers, leading directly to the First World War.",
+        "hi": "1871 के बाद यूरोप में गंभीर राष्ट्रवादी तनाव का मुख्य केंद्र बाल्कन क्षेत्र था, जहाँ की साम्राज्यवादी प्रतिस्पर्धा ने प्रथम विश्व युद्ध का मार्ग प्रशस्त किया।"
+      },
+      "key_takeaway": {
+        "en": "Balkans post-1871 = Flashpoint of imperialist rivalry and cause of WWI.",
+        "hi": "1871 के बाद बाल्कन = साम्राज्यवादी प्रतिस्पर्धा का केंद्र और प्रथम विश्व युद्ध का कारण।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "The inhabitants of the Balkan region were broadly and collectively known as what?",
+        "hi": "बाल्कन क्षेत्र के विभिन्न भाषाई और सांस्कृतिक पहचान वाले निवासियों को सामूहिक रूप से क्या कहा जाता था?"
+      },
+      "options": {
+        "a": {"en": "Nordics", "hi": "नॉर्डिक्स (Nordics)"},
+        "b": {"en": "Slavs", "hi": "स्लाव (Slavs)"},
+        "c": {"en": "Anglo-Saxons", "hi": "एंग्लो-सैक्सन"},
+        "d": {"en": "Gauls", "hi": "गॉल (Gauls)"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This term represents the major ethno-linguistic group of Eastern Europe and the Balkan peninsula.",
+        "hi": "यह नाम पूर्वी यूरोप और बाल्कन प्रायद्वीप की प्रमुख जातीय-भाषाई पहचान को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "The Balkans was a region of geographical and ethnic variation comprising modern-day Romania, Bulgaria, Albania, Greece, Macedonia, Croatia, Bosnia-Herzegovina, Slovenia, Serbia and Montenegro, whose inhabitants were broadly known as the Slavs.",
+        "hi": "बाल्कन क्षेत्र भौगोलिक और जातीय विविधताओं से भरा हुआ था और यहाँ के स्थानीय निवासियों को मुख्य रूप से 'स्लाव' कहा जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Balkan inhabitants = Collectively known as the Slavs.",
+        "hi": "बाल्कन के निवासी = सामूहिक रूप से 'स्लाव' के नाम से प्रसिद्ध।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "In which year was Ireland forcibly and politically incorporated into the United Kingdom?",
+        "hi": "किस वर्ष में आयरलैंड को बलपूर्वक और कूटनीतिक दबाव के माध्यम से यूनाइटेड किंगडम (UK) में शामिल कर लिया गया था?"
+      },
+      "options": {
+        "a": {"en": "1707", "hi": "1707 में"},
+        "b": {"en": "1801", "hi": "1801 में"},
+        "c": {"en": "1815", "hi": "1815 में"},
+        "d": {"en": "1848", "hi": "1848 में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This followed a deeply divided conflict between Catholics and Protestants, and an unsuccessful revolt led by Wolfe Tone.",
+        "hi": "यह घटना 19वीं शताब्दी के बिल्कुल पहले वर्ष में घटित हुई थी, जब वोल्फ टोन के नेतृत्व में हुआ विद्रोह विफल हो गया था।"
+      },
+      "explanation": {
+        "en": "Ireland was a country deeply divided between Catholics and Protestants. After a failed revolt led by Wolfe Tone and his United Irishmen (1798), Ireland was forcibly incorporated into the United Kingdom in 1801.",
+        "hi": "आयरलैंड में कैथोलिक और प्रोटेस्टेंट के बीच गहरे आंतरिक संघर्ष का फायदा उठाकर ब्रिटिश सरकार ने 1801 में इसे बलपूर्वक यूनाइटेड किंगडम का हिस्सा बना लिया।"
+      },
+      "key_takeaway": {
+        "en": "1801 = Incorporation of Ireland into the United Kingdom.",
+        "hi": "1801 = आयरलैंड का यूनाइटेड किंगडम में विलय।"
       }
     }
   ]
