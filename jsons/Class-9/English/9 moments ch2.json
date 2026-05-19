@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "The Adventures of Toto",
+    "chapter_title_hindi": "द एडवेंचर्स ऑफ टोटो (टोटो के कारनामे)",
+    "subject": "English (Moments) - Class 9",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "9th_English_Moments_Ch2_TheAdventuresOfToto_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-20T00:30:00Z",
+    "notes": "Verified complete set of 30 bilingual questions covering Toto's acquisition, his mischief at home, the boiling water incident, and his final return to the tonga-driver."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "From whom did the grandfather buy Toto?",
+        "hi": "दादाजी ने टोटो को किससे खरीदा था?"
+      },
+      "options": {
+        "a": {"en": "A magician", "hi": "एक जादूगर से"},
+        "b": {"en": "A tonga-driver", "hi": "एक ताँगे वाले से"},
+        "c": {"en": "A shopkeeper", "hi": "एक दुकानदार से"},
+        "d": {"en": "A zoo keeper", "hi": "एक चिड़ियाघर के रखवाले से"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "How much did the grandfather pay for Toto?",
+        "hi": "दादाजी ने टोटो के लिए कितने पैसे दिए?"
+      },
+      "options": {
+        "a": {"en": "Ten rupees", "hi": "दस रुपये"},
+        "b": {"en": "Five rupees", "hi": "पाँच रुपये"},
+        "c": {"en": "Two rupees", "hi": "दो रुपये"},
+        "d": {"en": "One rupee", "hi": "एक रुपया"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What kind of animal was Toto?",
+        "hi": "टोटो किस तरह का जानवर था?"
+      },
+      "options": {
+        "a": {"en": "A dog", "hi": "एक कुत्ता"},
+        "b": {"en": "A monkey", "hi": "एक बंदर"},
+        "c": {"en": "A cat", "hi": "एक बिल्ली"},
+        "d": {"en": "A goat", "hi": "एक बकरी"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Why did grandfather want to buy Toto?",
+        "hi": "दादाजी टोटो को क्यों खरीदना चाहते थे?"
+      },
+      "options": {
+        "a": {"en": "To sell him later", "hi": "बाद में बेचने के लिए"},
+        "b": {"en": "To add him to his private zoo", "hi": "अपने निजी चिड़ियाघर में शामिल करने के लिए"},
+        "c": {"en": "To gift him to a friend", "hi": "दोस्त को तोहफा देने के लिए"},
+        "d": {"en": "To scare the neighbors", "hi": "पड़ोसियों को डराने के लिए"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Where did grandfather hide Toto initially?",
+        "hi": "दादाजी ने शुरू में टोटो को कहाँ छिपाया था?"
+      },
+      "options": {
+        "a": {"en": "Under the bed", "hi": "बिस्तर के नीचे"},
+        "b": {"en": "In a cupboard", "hi": "एक अलमारी में"},
+        "c": {"en": "In the garden", "hi": "बगीचे में"},
+        "d": {"en": "In the kitchen", "hi": "रसोई में"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What did Toto do to the author's school blazer?",
+        "hi": "टोटो ने लेखक के स्कूल ब्लेज़र का क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He hid it", "hi": "उसने उसे छिपा दिया"},
+        "b": {"en": "He tore it into shreds", "hi": "उसने उसे टुकड़ों में फाड़ दिया"},
+        "c": {"en": "He cleaned it", "hi": "उसने उसे साफ किया"},
+        "d": {"en": "He wore it", "hi": "उसने उसे पहना"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Where was Toto transferred after his mischief in the room?",
+        "hi": "कमरे में शरारत करने के बाद टोटो को कहाँ स्थानांतरित किया गया?"
+      },
+      "options": {
+        "a": {"en": "To the zoo", "hi": "चिड़ियाघर"},
+        "b": {"en": "To a big cage in the servant's quarters", "hi": "नौकर के क्वार्टर में एक बड़े पिंजरे में"},
+        "c": {"en": "To the kitchen", "hi": "रसोई में"},
+        "d": {"en": "To the terrace", "hi": "छत पर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which other animal lived with Toto in the stable?",
+        "hi": "अस्तबल में टोटो के साथ और कौन सा जानवर रहता था?"
+      },
+      "options": {
+        "a": {"en": "A horse", "hi": "एक घोड़ा"},
+        "b": {"en": "A dog", "hi": "एक कुत्ता"},
+        "c": {"en": "A donkey named Nana", "hi": "नाना नाम का गधा"},
+        "d": {"en": "A cow", "hi": "एक गाय"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did Toto do to Nana, the donkey?",
+        "hi": "टोटो ने नाना (गधे) के साथ क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He played with her", "hi": "उसने उसके साथ खेला"},
+        "b": {"en": "He bit on her long ears", "hi": "उसने उसके लंबे कानों को काट लिया"},
+        "c": {"en": "He shared his food", "hi": "उसने अपना भोजन साझा किया"},
+        "d": {"en": "He ignored her", "hi": "उसने उसे नज़रअंदाज़ किया"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What was Toto's favorite winter treat?",
+        "hi": "सर्दियों में टोटो का पसंदीदा व्यंजन क्या था?"
+      },
+      "options": {
+        "a": {"en": "Bananas", "hi": "केले"},
+        "b": {"en": "Warm water bath", "hi": "गर्म पानी का स्नान"},
+        "c": {"en": "Apples", "hi": "सेब"},
+        "d": {"en": "Nuts", "hi": "मेवे"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "How did Toto test the water temperature?",
+        "hi": "टोटो पानी का तापमान कैसे जाँचता था?"
+      },
+      "options": {
+        "a": {"en": "With a thermometer", "hi": "थर्मामीटर से"},
+        "b": {"en": "With his hand", "hi": "अपने हाथ से"},
+        "c": {"en": "By touching it with his foot", "hi": "अपने पैर से छूकर"},
+        "d": {"en": "By tasting it", "hi": "उसे चखकर"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What nearly happened to Toto in the kitchen?",
+        "hi": "रसोई में टोटो के साथ क्या दुर्घटना होते-होते बची?"
+      },
+      "options": {
+        "a": {"en": "He fell down", "hi": "वह गिर गया"},
+        "b": {"en": "He almost boiled himself alive", "hi": "वह लगभग जीवित उबल गया था"},
+        "c": {"en": "He got locked", "hi": "वह बंद हो गया"},
+        "d": {"en": "He was bitten by a dog", "hi": "उसे कुत्ते ने काट लिया"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who saved Toto from the boiling water?",
+        "hi": "टोटो को उबलते पानी से किसने बचाया?"
+      },
+      "options": {
+        "a": {"en": "The grandfather", "hi": "दादाजी"},
+        "b": {"en": "The grandmother", "hi": "दादीजी"},
+        "c": {"en": "The author", "hi": "लेखक"},
+        "d": {"en": "The servant", "hi": "नौकर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why was Toto a 'big nuisance'?",
+        "hi": "टोटो एक 'बड़ी मुसीबत' क्यों था?"
+      },
+      "options": {
+        "a": {"en": "He was too quiet", "hi": "वह बहुत शांत था"},
+        "b": {"en": "He broke dishes and tore clothes", "hi": "वह बर्तन तोड़ता था और कपड़े फाड़ता था"},
+        "c": {"en": "He didn't eat", "hi": "वह खाता नहीं था"},
+        "d": {"en": "He slept all day", "hi": "वह दिन भर सोता था"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "What did Toto do with the pulao dish?",
+        "hi": "टोटो ने पुलाव की डिश के साथ क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He ate it quietly", "hi": "उसने चुपचाप खा लिया"},
+        "b": {"en": "He threw it at the author", "hi": "उसने लेखक पर फेंक दिया"},
+        "c": {"en": "He smashed it after throwing it", "hi": "उसने उसे फेंक कर तोड़ दिया"},
+        "d": {"en": "He hid it under the table", "hi": "उसने मेज़ के नीचे छिपा दिया"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "Toto's presence was kept a secret from whom?",
+        "hi": "टोटो की उपस्थिति किससे गुप्त रखी गई थी?"
+      },
+      "options": {
+        "a": {"en": "The author", "hi": "लेखक"},
+        "b": {"en": "The grandmother", "hi": "दादीजी"},
+        "c": {"en": "The neighbor", "hi": "पड़ोसी"},
+        "d": {"en": "The servant", "hi": "नौकर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "How did Toto travel to Saharanpur?",
+        "hi": "टोटो सहारनपुर कैसे गया?"
+      },
+      "options": {
+        "a": {"en": "In a cage", "hi": "पिंजरे में"},
+        "b": {"en": "In a big canvas bag", "hi": "एक बड़े कैनवस बैग में"},
+        "c": {"en": "In the grandfather's pocket", "hi": "दादाजी की जेब में"},
+        "d": {"en": "He walked", "hi": "वह पैदल चला"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What did the ticket collector call Toto?",
+        "hi": "टिकट कलेक्टर ने टोटो को क्या कहा?"
+      },
+      "options": {
+        "a": {"en": "A monkey", "hi": "एक बंदर"},
+        "b": {"en": "A dog", "hi": "एक कुत्ता"},
+        "c": {"en": "A cat", "hi": "एक बिल्ली"},
+        "d": {"en": "A dangerous animal", "hi": "एक खतरनाक जानवर"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "How much did the grandfather pay as a fine for Toto?",
+        "hi": "दादाजी ने टोटो के लिए कितना जुर्माना चुकाया?"
+      },
+      "options": {
+        "a": {"en": "Three rupees", "hi": "तीन रुपये"},
+        "b": {"en": "Five rupees", "hi": "पाँच रुपये"},
+        "c": {"en": "Two rupees", "hi": "दो रुपये"},
+        "d": {"en": "Ten rupees", "hi": "दस रुपये"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What did the grandmother eventually do with Toto?",
+        "hi": "दादीजी ने अंततः टोटो का क्या किया?"
+      },
+      "options": {
+        "a": {"en": "She accepted him", "hi": "उन्होंने उसे स्वीकार कर लिया"},
+        "b": {"en": "She tolerated him for a while", "hi": "कुछ समय तक बर्दाश्त किया"},
+        "c": {"en": "She gave him away", "hi": "उन्होंने उसे दे दिया"},
+        "d": {"en": "She never saw him", "hi": "उन्होंने उसे कभी नहीं देखा"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Who was the author of 'The Adventures of Toto'?",
+        "hi": "'द एडवेंचर्स ऑफ टोटो' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Ruskin Bond", "hi": "रस्किन बॉन्ड"},
+        "b": {"en": "R.K. Narayan", "hi": "आर.के. नारायण"},
+        "c": {"en": "Mulk Raj Anand", "hi": "मुल्क राज आनंद"},
+        "d": {"en": "Khushwant Singh", "hi": "खुशवंत सिंह"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "What were Toto's eyes like?",
+        "hi": "टोटो की आँखें कैसी थीं?"
+      },
+      "options": {
+        "a": {"en": "Blue and innocent", "hi": "नीली और मासूम"},
+        "b": {"en": "Bright and mischievous", "hi": "चमकीली और शरारती"},
+        "c": {"en": "Dull and sad", "hi": "सुस्त और उदास"},
+        "d": {"en": "Big and round", "hi": "बड़ी और गोल"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What did Toto do when he was kept in the stable?",
+        "hi": "अस्तबल में रखे जाने पर टोटो ने क्या किया?"
+      },
+      "options": {
+        "a": {"en": "He slept", "hi": "वह सोया"},
+        "b": {"en": "He made Nana restless", "hi": "उसने नाना को परेशान किया"},
+        "c": {"en": "He ate hay", "hi": "उसने घास खाई"},
+        "d": {"en": "He danced", "hi": "वह नाचा"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "How did Toto feel when he sat in the boiling water?",
+        "hi": "उबलते पानी में बैठने पर टोटो को कैसा लगा?"
+      },
+      "options": {
+        "a": {"en": "He enjoyed it", "hi": "उसने आनंद लिया"},
+        "b": {"en": "He felt cold", "hi": "उसे ठंड लगी"},
+        "c": {"en": "He felt hot but comfortable initially", "hi": "उसे गर्म लगा लेकिन शुरू में आरामदायक"},
+        "d": {"en": "He started crying", "hi": "वह रोने लगा"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Why did grandfather decide to sell Toto?",
+        "hi": "दादाजी ने टोटो को बेचने का फैसला क्यों किया?"
+      },
+      "options": {
+        "a": {"en": "He got bored", "hi": "वे ऊब गए"},
+        "b": {"en": "He couldn't afford him", "hi": "वे उसका खर्च नहीं उठा सकते थे"},
+        "c": {"en": "They couldn't afford the loss of dishes and clothes", "hi": "वे बर्तनों और कपड़ों के नुकसान को बर्दाश्त नहीं कर सकते थे"},
+        "d": {"en": "Toto ran away", "hi": "टोटो भाग गया"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "How much was Toto sold back for?",
+        "hi": "टोटो को वापस कितने में बेचा गया?"
+      },
+      "options": {
+        "a": {"en": "Five rupees", "hi": "पाँच रुपये"},
+        "b": {"en": "Three rupees", "hi": "तीन रुपये"},
+        "c": {"en": "Ten rupees", "hi": "दस रुपये"},
+        "d": {"en": "Two rupees", "hi": "दो रुपये"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What does the story 'The Adventures of Toto' tell us about?",
+        "hi": "'द एडवेंचर्स ऑफ टोटो' कहानी हमें क्या बताती है?"
+      },
+      "options": {
+        "a": {"en": "A wild monkey's nature", "hi": "एक जंगली बंदर की प्रकृति"},
+        "b": {"en": "A grandfather's love for animals", "hi": "जानवरों के प्रति दादाजी का प्यार"},
+        "c": {"en": "Both a and b", "hi": "a और b दोनों"},
+        "d": {"en": "None of these", "hi": "इनमें से कोई नहीं"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Where were Toto's teeth?",
+        "hi": "टोटो के दांत कैसे थे?"
+      },
+      "options": {
+        "a": {"en": "Hidden", "hi": "छिपे हुए"},
+        "b": {"en": "Pearly white", "hi": "मोती जैसे सफेद"},
+        "c": {"en": "Dirty", "hi": "गंदे"},
+        "d": {"en": "Missing", "hi": "गायब"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What did Toto use his tail as?",
+        "hi": "टोटो अपनी पूंछ का उपयोग कैसे करता था?"
+      },
+      "options": {
+        "a": {"en": "A weapon", "hi": "हथियार की तरह"},
+        "b": {"en": "A third hand", "hi": "तीसरे हाथ की तरह"},
+        "c": {"en": "A pillow", "hi": "तकिये की तरह"},
+        "d": {"en": "A blanket", "hi": "कंबल की तरह"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Was Toto a suitable pet?",
+        "hi": "क्या टोटो एक उपयुक्त पालतू जानवर था?"
+      },
+      "options": {
+        "a": {"en": "Yes", "hi": "हाँ"},
+        "b": {"en": "No", "hi": "नहीं"},
+        "c": {"en": "Maybe", "hi": "शायद"},
+        "d": {"en": "He was perfect", "hi": "वह एकदम सही था"}
+      },
+      "correct_option": "b"
+    }
+  ]
+}
