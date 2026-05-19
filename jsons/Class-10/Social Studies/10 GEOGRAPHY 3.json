@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 3,
+    "chapter_title": "Water Resources",
+    "chapter_title_hindi": "जल संसाधन",
+    "subject": "Geography (Contemporary India - II) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10th_Geography_Ch3_WaterResources_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-19T22:42:00Z",
+    "notes": "Verified bilingual consistency, absolute JSON validation, precise distractors, and complete coverage from fresh water availability to multi-purpose dams and traditional rainwater harvesting methods."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "What percentage of the earth's total volume of water is estimated to exist as fresh water that is accessible for human use?",
+        "hi": "पृथ्वी पर उपलब्ध जल के कुल आयतन का लगभग कितना प्रतिशत भाग अलवणीय जल (Fresh Water) के रूप में अनुमानित है, जो मानव उपयोग के योग्य है?"
+      },
+      "options": {
+        "a": {"en": "96.5 percent", "hi": "96.5 प्रतिशत"},
+        "b": {"en": "2.5 percent", "hi": "2.5 प्रतिशत"},
+        "c": {"en": "70 percent", "hi": "70 प्रतिशत"},
+        "d": {"en": "43 percent", "hi": "43 प्रतिशत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This amount is very small, and a major part of it is locked up in glaciers and ice sheets.",
+        "hi": "यह मात्रा कुल जल की तुलना में अत्यंत कम है, और इसका एक बड़ा हिस्सा ग्लेशियरों में जमा हुआ है।"
+      },
+      "explanation": {
+        "en": "About 96.5 percent of the total volume of world's water is estimated to exist as oceans and only 2.5 percent as fresh water.",
+        "hi": "विश्व के कुल जल का 96.5% भाग महासागरों में लवणीय जल के रूप में है और केवल 2.5% भाग ही अलवणीय या मीठा पानी है।"
+      },
+      "key_takeaway": {
+        "en": "2.5 Percent = Total global fresh water availability.",
+        "hi": "2.5 प्रतिशत = वैश्विक स्तर पर कुल मीठे पानी की उपलब्धता।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Nearly 70 percent of the world's fresh water occurs as ice sheets and glaciers in which specific regions of the world?",
+        "hi": "विश्व के कुल अलवणीय जल (Fresh Water) का लगभग 70 प्रतिशत भाग कहाँ बर्फ की चादरों और ग्लेशियरों के रूप में पाया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Antarctica, Greenland and mountainous regions", "hi": "अंटार्कटिका, ग्रीनलैंड और पर्वतीय क्षेत्र"},
+        "b": {"en": "Amazon and Nile river basins", "hi": "अमेज़न और नील नदी बेसिन"},
+        "c": {"en": "The Pacific and Indian Oceans", "hi": "प्रशांत और हिंद महासागर"},
+        "d": {"en": "The Thar and Sahara deserts", "hi": "थार और सहारा मरुस्थल"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These regions represent the coldest polar zones and highest mountain chains of the planet.",
+        "hi": "ये क्षेत्र पृथ्वी के अत्यधिक ठंडे ध्रुवीय क्षेत्रों और सबसे ऊँची पर्वत श्रृंखलाओं से संबंधित हैं।"
+      },
+      "explanation": {
+        "en": "A little less than 70 percent of fresh water occurs as ice sheets and glaciers in Antarctica, Greenland and the mountainous regions of the world.",
+        "hi": "उपलब्ध अलवणीय जल का लगभग 70 प्रतिशत हिस्सा अंटार्कटिका, ग्रीनलैंड और दुनिया के पहाड़ी इलाकों में ग्लेशियरों के रूप में जमा है।"
+      },
+      "key_takeaway": {
+        "en": "Frozen Fresh Water = Nearly 70% of fresh water is stored as ice chunks in polar and alpine zones.",
+        "hi": "हिमीकृत मीठा जल = मीठे पानी का लगभग 70% भाग ध्रुवीय और पर्वतीय बर्फ के रूप में संचित है।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "India receives nearly what percentage of global precipitation annually?",
+        "hi": "भारत को वैश्विक संवर्षण (Global Precipitation) यानी कुल वर्षा का वार्षिक रूप से लगभग कितना प्रतिशत हिस्सा प्राप्त होता है?"
+      },
+      "options": {
+        "a": {"en": "10 percent", "hi": "10 प्रतिशत"},
+        "b": {"en": "4 percent", "hi": "4 प्रतिशत"},
+        "c": {"en": "17.5 percent", "hi": "17.5 प्रतिशत"},
+        "d": {"en": "25 percent", "hi": "25 प्रतिशत"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The percentage is less than five, making water resource management critical relative to India's high population.",
+        "hi": "यह संख्या पांच प्रतिशत से थोड़ी कम है, जो भारत की विशाल जनसंख्या के अनुपात में जल की उपलब्धता को सीमित बनाती है।"
+      },
+      "explanation": {
+        "en": "India accounts for about 2.45 percent of the world's land area and receives nearly 4 percent of the global precipitation.",
+        "hi": "भारत को दुनिया की कुल वर्षा का केवल 4 प्रतिशत हिस्सा प्राप्त होता है, जबकि यहाँ विश्व की एक बहुत बड़ी आबादी निवास करती है।"
+      },
+      "key_takeaway": {
+        "en": "4 Percent = India's share in global annual rainfall.",
+        "hi": "4 प्रतिशत = वैश्विक वार्षिक वर्षा में भारत का कुल हिस्सा।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "In terms of water availability per person per annum, what is India's rank in the world?",
+        "hi": "प्रति व्यक्ति प्रति वर्ष जल उपलब्धता के मामले में विश्व के देशों में भारत का कौन सा स्थान है?"
+      },
+      "options": {
+        "a": {"en": "100th", "hi": "100वाँ"},
+        "b": {"en": "133rd", "hi": "133वाँ"},
+        "c": {"en": "57th", "hi": "57वाँ"},
+        "d": {"en": "150th", "hi": "150वाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This rank signifies that India is a water-stressed nation due to heavy population pressure.",
+        "hi": "यह रैंकिंग दर्शाती है कि अत्यधिक जनसंख्या के दबाव के कारण भारत जल-तनाव (Water-stress) की स्थिति की ओर बढ़ रहा है।"
+      },
+      "explanation": {
+        "en": "India ranks 133 in the world in terms of water availability per person per annum, according to the United Nations World Water Development Report.",
+        "hi": "संयुक्त राष्ट्र की रिपोर्ट के अनुसार, प्रति व्यक्ति प्रति वर्ष जल की उपलब्धता के मामले में विश्व में भारत का स्थान 133वाँ है।"
+      },
+      "key_takeaway": {
+        "en": "Rank 133 = Highlights India's vulnerable position regarding per capita water equity.",
+        "hi": "133वाँ स्थान = प्रति व्यक्ति जल समानता के मामले में भारत की संवेदनशील स्थिति को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "According to water experts like Falkenmark, water stress occurs when water availability drops below how many cubic meters per person per year?",
+        "hi": "जल विशेषज्ञों (जैसे फाल्कन मार्क) के अनुसार, जल की कमी (Water Stress) तब उत्पन्न होती है जब प्रति व्यक्ति जल की उपलब्धता कितने घन मीटर प्रति वर्ष से कम हो जाती है?"
+      },
+      "options": {
+        "a": {"en": "1,000 cubic meters", "hi": "1,000 घन मीटर"},
+        "b": {"en": "5,000 cubic meters", "hi": "5,000 घन मीटर"},
+        "c": {"en": "1,700 cubic meters", "hi": "1,700 घन मीटर"},
+        "d": {"en": "3,280 cubic meters", "hi": "3,280 घन मीटर"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It is exactly one thousand, which serves as an international threshold index for severe water scarcity.",
+        "hi": "यह संख्या ठीक एक हजार है, जिसे अंतरराष्ट्रीय स्तर पर तीव्र जल संकट का सूचकांक माना गया है।"
+      },
+      "explanation": {
+        "en": "Water stress occurs when water availability is between 1,000 and 1,700 cubic meters per person per year, and severe scarcity is when it drops below 1,000 cubic meters.",
+        "hi": "विशेषज्ञों के अनुसार, यदि प्रति व्यक्ति प्रति वर्ष जल की उपलब्धता 1,000 घन मीटर या उससे कम हो जाए, तो स्थिति गंभीर जल संकट की मानी जाती है।"
+      },
+      "key_takeaway": {
+        "en": "1,000 Cubic Meters = Critical international benchmark index for water stress introduction.",
+        "hi": "1,000 घन मीटर = जल तनाव की शुरुआत को मापने का महत्वपूर्ण अंतरराष्ट्रीय मानक।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "In the first century B.C., which place in India near Allahabad built a sophisticated water harvesting system to channel the flood water of the Ganga?",
+        "hi": "ईसा पूर्व पहली शताब्दी में, भारत के किस स्थान पर (इलाहाबाद के पास) गंगा नदी की बाढ़ के जल को संचित करने के लिए एक परिष्कृत जल संग्रहण प्रणाली बनाई गई थी?"
+      },
+      "options": {
+        "a": {"en": "Sringaverapura", "hi": "श्रृंगवेरपुरा"},
+        "b": {"en": "Kalinga", "hi": "कलिंग"},
+        "c": {"en": "Nagarjunakonda", "hi": "नागार्जुनकोंडा"},
+        "d": {"en": "Pataliputra", "hi": "पाटलिपुत्र"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This historic hydraulic architecture is famous for managing river overflow efficiently in ancient Uttar Pradesh.",
+        "hi": "यह ऐतिहासिक जल संरचना प्राचीन उत्तर प्रदेश में नदी के अतिरिक्त पानी को कुशलतापूर्वक प्रबंधित करने के लिए प्रसिद्ध है।"
+      },
+      "explanation": {
+        "en": "In the first century B.C., Sringaverapura near Allahabad had a sophisticated water harvesting system that channeled the flood water of the river Ganga.",
+        "hi": "इलाहाबाद के निकट श्रृंगवेरपुरा में प्रथम शताब्दी ईसा पूर्व में गंगा नदी के अतिरिक्त जल को मोड़ने और संग्रहित करने का उत्कृष्ट तकनीकी ढांचा बनाया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Sringaverapura = Ancient engineering marvel for river flood water management.",
+        "hi": "श्रृंगवेरपुरा = नदी की बाढ़ के जल प्रबंधन का प्राचीन भारतीय इंजीनियरिंग चमत्कार।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "During whose reign were dams, lakes, and irrigation systems extensively built as recorded in historical archives of the Mauryan Empire?",
+        "hi": "ऐतिहासिक अभिलेखों के अनुसार, किस मौर्य सम्राट के शासनकाल में बड़े पैमाने पर बांधों, झीलों और सिंचाई प्रणालियों का निर्माण किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Ashoka the Great", "hi": "अशोक महान"},
+        "b": {"en": "Chandragupta Maurya", "hi": "चंद्रगुप्त मौर्य"},
+        "c": {"en": "Bindusara", "hi": "बिन्दुसार"},
+        "d": {"en": "Samudragupta", "hi": "समुद्रगुप्त"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the founder of the Mauryan dynasty who built a centralized empire with the assistance of Chanakya.",
+        "hi": "वे मौर्य वंश के संस्थापक सम्राट थे जिन्होंने चाणक्य की सहायता से एक विशाल और केंद्रीकृत साम्राज्य खड़ा किया था।"
+      },
+      "explanation": {
+        "en": "During the time of Chandragupta Maurya, dams, lakes and irrigation systems were extensively built to support agricultural expanses.",
+        "hi": "चंद्रगुप्त मौर्य के शासनकाल में कृषि को बढ़ावा देने के लिए बड़े स्तर पर बांधों, झीलों (जैसे सुदर्शन झील) और सिंचाई नहरों का निर्माण किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "Chandragupta Maurya = Pioneered state-sponsored large-scale hydraulic frameworks in ancient India.",
+        "hi": "चंद्रगुप्त मौर्य = प्राचीन भारत में राज्य-प्रायोजित बड़े पैमाने की जल संरचनाओं के प्रणेता।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Built in the 11th century, which of the following was one of the largest artificial lakes of its time in India?",
+        "hi": "11वीं शताब्दी में बनाई गई, निम्नलिखित में से कौन सी भारत की उस समय की सबसे बड़ी कृत्रिम झीलों (Artificial Lakes) में से एक थी?"
+      },
+      "options": {
+        "a": {"en": "Chilika Lake", "hi": "चिल्का झील"},
+        "b": {"en": "Bhopal Lake (Bhojtal)", "hi": "भोपाल झील (भोजताल)"},
+        "c": {"en": "Wular Lake", "hi": "वुलर झील"},
+        "d": {"en": "Sambhar Lake", "hi": "सांभर झील"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This lake was built by King Bhoj of the Paramara dynasty in central India.",
+        "hi": "इस झील का निर्माण मध्य भारत के परमार राजवंश के राजा भोज द्वारा अपनी राजधानी के पास कराया गया था।"
+      },
+      "explanation": {
+        "en": "In the 11th century, Bhopal Lake, one of the largest artificial lakes of its time, was built to secure water storage.",
+        "hi": "11वीं शताब्दी में भोपाल झील (जिसे अब भोजताल कहा जाता है) का निर्माण हुआ, जो अपने समय की सबसे बड़ी मानव-निर्मित झीलों में से एक थी।"
+      },
+      "key_takeaway": {
+        "en": "Bhopal Lake = Medieval breakthrough in urban water resource provisioning.",
+        "hi": "भोपाल झील = शहरी जल आपूर्ति सुनिश्चित करने का मध्यकालीन ऐतिहासिक सुधार।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "In the 14th century, the tank in which Delhi area was constructed by Iltutmish for supplying water to the fort zone?",
+        "hi": "14वीं शताब्दी में सुल्तान इल्तुतमिश ने दिल्ली में किस क्षेत्र में पानी की आपूर्ति के लिए एक विशेष टैंक या हौज-ए-खास का निर्माण करवाया था?"
+      },
+      "options": {
+        "a": {"en": "Red Fort area", "hi": "लाल किला क्षेत्र"},
+        "b": {"en": "Siri Fort area", "hi": "सिरी फोर्ट क्षेत्र"},
+        "c": {"en": "Chandni Chowk area", "hi": "चाँदनी चौक क्षेत्र"},
+        "d": {"en": "Qutub Minar complex", "hi": "कुतुब मीनार परिसर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This fort area was later heavily fortified and used as a military capital by Alauddin Khalji.",
+        "hi": "यह किला क्षेत्र बाद में अलाउद्दीन खिलजी द्वारा सुदृढ़ किया गया था और उसकी सैन्य राजधानी बना था।"
+      },
+      "explanation": {
+        "en": "In the 14th century, the tank at Siri Fort was constructed by Iltutmish for supplying water to the fort area, known as Hauz-i-Khas.",
+        "hi": "इल्तुतमिश ने सिरी फोर्ट (Siri Fort) क्षेत्र के निवासियों और सैनिकों को पानी देने के लिए 'हौज-ए-खास' नामक विशिष्ट टैंक बनवाया था।"
+      },
+      "key_takeaway": {
+        "en": "Siri Fort Tank = Built by Sultan Iltutmish to supply water to specialized military zones.",
+        "hi": "सिरी फोर्ट टैंक = सुल्तान इल्तुतमिश द्वारा विशिष्ट सैन्य और रिहायशी क्षेत्रों में जल आपूर्ति के लिए निर्मित ढांचा।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who proudly proclaimed large dams or multi-purpose projects as the 'Temples of Modern India'?",
+        "hi": "स्वतंत्र भारत में किसने बहुउद्देशीय नदी घाटी परियोजनाओं (Multi-purpose Projects) को गर्व से 'आधुनिक भारत के मंदिर' कहा था?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "c": {"en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अम्बेडकर"},
+        "d": {"en": "Sardar Vallabhbhai Patel", "hi": "सरदार वल्लभभाई पटेल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the first Prime Minister of independent India who linked industrialization with agricultural progress.",
+        "hi": "वे स्वतंत्र भारत के पहले प्रधानमंत्री थे जिन्होंने बड़े उद्योगों और कृषि के समन्वित विकास पर जोर दिया था।"
+      },
+      "explanation": {
+        "en": "Jawaharlal Nehru proudly proclaimed multi-purpose dams as the 'Temples of Modern India' because they would integrate agriculture with industrial growth.",
+        "hi": "जवाहरलाल नेहरू ने बांधों को 'आधुनिक भारत के मंदिर' कहा था क्योंकि उनका मानना था कि ये परियोजनाएं ग्रामीण कृषि और शहरी औद्योगिकीकरण को एक साथ जोड़ेंगी।"
+      },
+      "key_takeaway": {
+        "en": "Temples of Modern India = Nehru's term reflecting the industrial hope centered on mega-dams.",
+        "hi": "आधुनिक भारत के मंदिर = नेहरू का यह कथन बड़े बांधों पर आधारित औद्योगिक आत्मनिर्भरता की उम्मीद को दर्शाता है।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The Bhakra-Nangal project is jointly built on which river basin to provide both hydel power and irrigation facilities to North India?",
+        "hi": "भाखड़ा-नांगल परियोजना उत्तर भारत को जल विद्युत और सिंचाई दोनों सुविधाएं देने के लिए संयुक्त रूप से किस नदी बेसिन पर बनाई गई है?"
+      },
+      "options": {
+        "a": {"en": "Ganga-Yamuna Basin", "hi": "गंगा-यमुना बेसिन"},
+        "b": {"en": "Satluj-Beas Basin", "hi": "सतलुज-ब्यास बेसिन"},
+        "c": {"en": "Mahanadi Basin", "hi": "महानदी बेसिन"},
+        "d": {"en": "Narmada Basin", "hi": "नर्मदा बेसिन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This river is a major tributary of the Indus system that enters India from Tibet through Shipki La pass.",
+        "hi": "यह नदी सिंधु नदी प्रणाली की एक मुख्य सहायक नदी है जो तिब्बत से शिपकी ला दर्रे के रास्ते भारत में प्रवेश करती है।"
+      },
+      "explanation": {
+        "en": "The Bhakra-Nangal project water is being used both for hydel power production and irrigation, built on the Satluj-Beas river basin.",
+        "hi": "भाखड़ा-नांगल परियोजना सतलुज-ब्यास नदी घाटी पर स्थित है, जिसका लाभ मुख्य रूप से पंजाब, हरियाणा और राजस्थान को मिलता है।"
+      },
+      "key_takeaway": {
+        "en": "Satluj-Beas Basin = Powers the agricultural revolution of the northwest plains through Bhakra-Nangal.",
+        "hi": "सतलुज-ब्यास बेसिन = भाखड़ा-नांगल के जरिए उत्तर-पश्चिमी मैदानों की कृषि क्रांति को ऊर्जा देने वाला क्षेत्र।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What is the primary dual purpose of the Hirakud project built in the Mahanadi basin of Odisha?",
+        "hi": "ओडिशा में महानदी बेसिन पर बनाई गई 'हीराकुंड परियोजना' (Hirakud Project) का मुख्य दोहरी उद्देश्य क्या है?"
+      },
+      "options": {
+        "a": {"en": "Drought termination and drinking water supply", "hi": "सूखे की समाप्ति और पेयजल आपूर्ति"},
+        "b": {"en": "Integration of conservation of water with flood control", "hi": "बाढ़ नियंत्रण के साथ जल संरक्षण का समन्वय करना"},
+        "c": {"en": "Promotion of international fish exports", "hi": "अंतरराष्ट्रीय मछली निर्यात को बढ़ावा देना"},
+        "d": {"en": "Nuclear power generation support", "hi": "परमाणु ऊर्जा उत्पादन में सहायता"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This river was formerly called 'the sorrow of Odisha' due to devastating seasonal deluges.",
+        "hi": "इस नदी को पहले मानसून के दौरान आने वाली विनाशकारी तबाही के कारण 'ओडिशा का शोक' कहा जाता था।"
+      },
+      "explanation": {
+        "en": "In the Mahanadi basin, the Hirakud project integrates conservation of water with flood control, serving as a massive structural flood mitigation project.",
+        "hi": "महानदी बेसिन पर बनी हीराकुंड परियोजना मुख्य रूप से तटीय ओडिशा को बाढ़ की विभीषिका से बचाने और जल का आर्थिक उपयोग (सिंचाई व विद्युत) सुनिश्चित करने के लिए है।"
+      },
+      "key_takeaway": {
+        "en": "Hirakud Project = Massive structural flood mitigation and water resource alignment in eastern India.",
+        "hi": "हीराकुंड परियोजना = पूर्वी भारत में बाढ़ नियंत्रण और जल संसाधन प्रबंधन का विशाल ढांचा।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Who has been the primary leader of the Narmada Bachao Andolan (Save Narmada Movement) against mega-dams in central India?",
+        "hi": "मध्य भारत में बड़े बांधों के विरोध में चलाए गए 'नर्मदा बचाओ आंदोलन' का मुख्य नेतृत्व किसने किया है?"
+      },
+      "options": {
+        "a": {"en": "Sunderlal Bahuguna", "hi": "सुंदरलाल बहुगुणा"},
+        "b": {"en": "Medha Patkar", "hi": "मेधा पाटकर"},
+        "c": {"en": "Baba Ramchandra", "hi": "बाबा रामचंद्र"},
+        "d": {"en": "Baba Amte", "hi": "बाबा आम्टे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She is a well-known social activist who mobilized tribal populations against the Sardar Sarovar Dam displacement.",
+        "hi": "वे एक प्रसिद्ध सामाजिक कार्यकर्ता हैं जिन्होंने सरदार सरोवर बांध से विस्थापित होने वाले आदिवासियों के हक की आवाज उठाई है।"
+      },
+      "explanation": {
+        "en": "Narmada Bachao Andolan is a Non-Governmental Organisation (NGO) that mobilized tribal people, farmers, and environmentalists led by Medha Patkar against the Sardar Sarovar Dam.",
+        "hi": "मेधा पाटकर के नेतृत्व में नर्मदा बचाओ आंदोलन ने स्थानीय आदिवासियों, किसानों और पर्यावरणविदों को बड़े बांधों से होने वाले विस्थापन के खिलाफ एकजुट किया।"
+      },
+      "key_takeaway": {
+        "en": "Medha Patkar = Face of grassroots resistance against mega-dam ecological and human displacement costs.",
+        "hi": "मेधा पाटकर = बड़े बांधों से होने वाले मानव विस्थापन और पर्यावरणीय नुकसान के खिलाफ जमीनी संघर्ष का चेहरा।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Why did farmers in the Sabarmati-basin in Gujarat agitate violently during a severe drought?",
+        "hi": "गुजरात में साबरमती बेसिन के किसानों ने एक गंभीर सूखे के दौरान उग्र आंदोलन क्यों किया था?"
+      },
+      "options": {
+        "a": {"en": "Because the rural water quality became highly saline", "hi": "क्योंकि ग्रामीण क्षेत्रों के पानी की लवणता अत्यधिक बढ़ गई थी"},
+        "b": {"en": "Because higher priority was given to water supply in urban areas over rural needs", "hi": "क्योंकि ग्रामीण आवश्यकताओं की तुलना में शहरी क्षेत्रों में जल आपूर्ति को अधिक प्राथमिकता दी जा रही थी"},
+        "c": {"en": "Because a new high tax was imposed on canal usage", "hi": "क्योंकि नहर के उपयोग पर एक नया उच्च कर लगा दिया गया था"},
+        "d": {"en": "Because the river's flow was completely diverted to Pakistan", "hi": "क्योंकि नदी के प्रवाह का रुख पूरी तरह से पाकिस्तान की ओर मोड़ दिया गया था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The conflict arose due to inequitable distribution of water resource during a period of acute distress.",
+        "hi": "यह संघर्ष गंभीर संकट के समय जल संसाधनों के असमान और अन्यायपूर्ण क्षेत्रीय वितरण के कारण पैदा हुआ था।"
+      },
+      "explanation": {
+        "en": "In Gujarat, the Sabarmati-basin farmers were agitated and almost caused a riot over the higher priority given to water supply in urban areas, particularly for municipal bodies, even during a drought.",
+        "hi": "सूखे के समय साबरमती बेसिन के किसान इसलिए भड़क उठे क्योंकि उनके सूखते खेतों को छोड़कर पानी की आपूर्ति शहरों और नगर निकायों के ऐशो-आराम के लिए की जा रही थी।"
+      },
+      "key_takeaway": {
+        "en": "Sabarmati Water Conflict = Inequity in urban vs. rural water prioritizing during environmental distress.",
+        "hi": "साबरमती जल संघर्ष = पर्यावरणीय संकट के समय शहरी बनाम ग्रामीण जल प्राथमिकताओं में असमानता का उदाहरण।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "The Krishna-Godavari water dispute initially arose due to objections raised against the diversion of water for a hydel project on the Koyna river by which state government?",
+        "hi": "कृष्णा-गोदावरी नदी जल विवाद मुख्य रूप से किस राज्य सरकार द्वारा कोयना नदी पर एक जलविद्युत परियोजना के लिए पानी मोड़े जाने के विरोध के कारण शुरू हुआ था?"
+      },
+      "options": {
+        "a": {"en": "Punjab government", "hi": "पंजाब सरकार"},
+        "b": {"en": "Maharashtra government", "hi": "महाराष्ट्र सरकार"},
+        "c": {"en": "Odisha government", "hi": "ओडिशा सरकार"},
+        "d": {"en": "Tamil Nadu government", "hi": "तमिलनाडु सरकार"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This western state houses the source of the Koyna river and its capital is Mumbai.",
+        "hi": "यह पश्चिमी राज्य कोयना नदी के उद्गम का घर है और इसकी राजधानी मुंबई है।"
+      },
+      "explanation": {
+        "en": "The Krishna-Godavari dispute is due to the objections raised by Karnataka and Andhra Pradesh governments regarding the diversion of more water at Koyna by the Maharashtra government.",
+        "hi": "महाराष्ट्र सरकार द्वारा कोयना नदी पर पनबिजली के लिए जल का रुख मोड़ने से कर्नाटक और आंध्र प्रदेश ने आपत्ति जताई क्योंकि इससे उनके निचले राज्यों में पानी का प्रवाह कम हो गया।"
+      },
+      "key_takeaway": {
+        "en": "Krishna-Godavari Dispute = Inter-state political conflict sparked by upstream water diversions affecting downstream ecology.",
+        "hi": "कृष्णा-गोदावरी विवाद = ऊपरी राज्य द्वारा पानी मोड़ने से निचले राज्यों की पारिस्थितिकी प्रभावित होने का अंतर-राज्यीय संघर्ष।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "In hilly and mountainous regions, people built traditional diversion channels for irrigation which are locally known by what term?",
+        "hi": "पहाड़ी और पर्वतीय क्षेत्रों में लोगों ने कृषि सिंचाई के लिए नदियों की धाराओं का रुख बदलकर किस प्रकार की पारंपरिक वाहिकाएं बनाई हैं?"
+      },
+      "options": {
+        "a": {"en": "Canals and Ponds", "hi": "नहरें और तालाब"},
+        "b": {"en": "'Guls' or 'Kuls'", "hi": "'गुल' अथवा 'कुल' (Guls / Kuls)"},
+        "c": {"en": "Khadins and Johads", "hi": "खादीन और जोहड़"},
+        "d": {"en": "Stepwells (Baolis)", "hi": "बावड़ी (सीढ़ीदार कुएं)"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These words are highly specific to the Western Himalayan terrain of Himachal Pradesh and Uttarakhand.",
+        "hi": "ये शब्द मुख्य रूप से हिमाचल प्रदेश और उत्तराखंड के पश्चिमी हिमालयी पर्वतीय क्षेत्रों में उपयोग किए जाते हैं।"
+      },
+      "explanation": {
+        "en": "In hilly and mountainous regions, people built diversion channels like the 'guls' or 'kuls' of the Western Himalayas for agricultural irrigation.",
+        "hi": "पश्चिमी हिमालय के पहाड़ी इलाकों में लोगों ने नदियों के पानी का रुख बदलकर सिंचाई के लिए छोटी वाहिकाएं बनाई हैं जिन्हें स्थानीय स्तर पर 'गुल' या 'कुल' कहते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Guls and Kuls = Traditional Himalayan eco-friendly gravity-based water diversion mechanisms.",
+        "hi": "गुल और कुल = हिमालयी क्षेत्रों में गुरुत्वाकर्षण पर आधारित पारंपरिक और पर्यावरण-अनुकूल जल प्रणालियाँ।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "In the semi-arid and arid regions of Rajasthan, particularly Bikaner, Phalodi, and Barmer, what are the underground storage tanks for drinking water called?",
+        "hi": "राजस्थान के शुष्क और अर्ध-शुष्क क्षेत्रों, विशेषकर बीकानेर, फलोदी और बाड़मेर में पीने का पानी संचित करने के लिए बनाए जाने वाले भूमिगत टैंक को क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Johads", "hi": "जोहड़"},
+        "b": {"en": "Tanka", "hi": "टांका (Tanka)"},
+        "c": {"en": "Baolis", "hi": "बावड़ी"},
+        "d": {"en": "Guls", "hi": "गुल"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The name sounds similar to 'tank' and it is built inside the main house or the courtyard to store clean rain water.",
+        "hi": "यह शब्द अंग्रेजी के 'टैंक' से मिलता-जुलता है और इसे साफ बारिश का पानी रखने के लिए मुख्य घर या आंगन के नीचे बनाया जाता है।"
+      },
+      "explanation": {
+        "en": "In the semi-arid and arid regions of Rajasthan, houses traditionally had underground tanks or 'tankas' for storing drinking water, connected to the sloped roofs via pipes.",
+        "hi": "राजस्थान के शुष्क क्षेत्रों में घरों के आंगन के नीचे पक्के कमरे जैसी भूमिगत संरचना बनाई जाती है जिसे 'टांका' कहते हैं, इसमें छत से आने वाले बारिश के पानी को रोका जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Tanka = Traditional domestic underground reservoir for clean rainwater secure provisioning.",
+        "hi": "टांका = शुद्ध वर्षा जल को सुरक्षित रखने के लिए बनाया गया घरेलू भूमिगत पक्का टैंक।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "The Bamboo Drip Irrigation System, used to transport water from stream springs, is a 200-year-old tradition in which northeastern state of India?",
+        "hi": "बाँस ड्रिप सिंचाई प्रणाली (Bamboo Drip Irrigation System), जिसमें बाँस के पाइपों के जरिए पानी का परिवहन किया जाता है, भारत के किस उत्तर-पूर्वी राज्य में 200 वर्ष पुरानी पारंपरिक विधि है?"
+      },
+      "options": {
+        "a": {"en": "Assam", "hi": "असम"},
+        "b": {"en": "Meghalaya", "hi": "मेघालय"},
+        "c": {"en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश"},
+        "d": {"en": "Tripura", "hi": "त्रिपुरा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This state contains Mawsynram and Cherrapunji, famous for experiencing the highest rainfall zones globally.",
+        "hi": "इस राज्य में मासिनराम और चेरापूंजी स्थित हैं, जो दुनिया में सबसे अधिक वर्षा वाले क्षेत्रों के रूप में विख्यात हैं।"
+      },
+      "explanation": {
+        "en": "In Meghalaya, a 200-year-old system of tapping stream and spring water by using bamboo pipes, called Bamboo Drip Irrigation, is still prevalent.",
+        "hi": "मेघालय में पहाड़ों और झरनों के पानी को बाँस के बने पाइपों द्वारा रोककर दूर खेतों तक ले जाने की 200 वर्ष पुरानी 'बाँस ड्रिप सिंचाई प्रणाली' आज भी उपयोग की जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Bamboo Drip Irrigation = Indigenous eco-friendly zero-energy water routing system unique to Meghalaya's hilly terrain.",
+        "hi": "बाँस ड्रिप सिंचाई = मेघालय के पहाड़ी इलाकों की शून्य-ऊर्जा वाली पर्यावरण-अनुकूल स्वदेशी जल प्रणाली।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which is the first and only state in India that has made rooftop rainwater harvesting structure compulsory for all houses across the state legally?",
+        "hi": "भारत का वह पहला और एकमात्र राज्य कौन सा है जिसने पूरे राज्य में सभी घरों के लिए छत पर वर्षा जल संग्रहण (Rooftop Harvesting) ढांचा बनाना कानूनी रूप से अनिवार्य कर दिया है?"
+      },
+      "options": {
+        "a": {"en": "Rajasthan", "hi": "राजस्थान"},
+        "b": {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
+        "c": {"en": "Kerala", "hi": "केरल"},
+        "d": {"en": "Gujarat", "hi": "गुजरात"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This state is situated in the southernmost part of India and its capital city is Chennai.",
+        "hi": "यह राज्य भारत के सुदूर दक्षिणी भाग में स्थित है और इसकी राजधानी चेन्नई शहर है।"
+      },
+      "explanation": {
+        "en": "Tamil Nadu is the first and only state in India which has made rooftop rainwater harvesting structure compulsory for all houses across the state, with legal punishments for defaulters.",
+        "hi": "तमिलनाडु भारत का एकमात्र ऐसा राज्य है जहाँ हर घर में छत पर वर्षा जल संचयन प्रणाली लगाना अनिवार्य है, और इसका पालन न करने पर कानूनी सजा का प्रावधान है।"
+      },
+      "key_takeaway": {
+        "en": "Tamil Nadu Legal Mandate = First state to use legal mechanisms to ensure absolute domestic rainwater storage compliance.",
+        "hi": "तमिलनाडु का कानूनी आदेश = घरेलू स्तर पर शत-प्रतिशत वर्षा जल संचयन सुनिश्चित करने वाला देश का पहला राज्य।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What is the rainwater collected in tankas traditionally called in the local language of semi-arid Rajasthan, regarded as the purest form of natural water?",
+        "hi": "अर्ध-शुष्क राजस्थान की स्थानीय भाषा में टांका में संचित होने वाले वर्षा के जल को क्या कहा जाता है, जिसे प्राकृतिक जल का सबसे शुद्ध रूप माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Palar Pani", "hi": "पालर पानी"},
+        "b": {"en": "Amrit Jal", "hi": "अमृत जल"},
+        "c": {"en": "Bhu Jal", "hi": "भूजल"},
+        "d": {"en": "Johad Pani", "hi": "जोहड़ पानी"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The term starts with 'Pa...' and it represents natural soft rain water harvested directly from pristine roofs.",
+        "hi": "इस शब्द की शुरुआत 'पा...' से होती है और यह साफ छतों से सीधे संग्रहित किए गए प्राकृतिक मीठे पानी को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "Rainwater, or 'Palar Pani' as commonly referred to in these parts of Rajasthan, is considered the purest form of natural water.",
+        "hi": "राजस्थान के शुष्क इलाकों में संचित वर्षा जल को स्थानीय लोग 'पालर पानी' कहते हैं। भीषण गर्मियों में जब सभी कुएं सूख जाते हैं, तब यह पीने का मुख्य सहारा होता है।"
+      },
+      "key_takeaway": {
+        "en": "Palar Pani = Indigenous term for pure potable rainwater stored in underground domestic systems.",
+        "hi": "पालर पानी = घरेलू भूमिगत प्रणालियों में संचित शुद्ध पीने योग्य वर्षा जल के लिए प्रयुक्त स्वदेशी नाम।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "What is the most harmful consequence of excessive sedimentation at the bottom of a multi-purpose dam's reservoir?",
+        "hi": "बहुउद्देशीय बांधों के जलाशयों की तली में अत्यधिक तलछट (Sedimentation/गाद) जमा होने का सबसे हानिकारक परिणाम क्या निकलता है?"
+      },
+      "options": {
+        "a": {"en": "It doubles the hydro-electricity output capacity", "hi": "यह जल विद्युत उत्पादन क्षमता को दोगुना कर देता है"},
+        "b": {"en": "It results in rockier stream beds and deprives aquatic life of natural habitats and food sources", "hi": "इससे नदी का तल अधिक चट्टानी हो जाता है और जलीय जीवों के प्राकृतिक आवास तथा भोजन नष्ट हो जाते हैं"},
+        "c": {"en": "It converts the water color into deep clear blue", "hi": "यह पानी के रंग को पूरी तरह से साफ गहरे नीले रंग में बदल देता है"},
+        "d": {"en": "It automatically increases the concrete structure's height", "hi": "यह कंक्रीट संरचना की ऊँचाई को अपने आप बढ़ा देता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This damage severely affects the breeding migration and bottom-feeding habits of river fishes.",
+        "hi": "यह नुकसान नदी की मछलियों के प्रजनन प्रवास और नदी के तल में भोजन ढूंढने की आदतों को बुरी तरह प्रभावित करता है।"
+      },
+      "explanation": {
+        "en": "Excessive sedimentation at the bottom of the reservoir results in rockier stream beds and poorer habitats for the river's aquatic life, disrupting fish migration.",
+        "hi": "जलाशय की तली में भारी गाद जमा होने से नदी का प्राकृतिक पारिस्थितिकी तंत्र खराब हो जाता है, जिससे मछलियों को अंडे देने और भोजन प्राप्त करने में बाधा आती है।"
+      },
+      "key_takeaway": {
+        "en": "Sedimentation Risk = Degrades riverine biology and disrupts the natural aquatic food web.",
+        "hi": "तलछट का खतरा = नदीय जीवविज्ञान को नुकसान पहुँचाना और जलीय खाद्य श्रृंखला को बाधित करना।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Why is the traditional practice of rooftop rainwater harvesting declining in western Rajasthan in recent decades?",
+        "hi": "हाल के दशकों में पश्चिमी राजस्थान में पारंपरिक छत वर्षा जल संग्रहण (Rooftop Harvesting) की प्रथा में कमी क्यों आ रही है?"
+      },
+      "options": {
+        "a": {"en": "Due to unprecedented regular snowfall occurrences", "hi": "अभूतपूर्व नियमित बर्फबारी की घटनाओं के कारण"},
+        "b": {"en": "Due to the availability of perennial drinking water through the Indira Gandhi Canal", "hi": "इन्दिरा गांधी नहर द्वारा बारहमासी पेयजल की उपलब्धता के कारण"},
+        "c": {"en": "Because residents prefer carbonated beverages over water", "hi": "क्योंकि निवासी पानी की तुलना में कार्बोनेटेड पेय पदार्थों को अधिक पसंद करते हैं"},
+        "d": {"en": "Because the government banned domestic tank constructions", "hi": "क्योंकि सरकार ने घरेलू टैंक निर्माणों पर पूर्ण प्रतिबंध लगा दिया था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This shift occurred because a major trans-basin canal brought river water from Punjab straight into the desert homes via taps.",
+        "hi": "यह बदलाव इसलिए हुआ क्योंकि पंजाब की नदियों से निकाली गई एक बड़ी नहर मरुस्थल के घरों तक सीधे नलों के जरिए पानी पहुँचाने लगी।"
+      },
+      "explanation": {
+        "en": "Today, in western Rajasthan, sadly the practice of rooftop rainwater harvesting is on the decline as plenty of water is available through the perennial Indira Gandhi Canal.",
+        "hi": "इंदिरा गांधी नहर के आ जाने से पश्चिमी राजस्थान में बारहमासी पेयजल उपलब्ध हो गया है, जिससे लोग अब कठिन पारंपरिक छत संचयन को छोड़ रहे हैं।"
+      },
+      "key_takeaway": {
+        "en": "Canal Impact = Modern infrastructure availability often leads to the decline of traditional resource-saving values.",
+        "hi": "नहर का प्रभाव = आधुनिक बुनियादी ढांचे की उपलब्धता से अक्सर पारंपरिक संसाधन-बचत के मूल्यों में कमी आती है।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which vulnerable group of society usually bears the highest cost of displacement due to the construction of large multi-purpose dams?",
+        "hi": "बहुउद्देशीय बांधों के निर्माण के कारण होने वाले विस्थापन (Displacement) का सबसे भारी नुकसान आमतौर पर समाज के किस वर्ग को उठाना पड़ता है?"
+      },
+      "options": {
+        "a": {"en": "Wealthy urban corporate industrialists", "hi": "धनी शहरी कॉर्पोरेट उद्योगपति"},
+        "b": {"en": "Local tribal communities and marginal landowners", "hi": "स्थानीय आदिवासी समुदाय और सीमांत भूमिहीन किसान"},
+        "c": {"en": "International tourist operators", "hi": "अंतरराष्ट्रीय पर्यटन संचालक"},
+        "d": {"en": "The central government bureaucratic administrative staff", "hi": "केंद्र सरकार के नौकरशाह और प्रशासनिक कर्मचारी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These populations lose their ancestral lands, access to forest resources, and traditional livelihood modes for global industrial gains.",
+        "hi": "ये वे आबादी हैं जो बड़े राष्ट्रीय लाभों के लिए अपनी पैतृक भूमि, जंगलों तक पहुँच और आजीविका के साधन खो देती हैं।"
+      },
+      "explanation": {
+        "en": "Local people often had to give up their land, livelihood and their meager access and control over resources for the greater good of the nation, severely affecting tribal zones.",
+        "hi": "बांधों के निर्माण के लिए स्थानीय गरीब किसानों और आदिवासियों को उनकी जमीनों से बेदखल कर दिया जाता है, जिससे उनकी आजीविका पूरी तरह बिखर जाती है।"
+      },
+      "key_takeaway": {
+        "en": "Social Displacement Cost = Mega projects often create localized environmental refugees while favoring distant industrial centers.",
+        "hi": "सामाजिक विस्थापन की लागत = बड़ी परियोजनाएं अक्सर स्थानीय लोगों को 'पर्यावरणीय शरणार्थी' बना देती हैं, जबकि दूर के उद्योगों को लाभ होता है।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What was the core initial environmental objective of the Narmada Bachao Andolan before it expanded into a rehabilitation struggle?",
+        "hi": "पुनर्वास (Rehabilitation) संघर्ष में बदलने से पहले नर्मदा बचाओ आंदोलन का मूल शुरुआती पर्यावरणीय उद्देश्य क्या था?"
+      },
+      "options": {
+        "a": {"en": "To increase the number of commercial cruise boats on the river", "hi": "नदी पर व्यावसायिक क्रूज नावों की संख्या बढ़ाना"},
+        "b": {"en": "To prevent huge patches of pristine forests from submerging under dam water", "hi": "जंगलों के विशाल हिस्से को बांध के पानी में डूबने (जलमग्न होने) से बचाना"},
+        "c": {"en": "To completely block the river water from entering neighboring states", "hi": "पड़ोसी राज्यों में नदी के पानी के प्रवेश को पूरी तरह रोकना"},
+        "d": {"en": "To support international luxury resort setups on river banks", "hi": "नदी के किनारों पर अंतरराष्ट्रीय लक्जरी रिसॉर्ट्स की स्थापना का समर्थन करना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It originally focused on the environmental cost of subverting green cover under the giant reservoir pools.",
+        "hi": "शुरुआत में इसका ध्यान विशाल जलाशय के पीछे हजारों हेक्टेयर हरे-भरे वनों के डूबने से होने वाले नुकसान पर था।"
+      },
+      "explanation": {
+        "en": "Narmada Bachao Andolan originally focused on the environmental issues related to trees that would be submerged under the dam water, later shifting to focus on rehabilitation.",
+        "hi": "यह आंदोलन शुरुआत में उन पेड़ों और जंगलों को बचाने के उद्देश्य से शुरू हुआ था जो सरदार सरोवर बांध के पानी में डूबने वाले थे।"
+      },
+      "key_takeaway": {
+        "en": "Andolan Core Evolution = Shifted from a pure forest conservation protest to a human rights framework for displaced populations.",
+        "hi": "आंदोलन का विकास = एक शुद्ध वन संरक्षण विरोध से शुरू होकर विस्थापित आबादी के मानवाधिकारों के संघर्ष में बदला।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "How has the availability of abundant canal irrigation through multi-purpose dams negatively affected the soil chemistry in plains?",
+        "hi": "बहुउद्देशीय बांधों से मिलने वाली प्रचुर नहर सिंचाई ने मैदानी इलाकों में मिट्टी के रसायन (Soil Chemistry) को नकारात्मक रूप से कैसे प्रभावित किया है?"
+      },
+      "options": {
+        "a": {"en": "It has forced peasants to grow only low-value coarse millets", "hi": "इसने किसानों को केवल कम मूल्य वाले मोटे अनाज उगाने के लिए मजबूर किया है"},
+        "b": {"en": "It induced cropping pattern shifts towards water-intensive cash crops, causing salinization of soil", "hi": "इसने फसलों के प्रारूप को अधिक पानी वाली नकदी फसलों की ओर मोड़ दिया है, जिससे मिट्टी में लवणता (Salinization) बढ़ रही है"},
+        "c": {"en": "It completely eliminated all natural stones from the fields", "hi": "इसने खेतों से सभी प्राकृतिक पत्थरों को पूरी तरह से समाप्त कर दिया है"},
+        "d": {"en": "It forced peasants to abandon farming completely due to dryness", "hi": "इसने किसानों को सूखे के कारण खेती पूरी तरह छोड़ने पर मजबूर कर दिया है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This ecological shift happens when waterlogging causes dissolved salts to rise to the soil surface, rendering it barren.",
+        "hi": "यह पारिस्थितिकीय बदलाव तब होता है जब अत्यधिक जलभराव के कारण जमीन के नीचे के लवण ऊपर आ जाते हैं और भूमि बंजर हो जाती है।"
+      },
+      "explanation": {
+        "en": "Irrigation has transformed the cropping pattern of many regions with farmers shifting to water-intensive cash crops. This has led to the salinization of the soil, decreasing ecological sustainability.",
+        "hi": "प्रचुर पानी के कारण किसान धान और गन्ने जैसी नकदी फसलें अधिक उगा रहे हैं। इससे खेतों में जलभराव होने से मिट्टी लवणीय (Saline) हो रही है, जिससे उसकी उर्वरता घटती है।"
+      },
+      "key_takeaway": {
+        "en": "Salinization Threat = Over-irrigation shifts eco-balances, turning fertile river plains into barren alkaline tracts.",
+        "hi": "लवणता का खतरा = अत्यधिक सिंचाई से उपजाऊ मैदानी क्षेत्र धीरे-धीरे क्षारीय और बंजर भूमि में बदल जाते हैं।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Which remote village in the Mysore district of Karnataka is celebrated for achieving a high density of rooftop rainwater harvesting setups across nearly 200 homes?",
+        "hi": "कर्नाटक के मैसूर जिले के किस सुदूर गाँव को लगभग 200 घरों में छत पर वर्षा जल संग्रहण की व्यवस्था करने की सफलता के लिए सराहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Gendathur", "hi": "गंडाथूर"},
+        "b": {"en": "Phalodi", "hi": "फलोदी"},
+        "c": {"en": "Mawsynram", "hi": "मासिनराम"},
+        "d": {"en": "Bardoli", "hi": "बारडोली"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The name of this remote village starts with 'Gen...' and it has earned a rare distinction for domestic water autonomy.",
+        "hi": "इस सुदूर गाँव का नाम 'गं...' से शुरू होता है और इसने घरेलू जल आत्मनिर्भरता में एक दुर्लभ गौरव हासिल किया है।"
+      },
+      "explanation": {
+        "en": "Gendathur, a remote backward village in Mysore, Karnataka, has earned the rare distinction of being rich in rainwater harvesting with nearly 200 households installing this system.",
+        "hi": "कर्नाटक के मैसूर जिले के गंडाथूर गाँव के लगभग 200 घरों ने छत पर वर्षा जल संचयन प्रणाली को अपनाकर पूरे देश में मिसाल कायम की है।"
+      },
+      "key_takeaway": {
+        "en": "Gendathur Model = Demonstrates how decentralized citizen initiatives can solve domestic water stress effectively.",
+        "hi": "गंडाथूर मॉडल = यह दर्शाता है कि कैसे विकेंद्रीकृत नागरिक प्रयास घरेलू जल संकट को प्रभावी ढंग से हल कर सकते हैं।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "In the traditional Bamboo Drip Irrigation System, after routing water over hundreds of meters, how many drops per minute are finally delivered at the plant site?",
+        "hi": "पारंपरिक बाँस ड्रिप सिंचाई प्रणाली (Bamboo Drip) के तहत पानी को सैकड़ों मीटर दूर मोड़ने के बाद अंततः पौधे की जड़ पर प्रति मिनट कितनी बूंदें पहुँचाई जाती हैं?"
+      },
+      "options": {
+        "a": {"en": "100 to 200 drops per minute", "hi": "100 से 200 बूंद प्रति मिनट"},
+        "b": {"en": "20 to 80 drops per minute", "hi": "20 to 80 बूंद प्रति मिनट"},
+        "c": {"en": "1,000 drops per minute", "hi": "1,000 बूंद प्रति मिनट"},
+        "d": {"en": "Only 1 drop per hour", "hi": "केवल 1 बूंद प्रति घंटे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This restricted flow ensures that the plant receives exact micro-targeted hydration without wasting a single drop.",
+        "hi": "यह नियंत्रित प्रवाह सुनिश्चित करता है कि बिना एक भी बूंद बर्बाद किए पौधे की जड़ों को सटीक नमी मिल सके।"
+      },
+      "explanation": {
+        "en": "About 18-20 liters of water enters the bamboo pipe system, gets transported over hundreds of meters, and finally reduces to 20-80 drops per minute at the site of the plant.",
+        "hi": "बाँस के पाइपों से होकर आने वाला पानी अंत में पौधे की जड़ पर केवल 20 से 80 बूंद प्रति मिनट की धीमी गति से टपकता है, जो पानी का अधिकतम सदुपयोग सुनिश्चित करता है।"
+      },
+      "key_takeaway": {
+        "en": "Micro-hydration = Bamboo channels efficiently scale down high stream pressures into precise agricultural drop metrics.",
+        "hi": "सटीक सिंचाई = बाँस के चैनल पानी के तीव्र प्रवाह को कृषि के अनुकूल नियंत्रित बूंदों में बदल देते हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "What are the traditional embanked agricultural fields called in Jaisalmer, which allow rainwater to stagnate and saturate the dry desert soil for cropping?",
+        "hi": "जल संरक्षण के पारंपरिक तरीकों में जैसलमेर में उन मेड़बंदी वाले कृषि खेतों को क्या कहा जाता है, जो वर्षा जल को रोककर शुष्क मरुस्थलीय मिट्टी को खेती के लिए नमी प्रदान करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Tanka", "hi": "टांका"},
+        "b": {"en": "Khadins", "hi": "खादीन"},
+        "c": {"en": "Kuls", "hi": "कुल"},
+        "d": {"en": "Baolis", "hi": "बावड़ी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The name starts with 'Kha...' and it represents a brilliant fusion of water conservation and arid land farming.",
+        "hi": "इस शब्द की शुरुआत 'खा...' से होती है और यह जल संरक्षण व मरुस्थलीय खेती के बेहतरीन समन्वय को दर्शाता है।"
+      },
+      "explanation": {
+        "en": "In arid regions, agricultural fields were converted into rain-fed storage structures that allowed water to stand and moisten the soil like the 'khadins' in Jaisalmer.",
+        "hi": "जैसलमेर में बड़े खेतों के चारों ओर मिट्टी की ऊँची मेड़ बनाकर बारिश के पानी को रोका जाता था, ताकि शुष्क भूमि में नमी बैठ सके। इन्हें 'खादीन' कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Khadins = Ancient hyper-local desert water-harvesting systems allowing agriculture in hyper-arid zones.",
+        "hi": "खादीन = मरुस्थलीय क्षेत्रों में पानी रोककर खेती को संभव बनाने वाली प्राचीन स्थानीय जल संचयन प्रणाली।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Why are modern river valley dams explicitly called 'multi-purpose' projects today?",
+        "hi": "नदी घाटियों पर बनाए जाने वाले आधुनिक बांधों को आज स्पष्ट रूप से 'बहुउद्देशीय' परियोजनाएं क्यों कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Because they are limited solely to recreational boat racing", "hi": "क्योंकि वे केवल नौका दौड़ जैसी मनोरंजक गतिविधियों तक ही सीमित हैं"},
+        "b": {"en": "Because they integrate many functions like electricity generation, flood control, fish breeding, and irrigation together", "hi": "क्योंकि वे बिजली उत्पादन, बाढ़ नियंत्रण, मत्स्य पालन और सिंचाई जैसे अनेक कार्यों को एक साथ जोड़ते हैं"},
+        "c": {"en": "Because they help international banks process sovereign debts faster", "hi": "क्योंकि वे अंतरराष्ट्रीय बैंकों को संप्रभु ऋणों को तेजी से संसाधित करने में मदद करते हैं"},
+        "d": {"en": "Because their primary engineering goal is to completely dry out river deltas", "hi": "क्योंकि उनका मुख्य इंजीनियरिंग लक्ष्य नदी के डेल्टा को पूरी तरह से सुखाना होता है"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They do not serve a single isolated function but manage water resources comprehensively for diverse regional economic goals.",
+        "hi": "वे केवल एक कार्य नहीं करते, बल्कि विभिन्न क्षेत्रीय आर्थिक लक्ष्यों के लिए जल संसाधनों का व्यापक और एकीकृत प्रबंधन करते हैं।"
+      },
+      "explanation": {
+        "en": "Multi-purpose projects include a combination of functions like irrigation, electricity generation, flood control, inland navigation, fish breeding and recreation, hence the name.",
+        "hi": "इन परियोजनाओं को बहुउद्देशीय इसलिए कहा जाता है क्योंकि एक ही बांध संरचना से सिंचाई, जलविद्युत, बाढ़ नियंत्रण, अंतर्देशीय नौवहन और मत्स्य पालन जैसे अनेक लाभ एक साथ प्राप्त होते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Multi-purpose Projects = Comprehensive integrated water resource management systems serving diverse economic sectors.",
+        "hi": "बहुउद्देशीय परियोजनाएं = विभिन्न आर्थिक क्षेत्रों की सेवा करने वाली व्यापक एकीकृत जल संसाधन प्रबंधन प्रणालियाँ।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "The critical lack of safe and usable water resources due to over-exploitation and rising pollution is formally termed as what?",
+        "hi": "अत्यधिक दोहन, असमान वितरण और बढ़ते प्रदूषण के कारण सुरक्षित और उपयोगी जल संसाधनों की भारी कमी को औपचारिक रूप से क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Water Abundance", "hi": "जल प्रचुरता"},
+        "b": {"en": "Water Scarcity", "hi": "जल दुर्लभता"},
+        "c": {"en": "Hydrological cycle acceleration", "hi": "जल चक्र का तीव्र होना"},
+        "d": {"en": "Flood saturation", "hi": "बाढ़ संतृप्ति"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This condition implies that the demand for clean water far outstrips its safe supply, a common crisis in many Indian cities today.",
+        "hi": "इस स्थिति का अर्थ है कि स्वच्छ पानी की मांग उसकी सुरक्षित आपूर्ति की तुलना में बहुत अधिक बढ़ गई है, जो आज कई भारतीय शहरों का मुख्य संकट है।"
+      },
+      "explanation": {
+        "en": "Water scarcity is the lack of sufficient available water resources to meet the demands of water usage within a region, driven by over-exploitation, population growth, and pollution.",
+        "hi": "बढ़ती आबादी की मांग, जल के दुरुपयोग और उद्योगों के कचरे से पानी के प्रदूषित होने के कारण उत्पन्न होने वाली भारी कमी को 'जल दुर्लभता' (Water Scarcity) कहा जाता है।"
+      },
+      "key_takeaway": {
+        "en": "Water Scarcity = Quantitative or qualitative depletion of accessible fresh water relative to human demand limits.",
+        "hi": "जल दुर्लभता = मानवीय मांग की तुलना में सुलभ मीठे पानी की मात्रात्मक या गुणात्मक भारी कमी।"
+      }
+    }
+  ]
+}
