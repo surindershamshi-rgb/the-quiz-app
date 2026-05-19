@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "The Rise of Nationalism in Europe",
+    "chapter_title_hindi": "यूरोप में राष्ट्रवाद का उदय",
+    "subject": "History (India and the Contemporary World - II) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 10,
+    "version": "1.0",
+    "naming_convention": "10th_History_Ch1_RiseOfNationalism_10MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-19T22:00:00Z",
+    "notes": "Verified bilingual accuracy, key historical terms, and structured JSON schema for Class 10 Social Science."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Who among the following prepared a series of four prints visualising his dream of a world made up of 'democratic and social Republics'?",
+        "hi": "निम्नलिखित में से किसने 'लोकतांत्रिक और सामाजिक गणराज्यों' से बने विश्व के अपने सपने को साकार करते हुए चार चित्रों की एक श्रृंखला तैयार की थी?"
+      },
+      "options": {
+        "a": {"en": "Giuseppe Mazzini", "hi": "जूत्सेपे मेत्सिनी"},
+        "b": {"en": "Frédéric Sorrieu", "hi": "फ्रेडरिक सॉरयू"},
+        "c": {"en": "Napoleon Bonaparte", "hi": "नेपोलियन बोनापार्ट"},
+        "d": {"en": "Duke Metternich", "hi": "ड्यूक मेटरनिख"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a French artist who created these famous prints in the year 1848.",
+        "hi": "वह एक फ्रांसीसी कलाकार थे जिन्होंने वर्ष 1848 में इन प्रसिद्ध चित्रों को बनाया था।"
+      },
+      "explanation": {
+        "en": "In 1848, Frédéric Sorrieu, a French artist, prepared a series of four prints visualising his dream of a world made up of democratic and social Republics.",
+        "hi": "1848 में, फ्रांसीसी कलाकार फ्रेडरिक सॉरयू ने चार चित्रों की एक श्रृंखला बनाई, जिसमें उन्होंने लोकतांत्रिक और सामाजिक गणराज्यों से बने विश्व के सपने को दर्शाया था।"
+      },
+      "key_takeaway": {
+        "en": "Frédéric Sorrieu = French artist of Utopian vision.",
+        "hi": "फ्रेडरिक सॉरयू = आदर्शवादी दृष्टि वाले फ्रांसीसी कलाकार।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "When did the French Revolution take place, marking the first clear expression of nationalism?",
+        "hi": "फ्रांसीसी क्रांति कब हुई थी, जो राष्ट्रवाद की पहली स्पष्ट अभिव्यक्ति मानी जाती है?"
+      },
+      "options": {
+        "a": {"en": "1789", "hi": "1789"},
+        "b": {"en": "1779", "hi": "1779"},
+        "c": {"en": "1799", "hi": "1799"},
+        "d": {"en": "1815", "hi": "1815"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "It occurred in the late 18th century, leading to the transfer of sovereignty from the monarchy to a body of French citizens.",
+        "hi": "यह 18वीं शताब्दी के उत्तरार्ध में हुई थी, जिसके कारण संप्रभुता राजशाही से फ्रांसीसी नागरिकों के पास स्थानांतरित हो गई थी।"
+      },
+      "explanation": {
+        "en": "The first clear expression of nationalism came with the French Revolution in 1789, which proclaimed that it was the people who would henceforth constitute the nation.",
+        "hi": "राष्ट्रवाद की पहली स्पष्ट अभिव्यक्ति 1789 में फ्रांसीसी क्रांति के साथ आई, जिसने घोषणा की कि अब से जनता ही राष्ट्र का गठन करेगी।"
+      },
+      "key_takeaway": {
+        "en": "1789 = French Revolution and birth of modern nationalism.",
+        "hi": "1789 = फ्रांसीसी क्रांति और आधुनिक राष्ट्रवाद का जन्म।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "What was the Civil Code of 1804 usually known as?",
+        "hi": "1804 की नागरिक संहिता (Civil Code) को आमतौर पर किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "The Bourbon Code", "hi": "बुर्बो संहिता"},
+        "b": {"en": "The French Civil Code", "hi": "फ्रांसीसी नागरिक संहिता"},
+        "c": {"en": "The Napoleonic Code", "hi": "नेपोलियन की संहिता"},
+        "d": {"en": "The Nationalism Code", "hi": "राष्ट्रवाद संहिता"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "It was introduced by the ruler who established monarchy again in France but made administrative fields more rational.",
+        "hi": "इसे उस शासक द्वारा लागू किया गया था जिसने फ्रांस में फिर से राजशाही स्थापित की थी लेकिन प्रशासनिक क्षेत्रों को तर्कसंगत बनाया था।"
+      },
+      "explanation": {
+        "en": "The Civil Code of 1804 – usually known as the Napoleonic Code – did away with all privileges based on birth, established equality before the law and secured the right to property.",
+        "hi": "1804 की नागरिक संहिता — जिसे आमतौर पर नेपोलियन की संहिता के नाम से जाना जाता है — ने जन्म पर आधारित सभी विशेषाधिकार समाप्त कर दिए थे और कानून के समक्ष समानता स्थापित की थी।"
+      },
+      "key_takeaway": {
+        "en": "Civil Code of 1804 = Napoleonic Code.",
+        "hi": "1804 की नागरिक संहिता = नेपोलियन की संहिता।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which battle marked the final defeat of Napoleon Bonaparte in 1815?",
+        "hi": "1815 में किस युद्ध में नेपोलियन बोनापार्ट की अंतिम हार हुई थी?"
+      },
+      "options": {
+        "a": {"en": "Battle of Leipzig", "hi": "लिप्सिग का युद्ध"},
+        "b": {"en": "Battle of Waterloo", "hi": "वाटरलू का युद्ध"},
+        "c": {"en": "Battle of Vienna", "hi": "वियना का युद्ध"},
+        "d": {"en": "Battle of Versailles", "hi": "वर्साय का युद्ध"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "After this defeat, European powers met at Vienna to draw up a settlement for Europe.",
+        "hi": "इस हार के बाद, यूरोपीय शक्तियां यूरोप के लिए एक समझौता तैयार करने के लिए वियना में मिली थीं।"
+      },
+      "explanation": {
+        "en": "Napoleon was finally defeated at the Battle of Waterloo in 1815 by the collective European powers (Britain, Russia, Prussia, and Austria).",
+        "hi": "नेपोलियन को अंततः 1815 में वाटरलू के युद्ध में सामूहिक यूरोपीय शक्तियों (ब्रिटेन, रूस, प्रसा और ऑस्ट्रिया) द्वारा हराया गया था।"
+      },
+      "key_takeaway": {
+        "en": "1815 = Waterloo Defeat and rise of Conservatism.",
+        "hi": "1815 = वाटरलू में हार और रूढ़िवाद का उदय।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Who hosted the Congress of Vienna in 1815?",
+        "hi": "1815 में वियना कांग्रेस (वियना सम्मेलन) की मेजबानी किसने की थी?"
+      },
+      "options": {
+        "a": {"en": "Duke Metternich", "hi": "ड्यूक मेटरनिख"},
+        "b": {"en": "Giuseppe Garibaldi", "hi": "जूत्सेपे गैरीबाल्डी"},
+        "c": {"en": "Otto von Bismarck", "hi": "ऑटो वॉन बिस्मार्क"},
+        "d": {"en": "Louis Philippe", "hi": "लुई फिलिप"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was the Austrian Chancellor and a prominent conservative leader.",
+        "hi": "वह ऑस्ट्रिया के चांसलर और एक प्रमुख रूढ़िवादी नेता थे।"
+      },
+      "explanation": {
+        "en": "The Congress of Vienna in 1815 was hosted by the Austrian Chancellor Duke Metternich to undo most of the changes that had come about in Europe during the Napoleonic wars.",
+        "hi": "1815 में वियना कांग्रेस की मेजबानी ऑस्ट्रिया के चांसलर ड्यूक मेटरनिख ने की थी ताकि नेपोलियन के युद्धों के दौरान यूरोप में आए अधिकांश बदलावों को बदला जा सके।"
+      },
+      "key_takeaway": {
+        "en": "Congress of Vienna = Hosted by Austrian Chancellor Metternich.",
+        "hi": "वियना कांग्रेस = ऑस्ट्रियाई चांसलर मेटरनिख द्वारा आयोजित।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which secret society was founded by Giuseppe Mazzini in Marseilles?",
+        "hi": "जूत्सेपे मेत्सिनी द्वारा मार्सैई (Marseilles) में किस गुप्त संगठन (Secret Society) की स्थापना की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Young Italy", "hi": "यंग इटली"},
+        "b": {"en": "Young Europe", "hi": "यंग यूरोप"},
+        "c": {"en": "Carbonari", "hi": "कार्बोनारी"},
+        "d": {"en": "Jacobin Club", "hi": "जैकोबिन क्लब"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He later founded another society called 'Young Europe' in Berne.",
+        "hi": "उन्होंने बाद में बर्न में 'यंग यूरोप' नामक एक और संगठन की स्थापना भी की थी।"
+      },
+      "explanation": {
+        "en": "Giuseppe Mazzini founded secret societies, firstly 'Young Italy' in Marseilles, and then 'Young Europe' in Berne, to spread his revolutionary ideas.",
+        "hi": "जूत्सेपे मेत्सिनी ने अपने क्रांतिकारी विचारों के प्रसार के लिए गुप्त संगठनों की स्थापना की, जिसमें सबसे पहले मार्सैई में 'यंग इटली' बनाया गया।"
+      },
+      "key_takeaway": {
+        "en": "Young Italy = Marseilles; Young Europe = Berne.",
+        "hi": "यंग इटली = मार्सैई; यंग यूरोप = बर्न।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which treaty recognized Greece as an independent nation in 1832?",
+        "hi": "1832 में किस संधि ने यूनान (Greece) को एक स्वतंत्र राष्ट्र के रूप में मान्यता दी?"
+      },
+      "options": {
+        "a": {"en": "Treaty of Vienna", "hi": "वियना की संधि"},
+        "b": {"en": "Treaty of Constantinople", "hi": "कुस्तुनतुनिया की संधि"},
+        "c": {"en": "Treaty of Versailles", "hi": "वर्साय की संधि"},
+        "d": {"en": "Treaty of Paris", "hi": "पेरिस की संधि"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Greek War of Independence ended with this historic treaty in 1832.",
+        "hi": "यूनानी स्वतंत्रता संग्राम का अंत 1832 में इस ऐतिहासिक संधि के साथ हुआ था।"
+      },
+      "explanation": {
+        "en": "The Treaty of Constantinople of 1832 recognized Greece as an independent nation after its long struggle against the Ottoman Empire.",
+        "hi": "1832 की कुस्तुनतुनिया की संधि ने ऑटोमन साम्राज्य के खिलाफ लंबे संघर्ष के बाद यूनान को एक स्वतंत्र राष्ट्र के रूप में मान्यता दी।"
+      },
+      "key_takeaway": {
+        "en": "1832 = Independence of Greece via Treaty of Constantinople.",
+        "hi": "1832 = कुस्तुनतुनिया की संधि द्वारा यूनान की स्वतंत्रता।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who played the leading role and was the chief architect in the unification of Germany?",
+        "hi": "जर्मनी के एकीकरण में किसने मुख्य भूमिका निभाई और वह इसका मुख्य सूत्रधार (architect) था?"
+      },
+      "options": {
+        "a": {"en": "Kaiser William I", "hi": "कैसर विलियम प्रथम"},
+        "b": {"en": "Otto von Bismarck", "hi": "ऑटो वॉन बिस्मार्क"},
+        "c": {"en": "Giuseppe Garibaldi", "hi": "जूत्सेपे गैरीबाल्डी"},
+        "d": {"en": "Count Cavour", "hi": "काउंट कावूर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was the Chief Minister of Prussia and carried out the process with the help of the Prussian army and bureaucracy.",
+        "hi": "वह प्रसा (Prussia) के प्रमुख मंत्री थे और उन्होंने प्रसा की सेना और नौकरशाही की मदद से इस प्रक्रिया को पूरा किया।"
+      },
+      "explanation": {
+        "en": "Otto von Bismarck, the Chief Minister of Prussia, was the chief architect of the German unification process, following a policy of 'Blood and Iron'.",
+        "hi": "प्रसा के मुख्यमंत्री ऑटो वॉन बिस्मार्क जर्मनी के एकीकरण की प्रक्रिया के जनक थे, जिन्होंने 'रक्त और लौह' की नीति अपनाई थी।"
+      },
+      "key_takeaway": {
+        "en": "Otto von Bismarck = Architect of German Unification.",
+        "hi": "ऑटो वॉन बिस्मार्क = जर्मनी के एकीकरण का सूत्रधार।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "A customs union or 'Zollverein' was formed in 1834 at the initiative of which state?",
+        "hi": "1834 में किसकी पहल पर एक शुल्क संघ या 'जोलवेराइन' (Zollverein) का गठन किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Prussia", "hi": "प्रसा (Prussia)"},
+        "b": {"en": "Austria", "hi": "ऑस्ट्रिया"},
+        "c": {"en": "France", "hi": "फ्रांस"},
+        "d": {"en": "Russia", "hi": "रूस"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This state led the economic integration and later the political unification of Germany.",
+        "hi": "इस राज्य ने आर्थिक एकीकरण का नेतृत्व किया और बाद में जर्मनी के राजनीतिक एकीकरण का भी नेतृत्व किया।"
+      },
+      "explanation": {
+        "en": "In 1834, a customs union or Zollverein was formed at the initiative of Prussia and joined by most of the German states to abolish tariff barriers.",
+        "hi": "1834 में प्रसा की पहल पर एक शुल्क संघ 'जोलवेराइन' का गठन किया गया था, जिसका उद्देश्य व्यापारिक बाधाओं को समाप्त करना था।"
+      },
+      "key_takeaway": {
+        "en": "Zollverein = Customs union initiated by Prussia.",
+        "hi": "जोलवेराइन = प्रसा द्वारा शुरू किया गया शुल्क संघ।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Who was proclaimed the King of United Italy in 1861?",
+        "hi": "1861 में एकीकृत इटली का राजा किसे घोषित किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Victor Emmanuel II", "hi": "विक्टर इमैनुएल द्वितीय"},
+        "b": {"en": "Count Cavour", "hi": "काउंट कावूर"},
+        "c": {"en": "Giuseppe Mazzini", "hi": "जूत्सेपे मेत्सिनी"},
+        "d": {"en": "Louis XVIII", "hi": "लुई अठारहवां"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was already the ruler of Sardinia-Piedmont before the unification.",
+        "hi": "वह एकीकरण से पहले ही सार्डिनिया-पीडमोंट के शासक थे।"
+      },
+      "explanation": {
+        "en": "In 1861, Victor Emmanuel II, the ruler of Sardinia-Piedmont, was officially proclaimed the King of United Italy.",
+        "hi": "1861 में, सार्डिनिया-पीडमोंट के शासक विक्टर इमैनुएल द्वितीय को आधिकारिक तौर पर एकीकृत इटली का राजा घोषित किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "1861 = Victor Emmanuel II becomes King of United Italy.",
+        "hi": "1861 = विक्टर इमैनुएल द्वितीय एकीकृत इटली के राजा बने।"
+      }
+    }
+  ]
+}
