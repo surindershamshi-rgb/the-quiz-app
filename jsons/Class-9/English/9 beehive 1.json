@@ -1,0 +1,799 @@
+{
+  "metadata": {
+    "chapter_number": 1,
+    "chapter_title": "The Fun They Had",
+    "chapter_title_hindi": "द फन दे हैड",
+    "subject": "English (Beehive) - Class 9",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "9th_English_Beehive_Ch1_TheFunTheyHad_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-19T22:55:00Z",
+    "notes": "Verified complete set of 30 questions with strict bilingual formatting, detailed logical rationales, and exact chronological structure from diary entry to Margie's final thoughts."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "How old are Margie and Tommy in the story 'The Fun They Had'?",
+        "hi": "'The Fun They Had' कहानी में मार्गी और टॉमी की उम्र क्या है?"
+      },
+      "options": {
+        "a": {"en": "Margie is 11 and Tommy is 13", "hi": "मार्गी 11 वर्ष की है और टॉमी 13 वर्ष का है"},
+        "b": {"en": "Margie is 10 and Tommy is 12", "hi": "मार्गी 10 वर्ष की है और टॉमी 12 वर्ष का है"},
+        "c": {"en": "Margie is 12 and Tommy is 14", "hi": "मार्गी 12 वर्ष की है और टॉमी 14 वर्ष का है"},
+        "d": {"en": "Margie is 11 and Tommy is 12", "hi": "मार्गी 11 वर्ष की है और टॉमी 12 वर्ष का है"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Margie is younger than Tommy by exactly two years.",
+        "hi": "मार्गी टॉमी से ठीक दो साल छोटी है।"
+      },
+      "explanation": {
+        "en": "According to the text, Margie was eleven and Tommy was thirteen years old.",
+        "hi": "पाठ के अनुसार, मार्गी की उम्र ग्यारह वर्ष और टॉमी की उम्र तेरह वर्ष थी।"
+      },
+      "key_takeaway": {
+        "en": "Margie = 11 years, Tommy = 13 years.",
+        "hi": "मार्गी = 11 वर्ष, टॉमी = 13 वर्ष।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "On which date did Margie make the entry in her diary about the real book?",
+        "hi": "मार्गी ने अपनी डायरी में वास्तविक पुस्तक के बारे में किस तारीख को प्रविष्टि (entry) की थी?"
+      },
+      "options": {
+        "a": {"en": "17 May 2157", "hi": "17 मई 2157"},
+        "b": {"en": "17 May 2057", "hi": "17 मई 2057"},
+        "c": {"en": "17 June 2157", "hi": "17 जून 2157"},
+        "d": {"en": "15 May 2157", "hi": "15 मई 2157"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "The story is set more than a century into the future from our current era.",
+        "hi": "यह कहानी हमारे वर्तमान युग से एक सदी से भी अधिक भविष्य के समय में सेट है।"
+      },
+      "explanation": {
+        "en": "On the page headed 17 May 2157, Margie wrote, 'Today Tommy found a real book!'",
+        "hi": "मार्गी ने अपनी डायरी में 17 मई 2157 की तारीख वाले पन्ने पर इस अनोखी खोज को दर्ज किया था।"
+      },
+      "key_takeaway": {
+        "en": "Diary entry date = 17 May 2157.",
+        "hi": "डायरी प्रविष्टि की तारीख = 17 मई 2157।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Where did Tommy find the old real paper book?",
+        "hi": "टॉमी को वह पुरानी वास्तविक कागजी पुस्तक कहाँ मिली थी?"
+      },
+      "options": {
+        "a": {"en": "In a public library", "hi": "एक सार्वजनिक पुस्तकालय में"},
+        "b": {"en": "In the attic of his house", "hi": "अपने घर की दुछत्ती (attic) में"},
+        "c": {"en": "In his schoolroom", "hi": "अपने स्कूल के कमरे में"},
+        "d": {"en": "In a bookstore", "hi": "एक किताबों की दुकान में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a storage space found just below the roof of his house.",
+        "hi": "यह उसके घर की छत के ठीक नीचे की जगह होती है जिसका उपयोग पुराना सामान रखने में होता है।"
+      },
+      "explanation": {
+        "en": "Tommy pointed without looking because he was busy reading: 'In the attic.'",
+        "hi": "टॉमी ने बिना देखे इशारा करते हुए बताया था कि उसे यह किताब अपने घर की दुछत्ती (attic) में मिली।"
+      },
+      "key_takeaway": {
+        "en": "Book location = Found in the attic.",
+        "hi": "पुस्तक मिलने का स्थान = दुछत्ती (attic) में।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "What was strange about the real book for Margie and Tommy?",
+        "hi": "मार्गी और टॉमी के लिए उस वास्तविक पुस्तक में क्या अजीब बात थी?"
+      },
+      "options": {
+        "a": {"en": "The pages were made of gold foil", "hi": "पन्ने सोने की पन्नी के बने थे"},
+        "b": {"en": "The words stood still instead of moving on a screen", "hi": "शब्द स्क्रीन पर चलने के बजाय स्थिर थे"},
+        "c": {"en": "The book could speak aloud to them", "hi": "किताब उनसे ज़ोर से बात कर सकती थी"},
+        "d": {"en": "It changed color every time they turned a page", "hi": "हर बार पन्ना पलटने पर इसका रंग बदल जाता था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They were entirely used to reading dynamic telebooks on television screens.",
+        "hi": "वे कंप्यूटर स्क्रीन पर चलने वाली चलायमान टेलीबुक्स पढ़ने के आदी थे।"
+      },
+      "explanation": {
+        "en": "They found it funny to read words that stood still instead of moving the way they were supposed to on a screen.",
+        "hi": "उनके लिए यह बेहद अजीब था कि कागज पर छपे शब्द स्थिर थे और पन्ना पलटने पर भी पुराने शब्द वहीं मौजूद थे।"
+      },
+      "key_takeaway": {
+        "en": "Real book feature = Words were static on paper.",
+        "hi": "वास्तविक पुस्तक की विशेषता = कागज पर शब्द स्थिर थे।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "What did Tommy call a 'waste' in the story?",
+        "hi": "कहानी में टॉमी ने किसे एक 'अपव्यय' या 'बेकार की चीज़' (waste) कहा था?"
+      },
+      "options": {
+        "a": {"en": "The mechanical teacher setup", "hi": "मैकेनिक शिक्षक के ढांचे को"},
+        "b": {"en": "Printed paper books", "hi": "कागज पर छपी पुस्तकों को"},
+        "c": {"en": "The arithmetic schoolroom", "hi": "अंकगणित के स्कूल के कमरे को"},
+        "d": {"en": "Writing paper diaries", "hi": "कागज की डायरी लिखने को"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He referred to a medium that you presumably throw away once you finish reading it.",
+        "hi": "उसने उस माध्यम का ज़िक्र किया जिसे एक बार पढ़ने के बाद फेंक दिया जाता है और दोबारा बदला नहीं जा सकता।"
+      },
+      "explanation": {
+        "en": "Tommy said, 'Gee, what a waste. When you're through with the book, you just throw it away, I guess.'",
+        "hi": "टॉमी का मानना था कि कागज की किताबों को एक बार पढ़ने के बाद फेंक दिया जाता है, जो कि लाखों किताबें संजोने वाली टीवी स्क्रीन के मुकाबले बर्बादी है।"
+      },
+      "key_takeaway": {
+        "en": "Tommy's view = Paper books are a waste after reading.",
+        "hi": "टॉमी का विचार = पढ़ने के बाद कागज की किताबें बेकार हो जाती हैं।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "What subject was the old book about that Tommy found?",
+        "hi": "टॉमी को जो पुरानी किताब मिली थी, वह किस विषय के बारे में थी?"
+      },
+      "options": {
+        "a": {"en": "History of autonomous robots", "hi": "स्वायत्त रोबोट का इतिहास"},
+        "b": {"en": "School", "hi": "स्कूल (School)"},
+        "c": {"en": "Interstellar space travel", "hi": "अंतरिक्ष यात्रा के नियम"},
+        "d": {"en": "Ancient mechanical wars", "hi": "प्राचीन यांत्रिक युद्ध"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Margie was highly scornful because she hated this institution and couldn't understand writing about it.",
+        "hi": "मार्गी को इस संस्थान से नफ़रत थी और वह समझ नहीं पा रही थी कि कोई इस पर किताब क्यों लिखेगा।"
+      },
+      "explanation": {
+        "en": "Margie was scornful. 'School? What’s there to write about school? I hate school.'",
+        "hi": "वह किताब पुराने जमाने के स्कूलों के बारे में थी, जो उनके वर्तमान वर्चुअल स्कूल से अलग थे।"
+      },
+      "key_takeaway": {
+        "en": "Book subject = Old type of school.",
+        "hi": "किताब का विषय = पुराने जमाने का स्कूल।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Why did Margie hate school more than ever lately?",
+        "hi": "हाल ही में मार्गी को अपने स्कूल से पहले से कहीं ज़्यादा नफ़रत क्यों होने लगी थी?"
+      },
+      "options": {
+        "a": {"en": "Because her neighborhood friends did not study with her", "hi": "क्योंकि उसके पड़ोस के दोस्त उसके साथ नहीं पढ़ते थे"},
+        "b": {"en": "Because the mechanical teacher was giving her test after test in geography and she was doing worse and worse", "hi": "क्योंकि मैकेनिकल टीचर भूगोल में लगातार टेस्ट दे रहा था और उसका प्रदर्शन खराब होता जा रहा था"},
+        "c": {"en": "Because her mother scolded her for not cleaning the house", "hi": "क्योंकि उसकी माँ उसे घर की सफाई न करने के लिए डाँटती थी"},
+        "d": {"en": "Because the schoolroom screen was very dark and flickered", "hi": "क्योंकि स्कूल की स्क्रीन बहुत अँधेरी थी और झिलमिलाती थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The sector of geography in her mechanical teacher was running too fast for her age.",
+        "hi": "उसके मैकेनिकल टीचर में भूगोल का स्तर उसकी वास्तविक उम्र के मुकाबले बहुत तेज़ गति पर सेट हो गया था।"
+      },
+      "explanation": {
+        "en": "Margie's mechanical teacher had been giving her test after test in geography and she had been doing worse and worse due to a technical speed glitch.",
+        "hi": "भूगोल में रोबोट द्वारा लगातार लिए जा रहे टेस्ट और गिरते प्रदर्शन के कारण मार्गी हताश और स्कूल से परेशान थी।"
+      },
+      "key_takeaway": {
+        "en": "Reason for hatred = Repeated geography tests and poor performance.",
+        "hi": "नफ़रत का कारण = भूगोल के लगातार टेस्ट और खराब प्रदर्शन।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Who was called by Margie's mother to inspect and repair the mechanical teacher?",
+        "hi": "मार्गी की माँ ने मैकेनिकल टीचर की जाँच और मरम्मत के लिए किसे बुलाया था?"
+      },
+      "options": {
+        "a": {"en": "The Town Mayor", "hi": "नगर प्रमुख को"},
+        "b": {"en": "The County Inspector", "hi": "काउंटी इंस्पेक्टर (The County Inspector)"},
+        "c": {"en": "Tommy's elder brother", "hi": "टॉमी के बड़े भाई को"},
+        "d": {"en": "The School Principal", "hi": "स्कूल के प्रिंसिपल को"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He was a round little man with a red face and a box of tools with dials and wires.",
+        "hi": "वह लाल चेहरे वाला एक गोल-मटोल छोटा आदमी था जिसके पास तारों और डायलों वाला टूलबॉक्स था।"
+      },
+      "explanation": {
+        "en": "Mrs. Jones shook her head sorrowfully and sent for the County Inspector to repair the mechanical teacher.",
+        "hi": "मार्गी की माँ ने स्थिति बिगड़ते देख कंप्यूटर की मरम्मत के लिए क्षेत्रीय काуंटी इंस्पेक्टर को बुलाया।"
+      },
+      "key_takeaway": {
+        "en": "Repair technician = County Inspector.",
+        "hi": "मरम्मत तकनीशियन = काउंटी इंस्पेक्टर।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "What did the County Inspector give Margie to make her feel comfortable before working?",
+        "hi": "मरम्मत शुरू करने से पहले मार्गी को सहज महसूस कराने के लिए काउंटी इंस्पेक्टर ने उसे क्या दिया था?"
+      },
+      "options": {
+        "a": {"en": "A new printed book", "hi": "एक नई छपी किताब"},
+        "b": {"en": "An apple", "hi": "एक सेब (An apple)"},
+        "c": {"en": "A sweet chocolate bar", "hi": "एक मीठी चॉकलेट बार"},
+        "d": {"en": "A robotic toy animal", "hi": "एक रोबोटिक खिलौना जानवर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is a common round red fruit associated with teachers and health.",
+        "hi": "यह एक आम गोल लाल रंग का फल है जो स्वास्थ्य और बच्चों को पुचकारने के काम आता है।"
+      },
+      "explanation": {
+        "en": "He smiled at Margie and gave her an apple, then took the teacher apart.",
+        "hi": "काउंटी इंस्पेक्टर ने मार्गी को पुचकारते हुए एक सेब दिया और फिर मैकेनिकल टीचर को खोलना शुरू किया।"
+      },
+      "key_takeaway": {
+        "en": "Inspector's gift = An apple.",
+        "hi": "इंस्पेक्टर का उपहार = एक सेब।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "What technical error was found in the mechanical teacher's geography sector?",
+        "hi": "मैकेनिकल टीचर के भूगोल क्षेत्र (geography sector) में क्या तकनीकी खराबी पाई गई थी?"
+      },
+      "options": {
+        "a": {"en": "The data was completely deleted", "hi": "डाटा पूरी तरह से डिलीट हो गया था"},
+        "b": {"en": "It was geared a little too quick for an average 11-year-old", "hi": "यह औसत ग्यारह वर्षीय बच्चे के लिए थोड़ा बहुत तेज़ सेट हो गया था"},
+        "c": {"en": "It was locked with an unknown protocol", "hi": "यह एक अज्ञात प्रोटोकॉल से लॉक था"},
+        "d": {"en": "It was showing ancient historical maps instead", "hi": "यह इसके बजाय प्राचीन ऐतिहासिक मानचित्र दिखा रहा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The automated learning program's speed was accelerated beyond Margie's biological age standard.",
+        "hi": "स्वचालित सीखने के कार्यक्रम की गति मार्गी की वास्तविक उम्र के स्तर से आगे बढ़ गई थी।"
+      },
+      "explanation": {
+        "en": "The Inspector said: 'I think the geography sector was geared a little too quick. Those things happen sometimes. I’ve slowed it up to an average ten-year level.'",
+        "hi": "इंस्पेक्टर ने बताया कि भूगोल का भाग थोड़ा तेज़ गति पर सेट हो गया था, जिसे उसने घटाकर औसत 10 वर्ष के स्तर का कर दिया।"
+      },
+      "key_takeaway": {
+        "en": "Teacher's fault = Geography sector was geared too quick.",
+        "hi": "टीचर की खराबी = भूगोल क्षेत्र बहुत तेज़ गति पर सेट था।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Margie had to write out her homework and test papers in which format?",
+        "hi": "मार्गी को अपना होमवर्क और टेस्ट पेपर किस प्रारूप/भाषा में लिखना पड़ता था?"
+      },
+      "options": {
+        "a": {"en": "Standard binary numbers", "hi": "मानक बाइनरी नंबरों में"},
+        "b": {"en": "A punch code", "hi": "एक पंच कोड में (A punch code)"},
+        "c": {"en": "High-level python script", "hi": "हाई-लेवल पाइथन स्क्रिप्ट में"},
+        "d": {"en": "Handwritten cursive English", "hi": "हाथ से लिखी कर्सिव अंग्रेज़ी में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She was forced to learn this input system when she was just six years old.",
+        "hi": "उसे यह इनपुट सिस्टम तब सिखाया गया था जब वह केवल छह साल की छोटी बच्ची थी।"
+      },
+      "explanation": {
+        "en": "Margie had to write homework in a punch code they made her learn when she was six years old, and the mechanical teacher calculated the marks instantly.",
+        "hi": "मार्गी को छह साल की उम्र में सिखाए गए 'पंच कोड' में अपना होमवर्क टाइप करना होता था ताकि कंप्यूटर तुरंत जाँच कर सके।"
+      },
+      "key_takeaway": {
+        "en": "Submission format = Punch code language.",
+        "hi": "जमा करने का प्रारूप = पंच कोड भाषा।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "What did Margie secretly hope when the Inspector dismantled her teacher?",
+        "hi": "जब इंस्पेक्टर ने उसके मैकेनिकल टीचर के पुर्जे अलग किए, तो मार्गी ने मन ही मन क्या उम्मीद लगाई थी?"
+      },
+      "options": {
+        "a": {"en": "She hoped she would receive a human teacher instead", "hi": "उसे उम्मीद थी कि उसे बदले में एक इंसानी शिक्षक मिलेगा"},
+        "b": {"en": "She hoped he wouldn't know how to put it together again", "hi": "उसे उम्मीद थी कि इंस्पेक्टर को इसे वापस जोड़ना नहीं आता होगा"},
+        "c": {"en": "She hoped her mother would lose the bill", "hi": "उसे उम्मीद थी कि उसकी माँ इसका बिल खो देगी"},
+        "d": {"en": "She hoped it would be thrown into the garbage", "hi": "उसे उम्मीद थी कि इसे कचरे में फेंक दिया जाएगा"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She wanted a long holiday away from the daily screen tests.",
+        "hi": "वह दैनिक कंप्यूटर स्क्रीन टेस्ट से दूर एक लंबी छुट्टी चाहती थी।"
+      },
+      "explanation": {
+        "en": "Margie had hoped he wouldn’t know how to put it together again, but he knew how all right, and after an hour or so, there it was again.",
+        "hi": "मार्गी चाहती थी कि इंस्पेक्टर उसे दोबारा जोड़ न पाए ताकि उसकी पढ़ाई कुछ हफ़्तों के लिए बंद रहे।"
+      },
+      "key_takeaway": {
+        "en": "Margie's wish = Teacher should not be reassembled.",
+        "hi": "मार्गी की इच्छा = शिक्षक के पुर्जे दोबारा न जुड़ सकें।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Why was Tommy's mechanical teacher once taken away for nearly a month?",
+        "hi": "एक बार टॉमी के मैकेनिकल शिक्षक को लगभग एक महीने के लिए दूर क्यों ले जाना पड़ा था?"
+      },
+      "options": {
+        "a": {"en": "The screen glass was shattered", "hi": "उसकी स्क्रीन का शीशा टूट गया था"},
+        "b": {"en": "The history sector had blanked out completely", "hi": "उसका इतिहास क्षेत्र पूरी तरह से खाली (blank) हो गया था"},
+        "c": {"en": "The system was infected with an automated virus", "hi": "सिस्टम एक ऑटोमेटेड वायरस से संक्रमित हो गया था"},
+        "d": {"en": "He had advanced to high-school level ahead of time", "hi": "वह समय से पहले हाई-स्कूल स्तर पर पहुंच गया था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This sector recorded the data of past centuries, kings, and ancient societies.",
+        "hi": "यह भाग पुरानी सदियों, राजाओं और प्राचीन समाजों के डेटा को रिकॉर्ड करता था।"
+      },
+      "explanation": {
+        "en": "They had once taken Tommy’s teacher away for nearly a month because the history sector had blanked out completely, leaving nothing to teach.",
+        "hi": "टॉमी के रोबोट शिक्षक का इतिहास का भाग पूरी तरह डिलीट हो गया था, जिसे ठीक करने में पूरा महीना लगा था।"
+      },
+      "key_takeaway": {
+        "en": "Tommy's teacher issue = History sector blanked out.",
+        "hi": "टॉमी के शिक्षक की समस्या = इतिहास क्षेत्र खाली हो गया था।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "What kind of teachers did schools have centuries ago, according to the old book?",
+        "hi": "पुरानी किताब के अनुसार, सदियों पहले के स्कूलों में किस प्रकार के शिक्षक होते थे?"
+      },
+      "options": {
+        "a": {"en": "Central processing units", "hi": "सेंट्रल प्रोसेसिंग यूनिट वाले"},
+        "b": {"en": "Human beings (Men)", "hi": "मनुष्य/इंसान (Human beings)"},
+        "c": {"en": "Advanced androids", "hi": "उन्नत एंड्रॉइड वाले"},
+        "d": {"en": "They had no instructors at all", "hi": "वहाँ कोई शिक्षक होते ही नहीं थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Margie couldn't grasp how a living flesh-and-blood individual could know as much as a machine.",
+        "hi": "मार्गी यह नहीं समझ पा रही थी कि एक जीवित हाड़-मांस का व्यक्ति मशीन जितना ज्ञान कैसे रख सकता है।"
+      },
+      "explanation": {
+        "en": "Tommy explained: 'Sure they had a teacher, but it wasn’t a regular teacher. It was a man.'",
+        "hi": "टॉमी ने मार्गी को बताया कि पुराने समय में मशीनें नहीं बल्कि वास्तविक मनुष्य (इंसान) शिक्षक हुआ करते थे।"
+      },
+      "key_takeaway": {
+        "en": "Ancient teachers = Human beings.",
+        "hi": "प्राचीन शिक्षक = इंसान होते थे।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Where was Margie's designated schoolroom located?",
+        "hi": "कहानी में मार्गी का निर्धारित स्कूल का कमरा कहाँ स्थित था?"
+      },
+      "options": {
+        "a": {"en": "In a special institutional building down the block", "hi": "ब्लॉक के अंत में एक विशेष संस्थागत इमारत में"},
+        "b": {"en": "Right next to her bedroom in her own house", "hi": "उसके अपने घर में उसके बेडरूम के ठीक बगल में"},
+        "c": {"en": "In the attic above Tommy's apartment", "hi": "टॉमी के अपार्टमेंट के ऊपर दुछत्ती में"},
+        "d": {"en": "In a shared residential learning center", "hi": "एक साझा आवासीय शिक्षण केंद्र में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her learning space was fully integrated into her private domestic home structure.",
+        "hi": "उसका सीखने का स्थान उसके निजी घरेलू घर के ढांचे के भीतर ही समाहित था।"
+      },
+      "explanation": {
+        "en": "Margie’s schoolroom was right next to her bedroom, where her mechanical teacher flashed to start sessions daily.",
+        "hi": "मार्गी का स्कूल कहीं बाहर नहीं बल्कि उसके अपने घर में उसके शयनकक्ष (bedroom) के साथ वाला कमरा था।"
+      },
+      "key_takeaway": {
+        "en": "School location = Next to her bedroom.",
+        "hi": "स्कूल का स्थान = उसके बेडरूम के बगल में।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "On which days of the week did Margie have holidays from her mechanical teacher?",
+        "hi": "सप्ताह के किन दिनों में मार्गी की मैकेनिकल टीचर से छुट्टी होती थी?"
+      },
+      "options": {
+        "a": {"en": "Sunday and Monday", "hi": "रविवार और सोमवार को"},
+        "b": {"en": "Saturday and Sunday", "hi": "शनिवार और रविवार को (Saturday & Sunday)"},
+        "c": {"en": "Thursday and Friday", "hi": "गुरुवार और शुक्रवार को"},
+        "d": {"en": "Only on major regional solar holidays", "hi": "केवल प्रमुख क्षेत्रीय सौर छुट्टियों पर"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "These represent the standard automated two-day weekend schedule programmed into the machine.",
+        "hi": "ये मशीन में प्रोग्राम किए गए मानक दो दिवसीय सप्ताहांत (weekend) के अवकाश के दिन हैं।"
+      },
+      "explanation": {
+        "en": "The mechanical teacher was always on at the same time every day except Saturday and Sunday, which were her weekend breaks.",
+        "hi": "मार्गी का कंप्यूटर शनिवार और रविवार को छोड़कर हर दिन नियमित समय पर स्वचालित रूप से चालू हो जाता था।"
+      },
+      "key_takeaway": {
+        "en": "Margie's weekends = Saturday and Sunday off.",
+        "hi": "मार्गी का सप्ताहांत = शनिवार और रविवार की छुट्टी।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Why did Margie's mother insist on school sessions at identical times every day?",
+        "hi": "मार्गी की माँ हर दिन एक ही निश्चित समय पर स्कूल सत्र आयोजित करने पर क्यों ज़ोर देती थीं?"
+      },
+      "options": {
+        "a": {"en": "Because she believed little girls learned better if they learned at regular hours", "hi": "क्योंकि उनका मानना था कि छोटी लड़कियाँ नियमित घंटों में बेहतर सीखती हैं"},
+        "b": {"en": "To save electric power grid consumption", "hi": "बिजली ग्रिड की खपत बचाने के लिए"},
+        "c": {"en": "Because she had to clean the room at other times", "hi": "क्योंकि उन्हें अन्य समय पर कमरा साफ करना होता था"},
+        "d": {"en": "To match Tommy's structural learning data speeds", "hi": "टॉमी के सीखने के डेटा की गति से मेल खाने के लिए"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Consistency and temporal discipline were seen as vital for child cognition by her mother.",
+        "hi": "माँ द्वारा समय की निरंतरता और अनुशासन को बच्चे के सीखने के लिए महत्वपूर्ण माना जाता था।"
+      },
+      "explanation": {
+        "en": "Margie's mother said little girls learned better if they learned at regular hours, ensuring a strict routine.",
+        "hi": "माँ का मानना था कि यदि बच्चे रोज़ एक ही निश्चित समय पर नियमित अनुशासित होकर पढ़ें, तो वे बेहतर सीख पाते हैं।"
+      },
+      "key_takeaway": {
+        "en": "Mother's philosophy = Regular hours aid better learning.",
+        "hi": "माँ का दर्शन = नियमित समय से पढ़ाई बेहतर होती है।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "What specific topic was flashing on Margie's arithmetic screen when she sat down?",
+        "hi": "जब मार्गी पढ़ने बैठी, तो उसकी अंकगणित (arithmetic) की स्क्रीन पर कौन सा विशिष्ट विषय चमक रहा था?"
+      },
+      "options": {
+        "a": {"en": "Multiplication of complex decimals", "hi": "जटिल दशमलव का गुणा"},
+        "b": {"en": "The addition of proper fractions", "hi": "उचित भिन्नों का जोड़ (Addition of proper fractions)"},
+        "c": {"en": "Extraction of quadratic roots", "hi": "द्विघात जड़ों का निष्कर्षण"},
+        "d": {"en": "Geometric division of angles", "hi": "कोणों का ज्यामितीय विभाजन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The automated screen lesson text read: 'Today’s arithmetic lesson is on the addition of...'",
+        "hi": "स्क्रीन पर कंप्यूटर का स्वचालित संदेश कह रहा था: 'आज का अंकगणित का पाठ किसके जोड़ पर है...'"
+      },
+      "explanation": {
+        "en": "The mechanical teacher flashed on the screen: 'Today’s arithmetic lesson is on the addition of proper fractions.'",
+        "hi": "उस समय रोबोट स्क्रीन पर 'उचित भिन्नों के जोड़' (Addition of proper fractions) का गणित पाठ सिखा रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Lesson topic = Addition of proper fractions.",
+        "hi": "पाठ का विषय = उचित भिन्नों का जोड़।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What did Margie romanticize and admire most about the old type of schools?",
+        "hi": "मार्गी पुराने जमाने के स्कूलों के बारे में सबसे सुंदर और आकर्षक किसे मान रही थी?"
+      },
+      "options": {
+        "a": {"en": "The highly sleek design of past paper books", "hi": "पुरानी कागजी किताबों के आकर्षक डिजाइन को"},
+        "b": {"en": "That all the kids from the whole neighborhood came together, laughing, shouting, and sitting together", "hi": "कि पूरे पड़ोस के सभी बच्चे एक साथ हंसते, चिल्लाते और मिलकर बैठते थे"},
+        "c": {"en": "The complete absence of homework systems", "hi": "होमवर्क प्रणालियों की पूर्ण अनुपस्थिति को"},
+        "d": {"en": "The fact that human instructors required no electricity", "hi": "इस तथ्य को कि इंसानी शिक्षकों को बिजली की आवश्यकता नहीं होती थी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "She envied the organic social bonding and collective joy shared by students of past centuries.",
+        "hi": "वह सदियों पहले बच्चों के बीच होने वाले सामाजिक मेलजोल और सामूहिक आनंद को मिस कर रही थी।"
+      },
+      "explanation": {
+        "en": "Margie was thinking about how the kids must have loved it in the old days. She was thinking about the fun they had together.",
+        "hi": "मार्गी सोच रही थी कि कैसे पुराने समय में सभी बच्चे एक साथ खेलते, हंसते और एक-दूसरे की मदद करते हुए सीखते थे।"
+      },
+      "key_takeaway": {
+        "en": "The fun they had = Social interaction and joint learning of children.",
+        "hi": "मजेदार पहलू = बच्चों का सामाजिक मेलजोल और सामूहिक रूप से सीखना।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Who wrote the famous science-fiction story 'The Fun They Had'?",
+        "hi": "प्रसिद्ध विज्ञान-कथा 'The Fun They Had' के लेखक कौन हैं?"
+      },
+      "options": {
+        "a": {"en": "Isaac Asimov", "hi": "आईजैक असिमोव (Isaac Asimov)"},
+        "b": {"en": "Robert Frost", "hi": "रॉबर्ट फ्रॉस्ट"},
+        "c": {"en": "Coates Kinney", "hi": "कोट्स किन्नी"},
+        "d": {"en": "William Wordsworth", "hi": "विलियम वर्डसवर्थ"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "He was a highly prolific American writer and biochemist known for his futuristic robotics concepts.",
+        "hi": "वे रोबोटिक्स और भविष्य की कल्पनाओं पर आधारित कहानियों के प्रसिद्ध अमेरिकी लेखक थे।"
+      },
+      "explanation": {
+        "en": "'The Fun They Had' is a classic futuristic short story written by the master of science fiction, Isaac Asimov.",
+        "hi": "इस प्रसिद्ध भविष्यवादी कहानी की रचना महान विज्ञान-कथा लेखक आईजैक असिमोव द्वारा की गई है।"
+      },
+      "key_takeaway": {
+        "en": "Author = Isaac Asimov.",
+        "hi": "लेखक = आईजैक असिमोव।"
+      }
+    },
+    {
+      "question_id": 21,
+      "en": "What did Margie do before inserting her homework into the slot with a sigh?",
+      "hi": "आह भरते हुए स्लॉट में अपना होमवर्क डालने से पहले मार्गी क्या कर रही थी?"
+    },
+    "options": {
+      "a": {"en": "She called Tommy for assistance", "hi": "उसने मदद के लिए टॉमी को बुलाया"},
+      "b": {"en": "She was thinking about the old schools when her grandfather's grandfather was a little boy", "hi": "वह उन पुराने स्कूलों के बारे में सोच रही थी जब उसके दादा के दादा एक छोटे लड़के थे"},
+      "c": {"en": "She turned off the screen illumination", "hi": "उसने स्क्रीन की लाइट बंद कर दी थी"},
+      "d": {"en": "She started crying loudly", "hi": "वह ज़ोर-ज़ोर से रोने लगी थी"}
+    },
+    "correct_option": "b",
+    "hint": {
+      "en": "Her mind was completely occupied by the text descriptions from the old paper book.",
+      "hi": "उसका दिमाग पूरी तरह से पुरानी कागजी किताब में लिखे विवरणों के विचारों में खोया हुआ था।"
+    },
+    "explanation": {
+      "en": "Margie did so with a sigh. She was thinking about the old schools they had when her grandfather’s grandfather was a little boy.",
+      "hi": "मार्गी ने आह भरते हुए होमवर्क डाला क्योंकि उसका मन पुराने जमाने के बच्चों के आनंदमयी स्कूलों की यादों में डूबा था।"
+    },
+    "key_takeaway": {
+      "en": "Mind state = Lost in thoughts of ancestral school days.",
+      "hi": "मानसिक स्थिति = पूर्वजों के स्कूली दिनों के विचारों में खोई हुई।"
+    }
+  },
+  {
+    "question_id": 22,
+    "question": {
+      "en": "How did Tommy behave when Margie asked if she could read the book with him some more after school?",
+      "hi": "जब मार्गी ने पूछा कि क्या वह स्कूल के बाद उसके साथ किताब पढ़ सकती है, तो टॉमी का व्यवहार कैसा था?"
+    },
+    "options": {
+      "a": {"en": "He started shouting at her angrily", "hi": "वह गुस्से में उस पर चिल्लाने लगा"},
+      "b": {"en": "He said nonchalantly, 'Maybe,' and walked away whistling", "hi": "उसने उदासीनता (nonchalantly) से कहा, 'शायद,' और सीटी बजाते हुए चला गया"},
+      "c": {"en": "He tore the book immediately in front of her", "hi": "उसने तुरंत उसके सामने किताब फाड़ दी"},
+      "d": {"en": "He gifted the book to her permanently", "hi": "उसने किताब स्थायी रूप से उसे उपहार में दे दी"}
+    },
+    "correct_option": "b",
+    "hint": {
+      "en": "He showed a proud, careless indifference typical of an older child holding a prize.",
+      "hi": "उसने एक बड़े बच्चे की तरह उदासीनता और गर्व का प्रदर्शन किया जिसके हाथ कोई अनोखी चीज़ लगी हो।"
+    },
+    "explanation": {
+      "en": "'Maybe,' he said nonchalantly. He walked away whistling, the dusty old book tucked beneath his arm.",
+      "hi": "टॉमी ने लापरवाही से 'शायद' कहा और धूल भरी किताब को बगल में दबाकर सीटी बजाता हुआ चला गया।"
+    },
+    "key_takeaway": {
+      "en": "Tommy's posture = Nonchalant indifference.",
+      "hi": "टॉमी का रवैया = उदासीनता और बेपरवाही (Nonchalant)।"
+    }
+  },
+  {
+    "question_id": 23,
+    "question": {
+      "en": "What did the old schools have that ensured all children learned the same things together?",
+      "hi": "पुराने स्कूलों में ऐसा क्या था जिससे यह सुनिश्चित होता था कि सभी बच्चे एक साथ एक जैसी चीज़ें सीखें?"
+    },
+    "options": {
+      "a": {"en": "Identical individual robot program cards", "hi": "एक जैसे व्यक्तिगत रोबोट प्रोग्राम कार्ड"},
+      "b": {"en": "A shared building where children of the same age sat and learned the same lessons", "hi": "एक साझा इमारत जहाँ एक ही उम्र के बच्चे बैठते थे और एक जैसे पाठ पढ़ते थे"},
+      "c": {"en": "They didn't learn the same things at all", "hi": "वे एक जैसी चीज़ें बिल्कुल नहीं सीखते थे"},
+      "d": {"en": "They had home-based digital network servers", "hi": "उनके पास घर-आधारित डिजिटल नेटवर्क सर्वर थे"}
+    },
+    "correct_option": "b",
+    "hint": {
+      "en": "They gathered at a specific location separate from their private houses.",
+      "hi": "वे अपने निजी घरों से अलग एक विशिष्ट स्थान (इमारत) पर एकत्र होते थे।"
+    },
+    "explanation": {
+      "en": "'And they learned the same things?' 'Sure, if they were the same age.' They went to a special building together.",
+      "hi": "पुराने समय में एक ही उम्र के बच्चे एक साथ एक ही कमरे में बैठते थे और मानवीय शिक्षक उन्हें एक समान पाठ सिखाता था।"
+    },
+    "key_takeaway": {
+      "en": "Peer learning = Shared age groups enabled uniform collective learning.",
+      "hi": "सामूहिक शिक्षा = एक ही आयु वर्ग के होने से समान सामूहिक शिक्षा संभव थी।"
+    }
+  },
+  {
+    "question_id": 24,
+    "question": {
+      "en": "What was the physical condition of the book Tommy found?",
+      "hi": "टॉमी को मिली असली किताब की भौतिक स्थिति कैसी थी?"
+    },
+    "options": {
+      "a": {"en": "Bright, glossy, and newly manufactured", "hi": "चमकीली, चमकदार और नई बनी हुई"},
+      "b": {"en": "Old, dusty, with yellow and crinkly pages", "hi": "पुरानी, धूल भरी, और उसके पन्ने पीले व झुर्रीदार (crinkly) थे"},
+      "c": {"en": "It was completely torn into wet pieces", "hi": "वह पूरी तरह से गीले टुकड़ों में फटी हुई थी"},
+      "d": {"en": "It was made of plastic sheets", "hi": "वह प्लास्टिक की शीटों से बनी थी"}
+    },
+    "correct_option": "b",
+    "hint": {
+      "en": "It had been lying in the attic for generations without being opened.",
+      "hi": "वह बिना खोले कई पीढ़ियों से दुछत्ती (attic) में पड़ी हुई थी जिससे उसके पन्ने पुराने हो गए थे।"
+    },
+    "explanation": {
+      "en": "They turned the pages, which were yellow and crinkly, showing it was printed centuries ago.",
+      "hi": "किताब बहुत पुरानी थी, इसलिए समय के प्रभाव से उसके पन्ने पीले पड़ चुके थे और उन पर कई सिलवटें थीं।"
+    },
+    "key_takeaway": {
+      "en": "Book appearance = Yellow and crinkly pages.",
+      "hi": "पुस्तक का स्वरूप = पीले और झुर्रीदार पन्ने।"
+    }
+  },
+  {
+    "question_id": 25,
+    "question": {
+      "en": "What did Margie's grandfather tell her about books once?",
+      "hi": "मार्गी के दादाजी ने उसे एक बार किताबों के बारे में क्या बताया था?"
+    },
+    "options": {
+      "a": {"en": "That books would be illegal in the future", "hi": "कि भविष्य में किताबें अवैध हो जाएंगी"},
+      "b": {"en": "That when he was a little boy, his grandfather told him that there was a time when all stories were printed on paper", "hi": "कि जब वे छोटे बच्चे थे, तो उनके दादा ने बताया था कि एक समय था जब सभी कहानियाँ कागज़ पर छपती थीं"},
+      "c": {"en": "That computer teachers are the best", "hi": "कि कंप्यूटर शिक्षक ही सबसे अच्छे होते हैं"},
+      "d": {"en": "That he had never seen a library in his life", "hi": "कि उन्होंने अपने जीवन में कभी पुस्तकालय नहीं देखा था"}
+    },
+    "correct_option": "b",
+    "hint": {
+      "en": "He shared a memory passed down from three generations before Margie's era.",
+      "hi": "उन्होंने मार्गी के युग से तीन पीढ़ी पहले की एक पुरानी याद साझा की थी।"
+    },
+    "explanation": {
+      "en": "Margie remembered her grandfather once said that his grandfather told him that stories were printed on paper.",
+      "hi": "मार्गी को याद आया कि उसके दादाजी के दादाजी के जमाने में सभी कहानियाँ कंप्यूटर स्क्रीन पर नहीं बल्कि कागज़ पर छपती थीं।"
+    },
+    "key_takeaway": {
+      "en": "Historical fact = Stories were once printed on physical paper.",
+      "hi": "ऐतिहासिक तथ्य = कहानियाँ कभी भौतिक कागज़ पर छपती थीं।"
+    }
+  },
+  {
+    "question_id": 26,
+    "question": {
+      "en": "Why did Margie find the idea of a human teacher unusual?",
+      "hi": "मार्गी को एक इंसानी शिक्षक (human teacher) का विचार असामान्य क्यों लगा?"
+    },
+    "options": {
+      "a": {"en": "She thought humans were not allowed to enter houses", "hi": "उसने सोचा कि मनुष्यों को घरों में प्रवेश करने की अनुमति नहीं है"},
+      "b": {"en": "She didn't think a man could be smart enough to know as much as a machine", "hi": "उसे नहीं लगता था कि कोई इंसान मशीन जितना ज्ञान रखने लायक स्मार्ट हो सकता है"},
+      "c": {"en": "She thought humans only taught sports", "hi": "उसने सोचा कि इंसान केवल खेल सिखाते हैं"},
+      "d": {"en": "She believed humans could not speak the language of mathematics", "hi": "उसका मानना था कि इंसान गणित की भाषा नहीं बोल सकते"}
+    },
+    "correct_option": "b",
+    "hint": {
+      "en": "Her entire life's benchmark for knowledge was the automated institutional memory of computers.",
+      "hi": "ज्ञान के लिए उसके जीवन का एकमात्र पैमाना कंप्यूटर और उनकी असीमित मेमोरी डेटा था।"
+    },
+    "explanation": {
+      "en": "Margie said, 'A man? How could a man be a teacher?' She doubted a human's capacity to match a mechanical teacher's stored data.",
+      "hi": "मार्गी को लगता था कि इंसान के पास कंप्यूटर जितना असीमित ज्ञान नहीं हो सकता, इसलिए वह शिक्षक कैसे बन सकता है।"
+    },
+    "key_takeaway": {
+        "en": "Margie's skepticism = Doubted human intelligence capacity compared to computer storage.",
+        "hi": "मार्गी का संदेह = कंप्यूटर स्टोरेज की तुलना में मानव बुद्धि की क्षमता पर संदेह।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "How did Tommy defend the intellect of human teachers to Margie?",
+        "hi": "टॉमी ने मार्गी के सामने इंसानी शिक्षकों की बुद्धिमत्ता का बचाव किस प्रकार किया?"
+      },
+      "options": {
+        "a": {"en": "He said humans have bigger brain microchips installed", "hi": "उसने कहा कि मनुष्यों में बड़े मस्तिष्क माइक्रोचिप लगे होते हैं"},
+        "b": {"en": "He said his own father knew as much as his mechanical teacher", "hi": "उसने कहा कि उसके अपने पिता उतना ही जानते थे जितना उसका मैकेनिकल शिक्षक"},
+        "c": {"en": "He said humans could read books faster", "hi": "उसने कहा कि इंसान किताबें ज़्यादा तेज़ी से पढ़ सकते हैं"},
+        "d": {"en": "He admitted that humans are less smart than screens", "hi": "उसने स्वीकार किया कि इंसान स्क्रीन से कम स्मार्ट होते हैं"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "He used his father's vast knowledge base as a direct living proof.",
+        "hi": "उसने अपने पिता के विशाल ज्ञान का उपयोग एक सीधे जीवित प्रमाण के रूप में किया।"
+      },
+      "explanation": {
+        "en": "Tommy argued, 'He knows almost as much, I betcha. My father knows as much as my mechanical teacher.'",
+        "hi": "टॉमी ने मार्गी को चुनौती दी कि उसके पिता भी कंप्यूटर जितने ही ज्ञानी हैं, इसलिए इंसान शिक्षक हो सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Tommy's defense = Parents/humans possess equal knowledge capacities.",
+        "hi": "टॉमी का तर्क = माता-पिता/मनुष्य भी समान ज्ञान की क्षमता रखते हैं।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Where did the old human teachers give lessons to the students?",
+        "hi": "पुराने समय के इंसानी शिक्षक छात्रों को पाठ कहाँ पढ़ाते थे?"
+      },
+      "options": {
+        "a": {"en": "They walked into each child's private bedroom", "hi": "वे प्रत्येक बच्चे के निजी बेडरूम में आते थे"},
+        "b": {"en": "They didn't go to houses; they had a special building where all kids went", "hi": "वे घरों में नहीं जाते थे; उनका एक विशेष भवन (building) होता था जहाँ सभी बच्चे जाते थे"},
+        "c": {"en": "They taught via online streaming channels", "hi": "वे ऑनलाइन स्ट्रीमिंग चैनलों के माध्यम से पढ़ाते थे"},
+        "d": {"en": "They lived in tents in open fields", "hi": "वे खुले खेतों में तंबू लगाकर रहते थे"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This special building is what we call a regular school today.",
+        "hi": "इसी विशेष इमारत को आज हम नियमित स्कूल (School) की इमारत कहते हैं।"
+      },
+      "explanation": {
+        "en": "Tommy said, 'He didn’t live in the house. They had a special building and all the kids went there.'",
+        "hi": "टॉमी ने समझाया कि शिक्षक बच्चों के घरों में नहीं जाते थे, बल्कि बच्चे एक साझा इमारत (स्कूल) में पढ़ने जाते थे।"
+      },
+      "key_takeaway": {
+        "en": "School structure = A centralized specific building for all students.",
+        "hi": "स्कूल की संरचना = सभी छात्रों के लिए एक केंद्रीय विशिष्ट भवन।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What interruption caused Margie to leave Tommy and go to her schoolroom?",
+        "hi": "किस रुकावट के कारण मार्गी को टॉमी को छोड़कर अपने स्कूल के कमरे में जाना पड़ा था?"
+      },
+      "options": {
+        "a": {"en": "The mechanical teacher started a loud alarm", "hi": "मैकेनिकल टीचर ने एक ज़ोरदार अलार्म शुरू कर दिया था"},
+        "b": {"en": "Her mother called, 'Margie! School!'", "hi": "उसकी माँ ने आवाज़ दी, 'मार्गी! स्कूल का समय हो गया!'"},
+        "c": {"en": "Tommy refused to share the book further", "hi": "टॉमी ने आगे किताब साझा करने से इनकार कर दिया था"},
+        "d": {"en": "The power grid failed completely", "hi": "पावर ग्रिड पूरी तरह से ठप हो गया था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Her mother kept a strict eye on the daily routine timetable.",
+        "hi": "उसकी माँ दैनिक दिनचर्या की समय सारिणी पर सख्त नज़र रखती थीं।"
+      },
+      "explanation": {
+        "en": "Margie’s mother called, 'Margie! School!' Margie looked up. 'Not yet, Mamma.' But it was time.",
+        "hi": "मार्गी की माँ ने कमरे से आवाज़ देकर उसे याद दिलाया कि उसके रोबोटिक स्कूल का समय हो चुका है।"
+      },
+      "key_takeaway": {
+        "en": "Interruption = Mother's call for scheduled class time.",
+        "hi": "रुकावट = निर्धारित क्लास के समय के लिए माँ की आवाज़।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What was the mechanical teacher doing when Margie entered her schoolroom?",
+        "hi": "जब मार्गी अपने स्कूल के कमरे में दाखिल हुई, तो मैकेनिकल टीचर स्क्रीन पर क्या कर रहा था?"
+      },
+      "options": {
+        "a": {"en": "It was completely dark and unresponsive", "hi": "यह पूरी तरह से अंधेरा और अनुत्तरदायी था"},
+        "b": {"en": "It was on and flashing on the screen, ready for the arithmetic lesson", "hi": "यह चालू था और स्क्रीन पर चमक रहा था, अंकगणित के पाठ के लिए तैयार था"},
+        "c": {"en": "It was playing a digital musical video", "hi": "यह एक डिजिटल म्यूज़िक वीडियो चला रहा था"},
+        "d": {"en": "It was printing paper sheets automatically", "hi": "यह स्वचालित रूप से कागज की शीट प्रिंट कर रहा था"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It was lit up and explicitly requested yesterday's homework insertion.",
+        "hi": "यह प्रकाशित था और स्क्रीन पर कल का होमवर्क डालने का निर्देश दे रहा था।"
+      },
+      "explanation": {
+        "en": "The screen was lit up, and it said: 'Today’s arithmetic lesson is on the addition of proper fractions. Please insert yesterday’s homework in the proper slot.'",
+        "hi": "कमरे में कंप्यूटर चालू था और अंकगणित का पाठ शुरू करने के लिए कल का होमवर्क मांग रहा था।"
+      },
+      "key_takeaway": {
+        "en": "Teacher state = Active screen demanding homework submission.",
+        "hi": "शिक्षक की स्थिति = सक्रिय स्क्रीन जो होमवर्क जमा करने की मांग कर रही थी।"
+      }
+    }
+  ]
+}
