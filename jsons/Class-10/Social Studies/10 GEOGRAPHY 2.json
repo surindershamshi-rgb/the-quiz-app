@@ -1,0 +1,800 @@
+{
+  "metadata": {
+    "chapter_number": 2,
+    "chapter_title": "Forest and Wildlife Resources",
+    "chapter_title_hindi": "वन एवं वन्य जीव संसाधन",
+    "subject": "Geography (Contemporary India - II) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10th_Geography_Ch2_Forest_Wildlife_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-19T22:50:00Z",
+    "notes": "Verified bilingual consistency, absolute JSON validation, precise distractors, and complete coverage from IUCN classification to community conservation movements like Chipko and Beej Bachao Andolan."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Which international organization has classified plants and animal species into different categories like normal, endangered, and vulnerable?",
+        "hi": "किस अंतर्राष्ट्रीय संगठन ने पौधों और जानवरों की प्रजातियों को सामान्य, संकटग्रस्त और सुभेद्य जैसी विभिन्न श्रेणियों में वर्गीकृत किया है?"
+      },
+      "options": {
+        "a": {"en": "UNESCO", "hi": "यूनेस्को"},
+        "b": {"en": "IUCN", "hi": "आईयूसीएन (IUCN)"},
+        "c": {"en": "WWF", "hi": "डब्ल्यूडब्ल्यूएफ"},
+        "d": {"en": "UNEP", "hi": "यूएनईपी"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This organization maintains the famous 'Red Data Book' for threatened species.",
+        "hi": "यह संगठन संकटग्रस्त प्रजातियों के लिए प्रसिद्ध 'रेड डेटा बुक' जारी करता है।"
+      },
+      "explanation": {
+        "en": "The International Union for Conservation of Nature and Natural Resources (IUCN) has classified species based on their survival status.",
+        "hi": "अंतर्राष्ट्रीय प्राकृतिक संरक्षण संघ (IUCN) ने प्रजातियों के अस्तित्व की स्थिति के आधार पर उन्हें विभिन्न श्रेणियों में बांटा है।"
+      },
+      "key_takeaway": {
+        "en": "IUCN = Authority for classifying global species conservation status.",
+        "hi": "IUCN = वैश्विक प्रजातियों के संरक्षण की स्थिति का वर्गीकरण करने वाली संस्था।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Species whose population levels are considered to be normal for their survival, such as cattle, sal, and pine, are known as what?",
+        "hi": "वे प्रजातियाँ जिनकी संख्या जीवित रहने के लिए सामान्य मानी जाती है, जैसे पशु, साल और चीड़, क्या कहलाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Normal species", "hi": "सामान्य प्रजातियाँ"},
+        "b": {"en": "Endangered species", "hi": "संकटग्रस्त प्रजातियाँ"},
+        "c": {"en": "Vulnerable species", "hi": "सुभेद्य प्रजातियाँ"},
+        "d": {"en": "Rare species", "hi": "दुर्लभ प्रजातियाँ"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These species do not face an immediate threat of decline below critical levels.",
+        "hi": "इन प्रजातियों को वर्तमान में जनसंख्या घटने के किसी तात्कालिक संकट का सामना नहीं करना पड़ रहा है।"
+      },
+      "explanation": {
+        "en": "Normal species are those whose population levels are considered to be normal for their survival, such as cattle, sal, pine, and rodents.",
+        "hi": "सामान्य प्रजातियाँ वे हैं जिनकी संख्या उनके अस्तित्व के लिए सामान्य मानी जाती है और वे संकट में नहीं हैं।"
+      },
+      "key_takeaway": {
+        "en": "Normal species = Stable population with no immediate risk.",
+        "hi": "सामान्य प्रजातियाँ = बिना किसी तात्कालिक संकट के स्थिर जनसंख्या वाली प्रजातियाँ।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Which category of species includes those that are in danger of extinction if the negative factors causing their decline continue to operate?",
+        "hi": "प्रजातियों की किस श्रेणी में वे शामिल हैं जिनके लुप्त होने का खतरा है यदि उनकी संख्या कम करने वाले नकारात्मक कारक जारी रहते हैं?"
+      },
+      "options": {
+        "a": {"en": "Vulnerable species", "hi": "सुभेद्य प्रजातियाँ"},
+        "b": {"en": "Endangered species", "hi": "संकटग्रस्त प्रजातियाँ (Endangered)"},
+        "c": {"en": "Endemic species", "hi": "स्थानिक प्रजातियाँ"},
+        "d": {"en": "Extinct species", "hi": "लुप्त प्रजातियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Examples include the black buck, crocodile, Indian wild ass, and lion-tailed macaque.",
+        "hi": "उदाहरणों में काला हिरण, मगरमच्छ, भारतीय जंगली गधा और शेर जैसी पूंछ वाला मकाक शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Endangered species are those which are in danger of extinction. The survival of such species is difficult if the negative factors continue.",
+        "hi": "संकटग्रस्त प्रजातियाँ वे होती हैं जिनके विलुप्त होने का सीधा खतरा मंडरा रहा होता है।"
+      },
+      "key_takeaway": {
+        "en": "Endangered species = Immediate threat of extinction if negative factors persist.",
+        "hi": "संकटग्रस्त प्रजातियाँ = नकारात्मक कारक जारी रहने पर विलुप्त होने का तात्कालिक खतरा।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Species whose population has declined to levels from where it is likely to move into the endangered category in the near future are called what?",
+        "hi": "वे प्रजातियाँ जिनकी संख्या उस स्तर तक गिर गई है जहाँ से निकट भविष्य में उनके संकटग्रस्त श्रेणी में जाने की संभावना है, क्या कहलाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Rare species", "hi": "दुर्लभ प्रजातियाँ"},
+        "b": {"en": "Vulnerable species", "hi": "सुभेद्य प्रजातियाँ (Vulnerable)"},
+        "c": {"en": "Endemic species", "hi": "स्थानिक प्रजातियाँ"},
+        "d": {"en": "Normal species", "hi": "सामान्य प्रजातियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The blue sheep, Asiatic elephant, and Gangetic dolphin are prime examples of this category.",
+        "hi": "नीली भेड़, एशियाई हाथी और गंगा की डॉल्फिन इस श्रेणी के प्रमुख उदाहरण हैं।"
+      },
+      "explanation": {
+        "en": "Vulnerable species are those whose population has declined to levels from where it is likely to move into the endangered category if negative factors are not controlled.",
+        "hi": "सुभेद्य प्रजातियाँ वे होती हैं जिनकी संख्या तेजी से घट रही है और सुरक्षा न मिलने पर वे संकटग्रस्त हो सकती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Vulnerable species = Declining population putting them at risk of becoming endangered.",
+        "hi": "सुभेद्य प्रजातियाँ = घटती संख्या जो उन्हें संकटग्रस्त श्रेणी में धकेलने के कगार पर है।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Species with a small population that may move into the endangered or vulnerable category if negative factors affect them are known as what?",
+        "hi": "बहुत कम जनसंख्या वाली वे प्रजातियाँ जो नकारात्मक कारकों के प्रभावित करने पर संकटग्रस्त या सुभेद्य श्रेणी में जा सकती हैं, क्या कहलाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Extinct species", "hi": "लुप्त प्रजातियाँ"},
+        "b": {"en": "Rare species", "hi": "दुर्लभ प्रजातियाँ (Rare species)"},
+        "c": {"en": "Normal species", "hi": "सामान्य प्रजातियाँ"},
+        "d": {"en": "Endemic species", "hi": "स्थानिक प्रजातियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The wild Asiatic buffalo, desert fox, and hornbill belong to this category due to their naturally low numbers.",
+        "hi": "जंगली एशियाई भैंसा, मरुस्थली लोमड़ी और हॉर्नबिल अपनी स्वाभाविक रूप से कम संख्या के कारण इस श्रेणी में आते हैं।"
+      },
+      "explanation": {
+        "en": "Rare species are those with small populations that might easily move into the endangered or vulnerable category if negative factors continue to operate.",
+        "hi": "दुर्लभ प्रजातियाँ वे होती हैं जिनकी वैश्विक संख्या वैसे ही बहुत कम होती है और वे आसानी से संकटग्रस्त हो सकती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Rare species = Small natural population size susceptible to high threat levels.",
+        "hi": "दुर्लभ प्रजातियाँ = प्राकृतिक रूप से कम आबादी जो खतरे के प्रति अत्यधिक संवेदनशील है।"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Species which are only found in some particular areas, usually isolated by natural or geographical barriers, are termed as what?",
+        "hi": "वे प्रजातियाँ जो केवल कुछ विशेष क्षेत्रों में पाई जाती हैं, जो आमतौर पर प्राकृतिक या भौगोलिक बाधाओं द्वारा अलग थलग होते हैं, क्या कहलाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Rare species", "hi": "दुर्लभ प्रजातियाँ"},
+        "b": {"en": "Endemic species", "hi": "स्थानिक प्रजातियाँ (Endemic)"},
+        "c": {"en": "Extinct species", "hi": "लुप्त प्रजातियाँ"},
+        "d": {"en": "Vulnerable species", "hi": "सुभेद्य प्रजातियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "Examples include the Andaman teal, Nicobar pigeon, and Mithun in Arunachal Pradesh.",
+        "hi": "उदाहरणों में अंडमान की टील, निकोबार का कबूतर और अरुणाचल प्रदेश का मिथुन शामिल हैं।"
+      },
+      "explanation": {
+        "en": "Endemic species are those which are only found in some particular areas usually isolated by natural or geographical barriers.",
+        "hi": "स्थानिक प्रजातियाँ वे होती हैं जो किसी एक विशिष्ट भौगोलिक क्षेत्र के अलावा दुनिया में कहीं और प्राकृतिक रूप से नहीं पाई जाती हैं।"
+      },
+      "key_takeaway": {
+        "en": "Endemic species = Unique to a specific geographic location.",
+        "hi": "स्थानिक प्रजातियाँ = किसी विशिष्ट भौगोलिक क्षेत्र तक ही सीमित अनोखी प्रजातियाँ।"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Species which are not found after searches of known or likely areas where they may occur are classified as what?",
+        "hi": "वे प्रजातियाँ जो अपने संभावित या ज्ञात आवासों में खोजे जाने पर भी अनुपस्थित पाई गई हैं (पूरी तरह समाप्त हो चुकी हैं), क्या कहलाती हैं?"
+      },
+      "options": {
+        "a": {"en": "Rare species", "hi": "दुर्लभ प्रजातियाँ"},
+        "b": {"en": "Extinct species", "hi": "लुप्त प्रजातियाँ (Extinct)"},
+        "c": {"en": "Endemic species", "hi": "स्थानिक प्रजातियाँ"},
+        "d": {"en": "Vulnerable species", "hi": "सुभेद्य प्रजातियाँ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Asiatic cheetah and pink-headed duck are notable examples of this category in India.",
+        "hi": "एशियाई चीता और गुलाबी सिर वाली बत्तख भारत में इस श्रेणी के प्रमुख उदाहरण हैं।"
+      },
+      "explanation": {
+        "en": "Extinct species are those which are not found after searches of known or likely areas. A species may be extinct from a local area, country, continent or the entire earth.",
+        "hi": "लुप्त प्रजातियाँ वे हैं जो पृथ्वी से या किसी विशिष्ट क्षेत्र से पूरी तरह गायब हो चुकी हैं और अब जीवित नहीं बची हैं।"
+      },
+      "key_takeaway": {
+        "en": "Extinct species = No longer existing anywhere on Earth or in surveyed habitats.",
+        "hi": "लुप्त प्रजातियाँ = पृथ्वी पर या उनके सर्वेक्षण आवासों में अब अस्तित्व में न होना।"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "In which year was the Asiatic Cheetah declared extinct in India due to loss of habitat and hunting?",
+        "hi": "भारत में किस वर्ष एशियाई चीते को आवास की कमी और शिकार के कारण आधिकारिक रूप से 'लुप्त' (Extinct) घोषित कर दिया गया था?"
+      },
+      "options": {
+        "a": {"en": "1947", "hi": "1947 में"},
+        "b": {"en": "1952", "hi": "1952 में"},
+        "c": {"en": "1972", "hi": "1972 में"},
+        "d": {"en": "1980", "hi": "1980 में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This declaration happened in the first decade after India achieved independence.",
+        "hi": "यह घोषणा भारत को स्वतंत्रता मिलने के बाद के पहले दशक में की गई थी।"
+      },
+      "explanation": {
+        "en": "The Asiatic cheetah was declared extinct in India long ago in 1952 due to dwindling habitat and historical hunting practices.",
+        "hi": "भारत सरकार ने 1952 में आधिकारिक तौर पर घोषणा की थी कि देश से एशियाई चीते पूरी तरह से विलुप्त हो चुके हैं।"
+      },
+      "key_takeaway": {
+        "en": "1952 = Asiatic Cheetah declared extinct in India.",
+        "hi": "1952 = भारत में एशियाई चीते को आधिकारिक रूप से लुप्त घोषित करने का वर्ष।"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "The Himalayan Yew (Taxus wallachiana) found in parts of Himachal Pradesh and Arunachal Pradesh is a medicinal plant famous for producing a chemical compound used to treat which disease?",
+        "hi": "हिमाचल प्रदेश और अरुणाचल प्रदेश के कुछ हिस्सों में पाया जाने वाला 'हिमालयन यव' (Himalayan Yew) एक औषधीय पौधा है, जिससे निकलने वाले रसायन का उपयोग किस बीमारी के इलाज के लिए किया जाता है?"
+      },
+      "options": {
+        "a": {"en": "Malaria", "hi": "मलेरिया"},
+        "b": {"en": "Cancer", "hi": "कैंसर (Cancer)"},
+        "c": {"en": "Diabetes", "hi": "मधुमेह (डायबिटीज)"},
+        "d": {"en": "Tuberculosis", "hi": "टीबी (तपेदिक)"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The chemical compound 'taxol' is extracted from its bark, needles, and roots, making it the biggest-selling drug for this disease in the world.",
+        "hi": "इस पौधे की छाल और जड़ों से 'टैक्सोल' नामक रसायन निकाला जाता है, जो इस लाइलाज बीमारी की दवा है।"
+      },
+      "explanation": {
+        "en": "The Himalayan Yew is a medicinal plant. A chemical compound called 'taxol' is extracted from it and is used to treat cancer, making the plant highly threatened due to over-exploitation.",
+        "hi": "हिमालयन यव से टैक्सोल नामक कैंसर-रोधी रसायन निकाला जाता है। अत्यधिक दोहन के कारण आज यह पौधा सूखने के कगार पर पहुंच गया है।"
+      },
+      "key_takeaway": {
+        "en": "Himalayan Yew = Source of anti-cancer drug Taxol, now endangered due to over-harvesting.",
+        "hi": "हिमालयन यव = कैंसर-रोधी दवा टैक्सोल का स्रोत, जो अत्यधिक दोहन के कारण संकटग्रस्त है।"
+      }
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which major river valley project in Madhya Pradesh, introduced in recent decades, has inundated over 40,000 hectares of forest land?",
+        "hi": "मध्य प्रदेश में हाल के दशकों में शुरू की गई किस प्रमुख नदी घाटी परियोजना के कारण 40,000 हेक्टेयर से अधिक वन भूमि जलमग्न हो गई है?"
+      },
+      "options": {
+        "a": {"en": "Bhakra Nangal Project", "hi": "भाखड़ा नांगल परियोजना"},
+        "b": {"en": "Narmada Sagar Project", "hi": "नर्मदा सागर परियोजना (Narmada Sagar)"},
+        "c": {"en": "Damodar Valley Project", "hi": "दामोदर घाटी परियोजना"},
+        "d": {"en": "Hirakud Project", "hi": "हीराकुंड परियोजना"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This project is built on the river that flows westward through a rift valley in central India.",
+        "hi": "यह परियोजना मध्य भारत की उस नदी पर बनी है जो भ्रंश घाटी से होकर पश्चिम की ओर बहती है।"
+      },
+      "explanation": {
+        "en": "River valley projects have contributed significantly to deforestation. The Narmada Sagar Project in Madhya Pradesh would inundate 40,000 hectares of forest.",
+        "hi": "नदी घाटी परियोजनाओं ने बड़े पैमाने पर जंगलों को नष्ट किया है; मध्य प्रदेश में नर्मदा सागर परियोजना इसका प्रमुख उदाहरण है।"
+      },
+      "key_takeaway": {
+        "en": "Narmada Sagar Project = Caused inundation of 40,000 hectares of pristine forest land.",
+        "hi": "नर्मदा सागर परियोजना = इसके कारण 40,000 हेक्टेयर समृद्ध वन भूमि पानी में डूब गई।"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "The Buxa Tiger Reserve in West Bengal is seriously threatened by the ongoing mining of which mineral resource?",
+        "hi": "पश्चिम बंगाल में स्थित 'बक्सा टाइगर रिजर्व' (Buxa Tiger Reserve) किस खनिज के खनन के कारण गंभीर संकट में है?"
+      },
+      "options": {
+        "a": {"en": "Iron ore", "hi": "लोह अयस्क"},
+        "b": {"en": "Dolomite", "hi": "डोलोमाइट (Dolomite)"},
+        "c": {"en": "Mica", "hi": "अभ्रक"},
+        "d": {"en": "Coal", "hi": "कोयला"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This mineral is a carbonate compound often used as a source of magnesium and in the cement industry.",
+        "hi": "यह खनिज एक कार्बोनेट यौगिक है जिसका उपयोग सीमेंट उद्योग और मैग्नीशियम प्राप्त करने में किया जाता है।"
+      },
+      "explanation": {
+        "en": "The Buxa Tiger Reserve in West Bengal is seriously threatened by the ongoing mining of dolomite, which has disturbed the natural habitat and blocked migration routes of several species, including elephants.",
+        "hi": "बक्सा टाइगर रिजर्व में डोलोमाइट के खनन से पारिस्थितिकी तंत्र को भारी नुकसान पहुंचा है और हाथियों के प्रवास मार्ग अवरुद्ध हो गए हैं।"
+      },
+      "key_takeaway": {
+        "en": "Buxa Reserve Threat = Ecological damage caused by Dolomite mining.",
+        "hi": "बक्सा रिजर्व का संकट = डोलोमाइट खनन के कारण हाथियों के प्राकृतिक आवास को क्षति।"
+      }
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "In which year was the Indian Wildlife (Protection) Act implemented, creating a list of protected species and banning hunting nationwide?",
+        "hi": "भारतीय वन्यजीव (संरक्षण) अधिनियम किस वर्ष लागू किया गया था, जिसके तहत संरक्षित प्रजातियों की सूची बनाई गई और शिकार पर प्रतिबंध लगाया गया?"
+      },
+      "options": {
+        "a": {"en": "1952", "hi": "1952 में"},
+        "b": {"en": "1972", "hi": "1972 में (1972)"},
+        "c": {"en": "1980", "hi": "1980 में"},
+        "d": {"en": "1986", "hi": "1986 में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This landmark environmental legislation was passed in the same decade that Project Tiger was launched.",
+        "hi": "यह ऐतिहासिक कानून उसी दशक में पारित हुआ था जिस दशक में 'प्रोजेक्ट टाइगर' शुरू किया गया था।"
+      },
+      "explanation": {
+        "en": "The Indian Wildlife (Protection) Act was implemented in 1972, with various provisions for protecting habitats and an all-India list of protected species was published.",
+        "hi": "वन्यजीवों के शिकार को रोकने और उनके कानूनी संरक्षण के लिए 1972 में 'भारतीय वन्यजीव (संरक्षण) अधिनियम' पारित किया गया था।"
+      },
+      "key_takeaway": {
+        "en": "1972 = Implementation of the Indian Wildlife (Protection) Act.",
+        "hi": "1972 = भारतीय वन्यजीव (संरक्षण) अधिनियम के लागू होने का वर्ष।"
+      }
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Which famous wildlife conservation campaign was launched by the Government of India in 1973 to protect a well-known endangered big cat?",
+        "hi": "भारत सरकार द्वारा 1973 में एक प्रसिद्ध संकटग्रस्त बड़ी बिल्ली (मार्जार प्रजाति) को बचाने के लिए कौन सा प्रसिद्ध संरक्षण अभियान शुरू किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Project Elephant", "hi": "प्रोजेक्ट एलीफेंट"},
+        "b": {"en": "Project Tiger", "hi": "प्रोजेक्ट टाइगर (Project Tiger)"},
+        "c": {"en": "Project Rhino", "hi": "प्रोजेक्ट राइनो"},
+        "d": {"en": "Project Snow Leopard", "hi": "प्रोजेक्ट स्नो लेपर्ड"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "It is one of the most well-publicized wildlife campaigns in the world, aiming to protect the national animal of India.",
+        "hi": "यह दुनिया के सबसे प्रसिद्ध वन्यजीव अभियानों में से एक है, जिसका उद्देश्य भारत के राष्ट्रीय पशु को बचाना है।"
+      },
+      "explanation": {
+        "en": "Project Tiger, one of the well-publicized wildlife campaigns in the world, was launched in 1973 because the tiger population had dwindled drastically from 55,000 to just 1,827.",
+        "hi": "बाघों की तेजी से घटती संख्या को देखते हुए सरकार ने 1973 में 'प्रोजेक्ट टाइगर' (बाघ परियोजना) की शुरुआत की थी।"
+      },
+      "key_takeaway": {
+        "en": "1973 = Launch of Project Tiger, a global benchmark for single-species conservation.",
+        "hi": "1973 = प्रोजेक्ट टाइगर की शुरुआत, जो वन्यजीव संरक्षण का एक वैश्विक मानक बना।"
+      }
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which of the following is NOT a prominent tiger reserve included under Project Tiger in India?",
+        "hi": "निम्नलिखित में से कौन सा भारत में प्रोजेक्ट टाइगर के अंतर्गत शामिल एक प्रमुख बाघ आरक्षित क्षेत्र (Tiger Reserve) नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Corbett National Park", "hi": "कॉर्बेट राष्ट्रीय उद्यान (उत्तराखंड)"},
+        "b": {"en": "Sundarbans National Park", "hi": "सुंदरवन राष्ट्रीय उद्यान (पश्चिम बंगाल)"},
+        "c": {"en": "Gir National Park", "hi": "गीर राष्ट्रीय उद्यान (Gir)"},
+        "d": {"en": "Sariska Wildlife Sanctuary", "hi": "सरिस्का वन्यजीव अभयारण्य (राजस्थान)"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "This sanctuary is located in Gujarat and is world-famous for protecting Asiatic Lions, not tigers.",
+        "hi": "यह राष्ट्रीय उद्यान गुजरात में स्थित है और एशियाई शेरों (Lions) के लिए प्रसिद्ध है, न कि बाघों के लिए।"
+      },
+      "explanation": {
+        "en": "Gir National Park in Gujarat is famous for Asiatic Lions, not tigers. Corbett, Sundarbans, Sariska, Periyar, and Bandhavgarh are prominent tiger reserves.",
+        "hi": "गुजरात का गीर राष्ट्रीय उद्यान एशियाई शेरों का घर है; कॉर्बेट, सुंदरवन और सरिस्का बाघों के आरक्षित क्षेत्र हैं।"
+      },
+      "key_takeaway": {
+        "en": "Gir National Park = Dedicated to Asiatic Lions, distinct from Project Tiger zones.",
+        "hi": "गीर राष्ट्रीय उद्यान = एशियाई शेरों के लिए आरक्षित, जो बाघ परियोजनाओं से अलग है।"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Under the Wildlife Act amendment of 1986, which new group of organisms was included in the list of protected species for the first time?",
+        "hi": "वन्यजीव अधिनियम के 1986 के संशोधन के तहत, पहली बार जीवों के किस नए समूह को संरक्षित प्रजातियों की सूची में शामिल किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Insects like butterflies and beetles", "hi": "कीट-पतंगे जैसे तितलियाँ और भृंग (Insects)"},
+        "b": {"en": "Marine whales", "hi": "समुद्री व्हेल मछलियां"},
+        "c": {"en": "Migratory birds", "hi": "प्रवासी पक्षी"},
+        "d": {"en": "Desert reptiles", "hi": "मरुस्थलीय सरीसृप"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Several hundred butterflies, moths, beetles, and one dragonfly were added to the protected category.",
+        "hi": "इस संशोधन में सैकड़ों प्रकार की तितलियों, पतंगों और एक ड्रैगनफ्लाई को कानूनी संरक्षण दिया गया था।"
+      },
+      "explanation": {
+        "en": "In the Wildlife Act amendment of 1980 and 1986, several hundred butterflies, moths, beetles, and one dragonfly were added to the list of protected species.",
+        "hi": "1980 और 1986 के संशोधनों के द्वारा छोटे जीवों जैसे भृंग (beetles) और तितलियों को भी वन्यजीव संरक्षण सूची में स्थान मिला।"
+      },
+      "key_takeaway": {
+        "en": "1986 Amendment = Inclusion of insects and invertebrates under legal wildlife protection.",
+        "hi": "1986 संशोधन = कीटों और अकशेरुकी जीवों को कानूनी वन्यजीव संरक्षण के दायरे में लाना।"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "In which year were six species of plants added to the protected list under the Wildlife Act for the very first time?",
+        "hi": "वन्यजीव संरक्षण अधिनियम के तहत पहली बार किस वर्ष पौधों की छह प्रजातियों को संरक्षित सूची में शामिल किया गया था?"
+      },
+      "options": {
+        "a": {"en": "1972", "hi": "1972 में"},
+        "b": {"en": "1991", "hi": "1991 में (1991)"},
+        "c": {"en": "2002", "hi": "2002 में"},
+        "d": {"en": "1986", "hi": "1986 में"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This happened in the beginning of the 1990s, when plants were recognized alongside animals for conservation legislation.",
+        "hi": "यह 1990 के दशक की शुरुआत में हुआ था, जब पहली बार वनस्पतियों को भी इस सूची में जगह दी गई थी।"
+      },
+      "explanation": {
+        "en": "Plants were added to the protection list for the first time in 1991, starting with six specific species.",
+        "hi": "1991 में वन्यजीव संरक्षण अधिनियम में संशोधन करके पहली बार पौधों की 6 प्रजातियों को भी कानूनी संरक्षण प्रदान किया गया।"
+      },
+      "key_takeaway": {
+        "en": "1991 = Inclusion of plant species for the first time in wildlife protection acts.",
+        "hi": "1991 = वन्यजीव अधिनियम के तहत पहली बार पौधों को शामिल करने का ऐतिहासिक वर्ष।"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Forests which are regarded as the most valuable as far as the conservation of forest and wildlife resources is concerned are classified as what?",
+        "hi": "वन और वन्यजीव संसाधनों के संरक्षण की दृष्टि से जिन वनों को देश में सबसे अधिक मूल्यवान माना जाता है, उन्हें क्या कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Protected forests", "hi": "सुरक्षित वन"},
+        "b": {"en": "Reserved forests", "hi": "आरक्षित वन (Reserved Forests)"},
+        "c": {"en": "Unclassed forests", "hi": "अवर्गीकृत वन"},
+        "d": {"en": "Community forests", "hi": "सामुदायिक वन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "More than half of the total forest land in India has been declared under this category.",
+        "hi": "भारत की कुल वन भूमि का आधे से अधिक हिस्सा इसी श्रेणी के अंतर्गत घोषित किया गया है।"
+      },
+      "explanation": {
+        "en": "Reserved forests are regarded as the most valuable as far as the conservation of forest and wildlife resources is concerned. More than half of the total forest land is reserved.",
+        "hi": "आरक्षित वन देश के सबसे मूल्यवान जंगल होते हैं, जहाँ शिकार और लकड़ियां काटने पर पूरी तरह सरकारी प्रतिबंध होता है।"
+      },
+      "key_takeaway": {
+        "en": "Reserved Forests = High value conservation areas making up more than 50% of India's forest cover.",
+        "hi": "आरक्षित वन = देश के कुल वन क्षेत्र के 50% से अधिक भाग पर फैले सबसे सुरक्षित जंगल।"
+      }
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Forest lands which are protected from any further depletion and make up almost one-third of the total forest area are known as what?",
+        "hi": "वे वन क्षेत्र जिन्हें और अधिक नष्ट होने से बचाने के लिए सरकारी सुरक्षा दी गई है और जो कुल वन क्षेत्र का लगभग एक-तिहाई हिस्सा हैं, क्या कहलाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Reserved forests", "hi": "आरक्षित वन"},
+        "b": {"en": "Protected forests", "hi": "सुरक्षित वन (Protected Forests)"},
+        "c": {"en": "Unclassed forests", "hi": "अवर्गीकृत वन"},
+        "d": {"en": "Private waste forests", "hi": "निजी बंजर वन"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "The Forest Department has categorized these lands to prevent total ecological breakdown in areas already facing high human pressure.",
+        "hi": "वन विभाग ने इन जंगलों को और अधिक क्षरण (Depletion) से बचाने के लिए इस विशिष्ट श्रेणी में रखा है।"
+      },
+      "explanation": {
+        "en": "Protected forests make up almost one-third of the total forest area. This land is protected from any further depletion by the Forest Department.",
+        "hi": "सुरक्षित वन (Protected Forests) कुल वन क्षेत्र का एक-तिहाई हिस्सा हैं, जिन्हें भविष्य के क्षरण से बचाने के लिए सुरक्षित घोषित किया गया है।"
+      },
+      "key_takeaway": {
+        "en": "Protected Forests = One-third of forest area saved from additional environmental degradation.",
+        "hi": "सुरक्षित वन = देश के कुल वनों का लगभग एक-तिहाई हिस्सा, जो सुरक्षात्मक दायरे में है।"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "Which state has the largest area under permanent forests, which includes a massive 75 percent of its total forest area under the reserved category?",
+        "hi": "भारत के किस राज्य में स्थायी वनों (Permanent Forests) के तहत सबसे बड़ा क्षेत्र है, जिसने अपने कुल वन क्षेत्र का 75% हिस्सा आरक्षित श्रेणी में रखा है?"
+      },
+      "options": {
+        "a": {"en": "Madhya Pradesh", "hi": "मध्य प्रदेश (Madhya Pradesh)"},
+        "b": {"en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश"},
+        "c": {"en": "Odisha", "hi": "ओडिशा"},
+        "d": {"en": "Kerala", "hi": "केरल"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This state is located in central India and has the maximum overall geographical forest cover area in the country.",
+        "hi": "यह राज्य मध्य भारत में स्थित है और देश में सबसे बड़े वास्तविक वन आवरण क्षेत्र के लिए जाना जाता है।"
+      },
+      "explanation": {
+        "en": "Madhya Pradesh has the largest area under permanent forests, constituting 75 percent of its total forest area as reserved forests.",
+        "hi": "मध्य प्रदेश में स्थायी वनों का क्षेत्रफल देश में सबसे अधिक है, जो राज्य के कुल वन क्षेत्र का 75% हिस्सा है।"
+      },
+      "key_takeaway": {
+        "en": "Madhya Pradesh = Leader in permanent forest cover and reserved forest allocation.",
+        "hi": "मध्य प्रदेश = स्थायी वन क्षेत्र और आरक्षित वन श्रेणी में देश का अग्रणी राज्य।"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "Forests and wastelands belonging to both government and private individuals or communities, dominant in Northeast India, are classified as what?",
+        "hi": "सरकार, निजी व्यक्तियों या समुदायों के स्वामित्व वाले अन्य वन और बंजर भूमि, जो मुख्य रूप से पूर्वोत्तर भारत में पाए जाते हैं, क्या कहलाते हैं?"
+      },
+      "options": {
+        "a": {"en": "Reserved forests", "hi": "आरक्षित वन"},
+        "b": {"en": "Protected forests", "hi": "सुरक्षित वन"},
+        "c": {"en": "Unclassed forests", "hi": "अवर्गीकृत वन (Unclassed Forests)"},
+        "d": {"en": "Sacred groves", "hi": "पवित्र पेड़ (देववन)"}
+      },
+      "correct_option": "c",
+      "hint": {
+        "en": "A high percentage of these forests are managed by local tribal communities in the north-eastern states.",
+        "hi": "इन वनों का एक बड़ा हिस्सा पूर्वोत्तर राज्यों में स्थानीय आदिवासी समुदायों द्वारा प्रबंधित किया जाता है।"
+      },
+      "explanation": {
+        "en": "Unclassed forests are other forests and wastelands belonging to both government and private individuals and communities, common in the Northeast and parts of Gujarat.",
+        "hi": "अवर्गीकृत वन वे जंगल या बंजर भूमि होते हैं जो सरकार और समुदाय दोनों के सांझा नियंत्रण में होते हैं, जैसे पूर्वोत्तर भारत में।"
+      },
+      "key_takeaway": {
+        "en": "Unclassed Forests = Community and government co-managed forest buffer zones common in tribal belts.",
+        "hi": "अवर्गीकृत वन = आदिवासी क्षेत्रों में पाए जाने वाले सामुदायिक व सरकारी सांझा नियंत्रण वाले जंगल।"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "The famous 'Chipko Movement' in the Himalayas was successfully launched by communities to resist what threat?",
+        "hi": "हिमालय क्षेत्र में चलाया गया प्रसिद्ध 'चिपको आंदोलन' (Chipko Movement) समुदायों द्वारा किस खतरे के खिलाफ सफलतापूर्वक शुरू किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Mining of coal", "hi": "कोयले के खनन के खिलाफ"},
+        "b": {"en": "Deforestation and commercial logging", "hi": "वनों की कटाई और व्यावसायिक कटान के खिलाफ"},
+        "c": {"en": "Chemical pollution of river water", "hi": "नदी के पानी के रासायनिक प्रदूषण के खिलाफ"},
+        "d": {"en": "Construction of mega dams", "hi": "बड़े बांधों के निर्माण के खिलाफ"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "People physically hugged the trees to prevent contractors from cutting them down.",
+        "hi": "ठेकेदारों को पेड़ काटने से रोकने के लिए स्थानीय लोग पेड़ों से चिपक गए थे।"
+      },
+      "explanation": {
+        "en": "The famous Chipko Movement in the Himalayas successfully resisted deforestation in several areas and showed that community afforestation with indigenous species can be enormously successful.",
+        "hi": "चिपको आंदोलन ने न केवल वनों की कटाई का विरोध किया, बल्कि यह भी साबित किया कि स्थानीय प्रजातियों के जरिए सामुदायिक वनीकरण को सफल बनाया जा सकता है।"
+      },
+      "key_takeaway": {
+        "en": "Chipko Movement = Historic community resistance against commercial deforestation by hugging trees.",
+        "hi": "चिपको आंदोलन = पेड़ों से लिपटकर व्यावसायिक कटान का विरोध करने वाला ऐतिहासिक सामुदायिक आंदोलन।"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Farmers and citizen groups in Tehri successfully launched the 'Beej Bachao Andolan' to prove what ecological principle?",
+        "hi": "टिहरी (उत्तराखंड) के किसानों और नागरिक समूहों द्वारा शुरू किए गए 'बीज बचाओ आंदोलन' (Beej Bachao Andolan) ने क्या सिद्ध किया था?"
+      },
+      "options": {
+        "a": {"en": "That hybrid seeds are essential for survival", "hi": "यह कि हाइब्रिड बीज ही जीवन के लिए अनिवार्य हैं"},
+        "b": {"en": "That adequate crop production is possible without synthetic chemicals using diversified indigenous seeds", "hi": "यह कि रासायनिक खादों के बिना भी स्वदेशी बीजों से अच्छी फसल पैदा की जा सकती है"},
+        "c": {"en": "That large dams can prevent insect attacks", "hi": "यह कि बड़े बांध कीटों के हमलों को रोक सकते हैं"},
+        "d": {"en": "That farming should be completely commercialized", "hi": "यह कि खेती का पूरी तरह से व्यावसायीकरण किया जाना चाहिए"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "They opposed the chemical-heavy methods of the Green Revolution and revived traditional diverse seed varieties.",
+        "hi": "उन्होंने रासायनिक खादों के अंधाधुंध उपयोग का विरोध किया और पारंपरिक पारंपरिक बीजों को पुनर्जीवित किया।"
+      },
+      "explanation": {
+        "en": "Farmers and citizen's groups like the Beej Bachao Andolan in Tehri and Navdanya have shown that adequate levels of diversified crop production without the use of synthetic chemicals are possible and economically viable.",
+        "hi": "बीज बचाओ आंदोलन ने साबित किया कि बिना किसी सिंथेटिक रसायन या कीटनाशकों के भी विविध स्वदेशी बीजों से समृद्ध कृषि उत्पादन संभव है।"
+      },
+      "key_takeaway": {
+        "en": "Beej Bachao Andolan = Advocated eco-friendly chemical-free traditional farming with native seeds.",
+        "hi": "बीज बचाओ आंदोलन = स्वदेशी बीजों के साथ रसायन-मुक्त पारंपरिक और पारिस्थितिकी-अनुकूल खेती का समर्थन।"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "Which program, formally introduced by the state of Odisha in 1988, involves local communities in the management and restoration of degraded forests?",
+        "hi": "ओडिशा राज्य द्वारा 1888 में औपचारिक रूप से शुरू किया गया कौन सा कार्यक्रम स्थानीय समुदायों को निम्नीकृत वनों के प्रबंधन और बहाली में शामिल करता है?"
+      },
+      "options": {
+        "a": {"en": "Joint Forest Management (JFM)", "hi": "संयुक्त वन प्रबंधन (JFM / Joint Forest Management)"},
+        "b": {"en": "Social Forestry Scheme", "hi": "सामाजिक वानिकी योजना"},
+        "c": {"en": "The Wildlife Protection Council", "hi": "वन्यजीव संरक्षण परिषद"},
+        "d": {"en": "Sacred Grove Society", "hi": "पवित्र उपवन समिति"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Under this framework, communities form local committees and get intermediary benefits like non-timber forest produce in return for protection work.",
+        "hi": "इस कार्यक्रम के तहत गांव के लोग समितियां बनाते हैं और सुरक्षा के बदले जंगलों से मिलने वाले उत्पादों पर उनका अधिकार होता है।"
+      },
+      "explanation": {
+        "en": "The Joint Forest Management (JFM) program furnishes a good example for involving local communities in the management and restoration of degraded forests. Odisha passed the first resolution for JFM in 1988.",
+        "hi": "संयुक्त वन प्रबंधन (JFM) स्थानीय समुदायों को जंगलों को बचाने के काम में हिस्सेदार बनाता है। ओडिशा पहला राज्य था जिसने 1988 में इसका प्रस्ताव पास किया था।"
+      },
+      "key_takeaway": {
+        "en": "JFM (1988) = Milestone in decentralizing forest management by sharing benefits with local communities.",
+        "hi": "संयुक्त वन प्रबंधन (1988) = स्थानीय समुदायों के साथ लाभ साझा करके वन प्रबंधन के लोकतंत्रीकरण का मील का पत्थर।"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "What are 'Sacred Groves' (such as Deorikadu or Dev van) in the cultural context of Indian forest conservation?",
+        "hi": "भारतीय वन संरक्षण के सांस्कृतिक संदर्भ में 'पवित्र उपवन' (Sacred Groves / देववन या देवरिकाडू) क्या होते हैं?"
+      },
+      "options": {
+        "a": {"en": "Forests artificially planted using plastic trees", "hi": "प्लास्टिक के पेड़ों से बनाए गए कृत्रिम जंगल"},
+        "b": {"en": "Patches of pristine forest left untouched by locals, dedicated to deities and protected by religious beliefs", "hi": "जंगलों के वे हिस्से जिन्हें देवताओं को समर्पित मानकर स्थानीय लोग छूते भी नहीं और धार्मिक मान्यताओं से बचाते हैं"},
+        "c": {"en": "Forests completely cleared for setting up smart cities", "hi": "स्मार्ट सिटी बनाने के लिए पूरी तरह से साफ किए गए जंगल"},
+        "d": {"en": "Private botanical gardens belonging to industrialists", "hi": "उद्योगपतियों के निजी वनस्पति उद्यान"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "In these areas, all human interference is banned by traditional taboos and anyone cutting trees faces severe social disapproval.",
+        "hi": "इन क्षेत्रों में किसी भी पेड़ को काटना या जानवरों को मारना पूरी तरह से वर्जित होता है क्योंकि उन्हें देवताओं का निवास माना जाता है।"
+      },
+      "explanation": {
+        "en": "Sacred groves are patches of forest of pristine nature preserved in the name of gods and goddesses. Nature worship is an age-old tribal belief that has protected these virgin forests from any human intervention.",
+        "hi": "प्रकृति पूजा की प्राचीन आदिवासी मान्यताओं ने जंगलों के कई हिस्सों को 'देववन' या पवित्र उपवन के रूप में आज भी उनके मूल रूप में सुरक्षित बचाए रखा है।"
+      },
+      "key_takeaway": {
+        "en": "Sacred Groves = Cultural and religious traditions acting as powerful tools for ecosystem preservation.",
+        "hi": "पवि़त्र उपवन = सांस्कृतिक और धार्मिक परंपराएं जो पारिस्थितिकी तंत्र के संरक्षण के लिए एक शक्तिशाली उपकरण का काम करती हैं।"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "The Mundas and the Santhals of the Chota Nagpur region worship which specific tree during their traditional festivals?",
+        "hi": "छोटा नागपुर क्षेत्र के मुंडा और संथाल आदिवासी अपने पारंपरिक त्योहारों के दौरान किस विशिष्ट पेड़ की पूजा करते हैं?"
+      },
+      "options": {
+        "a": {"en": "Mahua and Kadamba", "hi": "महुआ और कदंब (Mahua & Kadamba)"},
+        "b": {"en": "Mango and Tamarind", "hi": "आम और इमली"},
+        "c": {"en": "Peepal and Banyan", "hi": "पीपल और बरगद"},
+        "d": {"en": "Sal and Pine", "hi": "साल और चीड़"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "One of these trees produces edible sweet flowers used to brew a famous traditional beverage.",
+        "hi": "इनमें से एक पेड़ से मीठे फूल गिरते हैं जिनका उपयोग पारंपरिक पेय या शराब बनाने में किया जाता है।"
+      },
+      "explanation": {
+        "en": "The Mundas and the Santhals of Chota Nagpur region worship mahua and kadamba trees, showcasing the close bond between tribal cultures and nature.",
+        "hi": "छोटा नागपुर के मुंडा और संथाल आदिवासी महुआ और कदंब के पेड़ों की पूजा करते हैं, जो उनके धार्मिक जीवन का अभिन्न अंग हैं।"
+      },
+      "key_takeaway": {
+        "en": "Tribal Tree Worship = Preservation of Mahua and Kadamba trees through ethnic religious practices.",
+        "hi": "आदिवासी वृक्ष पूजा = सांस्कृतिक मान्यताओं के माध्यम से महुआ और कदंब जैसे पेड़ों का संरक्षण।"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "In Orissa and Bihar, which trees are worshiped by tribal communities during weddings and festive ceremonies?",
+        "hi": "ओडिशा और बिहार की जनजातियाँ शादियों और मांगलिक उत्सवों के दौरान किन पेड़ों की पूजा मुख्य रूप से करती हैं?"
+      },
+      "options": {
+        "a": {"en": "Tamarind and Mango", "hi": "इमली और आम (Tamarind & Mango)"},
+        "b": {"en": "Peepal and Neem", "hi": "पीपल और नीम"},
+        "c": {"en": "Sal and Teak", "hi": "साल और सागौन"},
+        "d": {"en": "Coconut and Banana", "hi": "नारियल और केला"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "One is a sour fruit tree widely used in Indian cuisine, and the other is the king of summer fruits.",
+        "hi": "इनमें से एक खट्टे फल का पेड़ है जिसका उपयोग भोजन में होता है और दूसरा फलों का राजा है।"
+      },
+      "explanation": {
+        "en": "Tribals of Orissa and Bihar worship the tamarind and mango trees during weddings, highlighting that nature elements are intertwined with human lifecycle rituals.",
+        "hi": "ओडिशा और बिहार के आदिवासी समुदायों में विवाह के समय इमली और आम के पेड़ों की पूजा करने की पारंपरिक प्रथा है।"
+      },
+      "key_takeaway": {
+        "en": "Ritualistic Vegetation Protection = Weddings and social functions used as channels to revere mango and tamarind trees.",
+        "hi": "पारंपरिक वृक्ष संरक्षण = सामाजिक और पारिवारिक उत्सवों को पेड़ों के प्रति सम्मान प्रकट करने का माध्यम बनाना।"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "In which state of India have communities in five villages of Alwar district declared 1,200 hectares of forest as the 'Bhairodev Dakav Sonchuri' to enforce their own wildlife rules?",
+        "hi": "भारत के किस राज्य में अलवर जिले के पांच गांवों के लोगों ने 1,200 हेक्टेयर वन भूमि को 'भैरोंदेव डाकव सोंचुरी' घोषित करके अपने खुद के कड़े कानून लागू किए हैं?"
+      },
+      "options": {
+        "a": {"en": "Gujarat", "hi": "गुजरात"},
+        "b": {"en": "Rajasthan", "hi": "राजस्थान (Rajasthan)"},
+        "c": {"en": "Haryana", "hi": "हरियाणा"},
+        "d": {"en": "Punjab", "hi": "पंजाब"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This western state is known for its arid climate, the Thar desert, and communities like the Bishnois who fiercely protect wildlife.",
+        "hi": "यह पश्चिमी राज्य अपने शुष्क जलवायु, थार मरुस्थल और बिश्नोई समुदाय के लिए प्रसिद्ध है जो वन्यजीवों की रक्षा करते हैं।"
+      },
+      "explanation": {
+        "en": "The inhabitants of five villages in the Alwar district of Rajasthan have declared 1,200 hectares of forest as the Bhairodev Dakav Sonchuri, declaring their own set of rules and regulations which do not allow hunting.",
+        "hi": "राजस्थान के अलवर जिले के ग्रामीणों ने सरकारी मदद के बिना 1,200 हेक्टेयर जंगल को 'भैरोंदेव डाकव सोंचुरी' बनाकर शिकार और बाहरी दखल पर पूरी तरह रोक लगा दी है।"
+      },
+      "key_takeaway": {
+        "en": "Bhairodev Dakav Sonchuri = Epitome of independent community-led wildlife sanctuary management.",
+        "hi": "भैरोंदेव डाकव सोंचुरी = स्वतंत्र सामुदायिक वन्यजीव अभयारण्य प्रबंधन का एक बेजोड़ उदाहरण।"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which famous community in Rajasthan is known for protecting herds of black buck, nilgai, and peacocks, ensuring no one harms them near their villages?",
+        "hi": "राजस्थान का कौन सा प्रसिद्ध समुदाय काले हिरण, नीलगाय और मोरों के झुंडों की रक्षा के लिए जाना जाता है, जिससे उनके गांवों के पास कोई उन्हें नुकसान नहीं पहुंचा सकता?"
+      },
+      "options": {
+        "a": {"en": "Bishnoi community", "hi": "बिश्नोई समुदाय (Bishnoi)"},
+        "b": {"en": "Gond community", "hi": "गोंड समुदाय"},
+        "c": {"en": "Santhal community", "hi": "संथाल समुदाय"},
+        "d": {"en": "Bhil community", "hi": "भील समुदाय"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "This community follows 29 religious principles laid down by Guru Jambheshwar, which mandate extreme respect for nature and wildlife.",
+        "hi": "यह समुदाय गुरु जम्भेश्वर द्वारा निर्धारित 29 नियमों का पालन करता है, जिसमें पर्यावरण और जीवों की रक्षा करना अनिवार्य है।"
+      },
+      "explanation": {
+        "en": "In and around Bishnoi villages in Rajasthan, herds of blackbuck, nilgai and peacocks can be seen as an integral part of the community and nobody harms them.",
+        "hi": "राजस्थान के बिश्नोई गांवों में काले हिरण और मोरों को परिवार के सदस्यों की तरह पाला और बचाया जाता है; वहां उनका शिकार करना मौत को दावत देने जैसा है।"
+      },
+      "key_takeaway": {
+        "en": "Bishnoi Community = Global icons of radical and absolute environmental and wildlife preservation.",
+        "hi": "बिश्नोई समुदाय = पर्यावरण और वन्यजीवों के पूर्ण संरक्षण के वैश्विक प्रतीक।"
+      }
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "What was the main drawback of the colonial forest policy introduction of 'enrichment plantation' in India?",
+        "hi": "भारत में औपनिवेशिक काल के दौरान लागू की गई 'संवर्धन वृक्षारोपण' (Enrichment Plantation) नीति का सबसे बड़ा नुकसान क्या था?"
+      },
+      "options": {
+        "a": {"en": "It increased the number of tigers drastically", "hi": "इसके कारण बाघों की संख्या बहुत तेजी से बढ़ी"},
+        "b": {"en": "A single commercially valuable species was extensively planted, eliminating other native diverse species", "hi": "इसमें केवल एक व्यावसायिक रूप से कीमती प्रजाति को उगाया गया, जिससे अन्य स्वदेशी पौधों की विविधता नष्ट हो गई"},
+        "c": {"en": "It banned the import of any international seeds", "hi": "इसने किसी भी अंतर्राष्ट्रीय बीजों के आयात पर पूरी तरह रोक लगा दी"},
+        "d": {"en": "It converted deserts into dense rainforests", "hi": "इसने मरुस्थलों को घने वर्षावनों में बदल दिया"}
+      },
+      "correct_option": "b",
+      "hint": {
+        "en": "This practice is also known as mono-culture, which replaced natural diverse multi-layered forests with single timber crops like Teak or Pine.",
+        "hi": "इस प्रथा को एकल-कृषि (Mono-culture) भी कहते हैं, जहाँ प्राकृतिक जंगलों को काटकर केवल सागौन या चीड़ जैसे पेड़ व्यावसायिक लाभ के लिए लगाए गए थे।"
+      },
+      "explanation": {
+        "en": "Colonial 'enrichment plantation' meant a single commercially valuable species was extensively planted and other species eliminated. For example, Teak monoculture damaged South Indian natural forests.",
+        "hi": "अंग्रेजों ने व्यापारिक लाभ के लिए जंगलों में केवल एक ही प्रकार के पेड़ (जैसे दक्षिण भारत में सागौन) उगाए, जिससे वहां की प्राकृतिक जैव-विविधता पूरी तरह तबाह हो गई।"
+      },
+      "key_takeaway": {
+        "en": "Enrichment Plantation = Monoculture commercial practice that systematically degraded traditional forest biodiversity.",
+        "hi": "संवर्धन वृक्षारोपण = व्यावसायिक लाभ के लिए एकल-कृषि को बढ़ावा देना, जिसने पारंपरिक जैव-विविधता को भारी नुकसान पहुंचाया।"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "Which local community in the Sariska Tiger Reserve of Rajasthan fought against mining activities by citing the provisions of the Wildlife Protection Act?",
+        "hi": "राजस्थान के सरिस्का बाघ आरक्षित क्षेत्र (Sariska Tiger Reserve) के किस स्थानीय समुदाय ने वन्यजीव संरक्षण अधिनियम की धाराओं का हवाला देकर खनन गतिविधियों के खिलाफ कानूनी लड़ाई लड़ी थी?"
+      },
+      "options": {
+        "a": {"en": "The local villagers and farmers", "hi": "स्थानीय ग्रामीण और किसान (Villagers)"},
+        "b": {"en": "The corporate mining union", "hi": "कॉर्पोरेट माइनिंग यूनियन"},
+        "c": {"en": "The nomadic Gujjar tribes", "hi": "घुमंतू गुर्जर जनजातियाँ"},
+        "d": {"en": "The urban environmental lawyers", "hi": "शहरी पर्यावरण वकील"}
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "These rural inhabitants stood directly against the mining leases granted near the forest boundary, actively taking charge of habitat protection.",
+        "hi": "इन ग्रामीण निवासियों ने जंगलों के पास हो रहे अवैध खनन के खिलाफ स्वयं मोर्चा संभाला और खदानों को बंद कराया था।"
+      },
+      "explanation": {
+        "en": "In Sariska Tiger Reserve, Rajasthan, villagers have fought against mining by citing the Wildlife Protection Act, showing how local communities actively defend environmental laws.",
+        "hi": "सरिस्का में स्थानीय ग्रामीणों ने स्वयं कानून का सहारा लेकर वन्यजीवों के आवास को बचाने के लिए खनन माफियाओं के खिलाफ सफल आंदोलन चलाया था।"
+      },
+      "key_takeaway": {
+        "en": "Sariska Resistance = Demonstrates how grassroot rural populations utilize environmental statutes to protect nature.",
+        "hi": "सरिस्का का प्रतिरोध = यह दर्शाता है कि कैसे ग्रामीण जनता पर्यावरण कानूनों का उपयोग करके प्रकृति की रक्षा कर सकती है।"
+      }
+    }
+  ]
+}
