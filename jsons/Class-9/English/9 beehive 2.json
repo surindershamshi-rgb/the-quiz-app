@@ -2,799 +2,439 @@
   "metadata": {
     "chapter_number": 2,
     "chapter_title": "The Sound of Music",
-    "chapter_title_hindi": "द साउंड ऑफ म्यूजिक",
+    "chapter_title_hindi": "द साउंड ऑफ म्यूजिक (संगीत की ध्वनि)",
     "subject": "English (Beehive) - Class 9",
     "board": "HPBOSE (NCERT)",
     "total_questions": 30,
     "version": "1.0",
-    "naming_convention": "9th_English_Beehive_Ch2_SoundOfMusic_30MCQ.json"
+    "naming_convention": "9th_English_Beehive_Ch2_TheSoundOfMusic_30MCQ.json"
   },
   "validation_report": {
     "is_valid": true,
     "checked_by": "AI Tutor",
-    "checked_at": "2026-05-19T22:58:00Z",
-    "notes": "Verified complete set of 30 questions covering Part 1 (Evelyn Glennie) and Part 2 (Bismillah Khan) with granular rationales, precise historical indices, and standard schema."
+    "checked_at": "2026-05-20T20:45:00Z",
+    "notes": "Verified 30 bilingual questions covering both parts: Evelyn Glennie and Bismillah Khan."
   },
   "questions": [
     {
       "question_id": 1,
       "question": {
-        "en": "How old was Evelyn Glennie when she traveled to audition for the prestigious Royal Academy of Music in London?",
-        "hi": "एवलिन ग्लेनी की उम्र क्या थी जब वह लंदन की प्रतिष्ठित रॉयल एकेडमी ऑफ म्यूजिक में ऑडिशन देने गई थीं?"
+        "en": "Who is the main character in the first part of the story?",
+        "hi": "कहानी के पहले भाग में मुख्य पात्र कौन है?"
       },
       "options": {
-        "a": {"en": "Thirteen years old", "hi": "तेरह वर्ष"},
-        "b": {"en": "Seventeen years old", "hi": "सत्रह वर्ष (Seventeen)"},
-        "c": {"en": "Twenty years old", "hi": "बीस वर्ष"},
-        "d": {"en": "Eleven years old", "hi": "ग्यारह वर्ष"}
+        "a": {"en": "Bismillah Khan", "hi": "बिस्मिल्लाह खान"},
+        "b": {"en": "Evelyn Glennie", "hi": "एवलिन ग्लेनी"},
+        "c": {"en": "Ron Forbes", "hi": "रॉन फोर्ब्स"},
+        "d": {"en": "James Blades", "hi": "जेम्स ब्लेड्स"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "She was a fresh teenager venturing straight from a Scottish farm.",
-        "hi": "वह स्कॉटलैंड के एक ग्रामीण खेत (farm) से आई एक नई किशोरी (teenager) थी।"
-      },
-      "explanation": {
-        "en": "Evelyn Glennie was not even seventeen when she took the train to London for the Royal Academy of Music.",
-        "hi": "एवलिन ग्लेनी जब लंदन की रॉयल एकेडमी ऑफ म्यूजिक में गईं, तब वे अपनी उम्र के सत्रहवें वर्ष में थीं।"
-      },
-      "key_takeaway": {
-        "en": "Evelyn's age at Academy = 17 years old.",
-        "hi": "एकेडमी जाने के समय एवलिन की उम्र = 17 वर्ष।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 2,
       "question": {
-        "en": "At what age was Evelyn's hearing loss first noticed by her mother, Isabel Glennie?",
-        "hi": "एवलिन की माँ इसाबेल ग्लेनी ने पहली बार उसकी सुनने की क्षमता में कमी किस उम्र में देखी थी?"
+        "en": "At what age did Evelyn lose her hearing?",
+        "hi": "एवलिन ने किस उम्र में अपनी सुनने की क्षमता खो दी थी?"
       },
       "options": {
-        "a": {"en": "Eight years old", "hi": "आठ वर्ष की उम्र में (Eight years old)"},
-        "b": {"en": "Eleven years old", "hi": "ग्यारह वर्ष की उम्र में"},
-        "c": {"en": "Five years old", "hi": "पांच वर्ष की उम्र में"},
-        "d": {"en": "Fourteen years old", "hi": "पंद्रह वर्ष की उम्र में"}
+        "a": {"en": "8 years", "hi": "8 वर्ष"},
+        "b": {"en": "11 years", "hi": "11 वर्ष"},
+        "c": {"en": "12 years", "hi": "12 वर्ष"},
+        "d": {"en": "10 years", "hi": "10 वर्ष"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "She didn't respond or move when her name was called to play the piano.",
-        "hi": "पियानो बजाने के लिए नाम पुकारे जाने पर उसने कोई शारीरिक प्रतिक्रिया नहीं दी थी।"
-      },
-      "explanation": {
-        "en": "Her hearing loss was first noticed when she was eight years old, waiting to play the piano.",
-        "hi": "जब एवलिन आठ साल की थी, तब पहली बार उसकी माँ को उसकी बहरेपन की समस्या का अहसास हुआ था।"
-      },
-      "key_takeaway": {
-        "en": "Initial discovery = Hearing loss noticed at age 8.",
-        "hi": "शुरुआती खोज = 8 वर्ष की उम्र में बहरेपन का अहसास हुआ।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 3,
       "question": {
-        "en": "By what age was Evelyn's hearing impairment confirmed to be complete due to gradual nerve damage?",
-        "hi": "एक विशेषज्ञ के अनुसार, तंत्रिका क्षति (nerve damage) के कारण किस उम्र तक एवलिन का बहरापन पूरी तरह से पूर्ण हो चुका था?"
+        "en": "Who encouraged Evelyn to play music?",
+        "hi": "एवलिन को संगीत बजाने के लिए किसने प्रोत्साहित किया?"
       },
       "options": {
-        "a": {"en": "Twelve years old", "hi": "बारह वर्ष"},
-        "b": {"en": "Eleven years old", "hi": "ग्यारह वर्ष (Eleven)"},
-        "c": {"en": "Sixteen years old", "hi": "सोलह वर्ष"},
-        "d": {"en": "Fourteen years old", "hi": "चौदह वर्ष"}
+        "a": {"en": "Her mother", "hi": "उसकी माँ"},
+        "b": {"en": "Ron Forbes", "hi": "रॉन फोर्ब्स"},
+        "c": {"en": "Her teacher", "hi": "उसके शिक्षक"},
+        "d": {"en": "Her friends", "hi": "उसके दोस्त"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "By this time, her school grades had dropped and her headmistress urged seeing a specialist.",
-        "hi": "इस समय तक उसके स्कूल के अंक बहुत गिर चुके थे और उसकी हेडमिस्ट्रेस ने माता-पिता से डॉक्टर से मिलने को कहा।"
-      },
-      "explanation": {
-        "en": "By the time she was eleven, her marks had deteriorated and a specialist confirmed severe nerve damage.",
-        "hi": "ग्यारह वर्ष की उम्र तक पहुँचते-पहुँचते एवलिन ग्लेनी की सुनने की शक्ति पूरी तरह से समाप्त हो चुकी थी।"
-      },
-      "key_takeaway": {
-        "en": "Complete deafness age = 11 years old.",
-        "hi": "पूर्ण बहरेपन की उम्र = 11 वर्ष।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 4,
       "question": {
-        "en": "Who was the percussionist who spotted Evelyn's potential and encouraged her to feel music through her body?",
-        "hi": "वह प्रसिद्ध ढोलक वादक (percussionist) कौन थे जिन्होंने एवलिन की क्षमता को पहचाना और उसे शरीर से संगीत महसूस करने को कहा?"
+        "en": "How did Ron Forbes help Evelyn?",
+        "hi": "रॉन फोर्ब्स ने एवलिन की मदद कैसे की?"
       },
       "options": {
-        "a": {"en": "Ron Forbes", "hi": "रॉन फोर्ब्स (Ron Forbes)"},
-        "b": {"en": "James Blades", "hi": "जेम्स ब्लेड्स"},
-        "c": {"en": "Bismillah Khan", "hi": "बिस्मिल्लाह खान"},
-        "d": {"en": "Ali Bux", "hi": "अली बक्स"}
+        "a": {"en": "He gave her a hearing aid", "hi": "उसने उसे हियरिंग एड दिया"},
+        "b": {"en": "He tuned two drums to different notes", "hi": "उसने दो ड्रमों को अलग-अलग सुरों में ट्यून किया"},
+        "c": {"en": "He taught her sign language", "hi": "उसने उसे सांकेतिक भाषा सिखाई"},
+        "d": {"en": "He bought her a flute", "hi": "उसने उसके लिए बाँसुरी खरीदी"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "He tuned two large drums to different notes to kickstart her tactile training.",
-        "hi": "उन्होंने एवलिन का अभ्यास शुरू कराने के लिए दो बड़े ड्रमों को अलग-अलग सुरों पर सेट किया था।"
-      },
-      "explanation": {
-        "en": "Most teachers discouraged her, but percussionist Ron Forbes spotted her potential and tuned two large drums.",
-        "hi": "पर्कशनिस्ट रॉन फोर्ब्स ने एवलिन की अनूठी शारीरिक क्षमता को पहचाना और उसे ड्रम की ध्वनि को त्वचा से महसूस करना सिखाया।"
-      },
-      "key_takeaway": {
-        "en": "Mentor's name = Ron Forbes.",
-        "hi": "मेंटर (गुरु) का नाम = रॉन फोर्ब्स।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 5,
       "question": {
-        "en": "How did Evelyn learn to differentiate the vibrations of the two large drums?",
-        "hi": "एवलिन ने दोनों बड़े ड्रमों के कंपनों (vibrations) के बीच अंतर करना कैसे सीखा था?"
+        "en": "Evelyn could feel music through...",
+        "hi": "एवलिन संगीत को महसूस कर सकती थी..."
       },
       "options": {
-        "a": {"en": "Higher drum from the waist up, lower drum from the waist down", "hi": "ऊंचे ड्रम को कमर से ऊपर, निचले ड्रम को कमर से नीचे से (Higher from waist up, lower from waist down)"},
-        "b": {"en": "Higher drum through her eyes, lower drum through her feet", "hi": "ऊंचे ड्रम को आँखों से, निचले ड्रम को पैरों से"},
-        "c": {"en": "Higher drum through left ear, lower drum through right ear", "hi": "ऊंचे ड्रम को बाएं कान से, निचले ड्रम को दाएं कान से"},
-        "d": {"en": "She relied entirely on reading the notes on a sheet", "hi": "वह पूरी तरह से शीट पर लिखे सुरों को पढ़ने पर निर्भर थी"}
+        "a": {"en": "Her eyes", "hi": "अपनी आँखों से"},
+        "b": {"en": "Her body and parts", "hi": "अपने शरीर और अंगों से"},
+        "c": {"en": "Her ears", "hi": "अपने कानों से"},
+        "d": {"en": "She could not feel it", "hi": "वह इसे महसूस नहीं कर सकती थी"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "Her waist acted as a boundary line for sensing different sound frequencies.",
-        "hi": "उसकी कमर शरीर में विभिन्न प्रकार की ध्वनि आवृत्तियों (frequencies) के कंपन को बांटने की रेखा बनी।"
-      },
-      "explanation": {
-        "en": "Evelyn felt the higher drum from the waist up and the lower drum from the waist down, unlocking tactile hearing.",
-        "hi": "एवलिन ने पाया कि वह ऊंचे सुर वाले ड्रम को अपनी कमर से ऊपर और गहरे सुर वाले ड्रम को कमर से नीचे महसूस कर सकती थी।"
-      },
-      "key_takeaway": {
-        "en": "Physical frequency split = Waist up for high notes, waist down for low notes.",
-        "hi": "शारीरिक आवृत्ति विभाजन = कमर से ऊपर ऊंचे सुर, कमर से नीचे गहरे सुर।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 6,
       "question": {
-        "en": "Why does Evelyn remove her shoes on a wooden platform during performances?",
-        "hi": "एवलिन संगीत प्रस्तुतियों के दौरान लकड़ी के प्लेटफॉर्म पर अपने जूते क्यों उतार देती हैं?"
+        "en": "Which award did Evelyn receive in 1991?",
+        "hi": "एवलिन को 1991 में कौन सा पुरस्कार मिला?"
       },
       "options": {
-        "a": {"en": "To maintain traditional Scottish farm respect", "hi": "स्कॉटलैंड के पारंपरिक ग्रामीण सम्मान को बनाए रखने के लिए"},
-        "b": {"en": "So that the vibrations can pass through her bare feet and up her legs", "hi": "ताकि कंपन उसके नंगे पैरों से होकर उसकी टांगों तक पहुंच सके"},
-        "c": {"en": "Because her performance shoes are too heavy", "hi": "क्योंकि उसके प्रदर्शन वाले जूते बहुत भारी होते हैं"},
-        "d": {"en": "It is a legal safety guideline of theaters", "hi": "यह थिएटरों की एक कानूनी सुरक्षा गाइडलाइन है"}
+        "a": {"en": "Royal Philharmonic Society Award", "hi": "रॉयल फिलहारमोनिक सोसाइटी अवार्ड"},
+        "b": {"en": "Grammy Award", "hi": "ग्रैमी अवार्ड"},
+        "c": {"en": "Padma Shri", "hi": "पद्म श्री"},
+        "d": {"en": "Bharat Ratna", "hi": "भारत रत्न"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It allows acoustic waves to travel straight from the ground into her nervous system without insulation.",
-        "hi": "यह बिना किसी अवरोध के सीधे जमीन से आ रही लय और कंपन को नंगे पैरों के जरिए महसूस करने में मदद करता है।"
-      },
-      "explanation": {
-        "en": "On a wooden platform, she removes her shoes so that the vibrations pass through her bare feet.",
-        "hi": "लकड़ी के मंच पर वह जूते उतार देती हैं ताकि संगीत की तरंगें नंगे पैरों के जरिए सीधे उसके शरीर में प्रवेश कर सकें।"
-      },
-      "key_takeaway": {
-        "en": "Reason for bare feet = Direct tactile conduction of sound vibrations.",
-        "hi": "नंगे पैर रहने का कारण = ध्वनि कंपनों का सीधे शरीर में प्रवेश सुनिश्चित करना।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 7,
       "question": {
-        "en": "In 1991, Evelyn Glennie was presented with which highly prestigious award by the Royal Philharmonic Society?",
-        "hi": "1991 में, एवलिन ग्लेनी को रॉयल फिलहारमोनिक सोसाइटी द्वारा किस अत्यधिक प्रतिष्ठित पुरस्कार से सम्मानित किया गया था?"
+        "en": "What instrument does Evelyn play?",
+        "hi": "एवलिन कौन सा वाद्ययंत्र बजाती है?"
       },
       "options": {
-        "a": {"en": "The International Grammy", "hi": "द इंटरनेशनल ग्रेमी"},
-        "b": {"en": "Soloist of the Year Award", "hi": "सोलॉइस्ट ऑफ द ईयर अवार्ड (Soloist of the Year Award)"},
-        "c": {"en": "Best Master Percussionist Medal", "hi": "बेस्ट मास्टर पर्कशनिस्ट मेडल"},
-        "d": {"en": "Symphony Excellence Laurel", "hi": "सिम्फनी एक्सीलेंस लॉरेल"}
+        "a": {"en": "Flute", "hi": "बाँसुरी"},
+        "b": {"en": "Percussion", "hi": "ताल-वाद्य (पर्कशन)"},
+        "c": {"en": "Violin", "hi": "वायलिन"},
+        "d": {"en": "Sitar", "hi": "सितार"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is the society's most coveted individual performing award.",
-        "hi": "यह सोसाइटी का सबसे प्रतिष्ठित पुरस्कार है जो किसी एकल उत्कृष्ट परफॉर्मर को दिया जाता है।"
-      },
-      "explanation": {
-        "en": "In 1991, she was presented with the Royal Philharmonic Society’s prestigious Soloist of the Year Award.",
-        "hi": "1991 में एवलिन ग्लेनी को रॉयल फिलहारमोनिक सोसाइटी का सबसे बड़ा 'सोलॉइस्ट ऑफ द ईयर' पुरस्कार मिला था।"
-      },
-      "key_takeaway": {
-        "en": "1991 honor = Soloist of the Year Award.",
-        "hi": "1991 का सम्मान = सोलॉइस्ट ऑफ द ईयर अवार्ड।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 8,
       "question": {
-        "en": "Apart from regular commercial concerts, where does Evelyn give free performances?",
-        "hi": "नियमित व्यावसायिक कार्यक्रमों के अलावा, एवलिन मुफ़्त संगीत कार्यक्रम कहाँ देती हैं?"
+        "en": "Where was Evelyn born?",
+        "hi": "एवलिन का जन्म कहाँ हुआ था?"
       },
       "options": {
-        "a": {"en": "In public street markets and parks", "hi": "सार्वजनिक सड़कों और पार्कों में"},
-        "b": {"en": "In prisons and hospitals", "hi": "जेलों और अस्पतालों में (In prisons & hospitals)"},
-        "c": {"en": "Only inside orphanages", "hi": "केवल अनाथालयों के भीतर"},
-        "d": {"en": "In ancient historic castles", "hi": "प्राचीन ऐतिहासिक किलों में"}
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Scotland", "hi": "स्कॉटलैंड"},
+        "c": {"en": "England", "hi": "इंग्लैंड"},
+        "d": {"en": "USA", "hi": "अमेरिका"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "She targets institutions where people are physically confined or suffering.",
-        "hi": "वे उन संस्थानों को चुनती हैं जहाँ लोग पीड़ित हैं या बाहरी दुनिया से अलग-थलग हैं।"
-      },
-      "explanation": {
-        "en": "Apart from regular concerts, Evelyn gives free concerts in prisons and hospitals, sharing music's healing power.",
-        "hi": "एवलिन परोपकार के लिए जेलों और अस्पतालों में मुफ़्त प्रदर्शन करती हैं ताकि संगीत से लोगों के कष्ट कम हो सकें।"
-      },
-      "key_takeaway": {
-        "en": "Charitable venues = Prisons and hospitals.",
-        "hi": "परोपकारी स्थल = जेल और अस्पताल।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 9,
       "question": {
-        "en": "Which Mughal Emperor banned the playing of 'pungi' in the royal residence because of its shrill sound?",
-        "hi": "किस मुग़ल सम्राट ने शाही महल में 'पुंगी' नामक वाद्ययंत्र को बजाने पर प्रतिबंध लगा दिया था क्योंकि इसकी आवाज़ बहुत तीखी थी?"
+        "en": "How did Evelyn perform in the Royal Academy of Music?",
+        "hi": "एवलिन ने रॉयल एकेडमी ऑफ म्यूजिक में कैसा प्रदर्शन किया?"
       },
       "options": {
-        "a": {"en": "Akbar", "hi": "अकबर"},
-        "b": {"en": "Aurangzeb", "hi": "औरंगज़ेब (Aurangzeb)"},
-        "c": {"en": "Shah Jahan", "hi": "शाहजहाँ"},
-        "d": {"en": "Jahangir", "hi": "जहांगीर"}
+        "a": {"en": "Badly", "hi": "खराब"},
+        "b": {"en": "Captured most top awards", "hi": "ज्यादातर शीर्ष पुरस्कार जीते"},
+        "c": {"en": "Average", "hi": "औसत"},
+        "d": {"en": "She failed", "hi": "वह फेल हो गई"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "He was a strict emperor who banned many recreational activities and music forms in his court.",
-        "hi": "वे एक रूढ़िवादी मुगल शासक थे जिन्होंने दरबार में संगीत और फिजूलखर्ची के मनोरंजन पर रोक लगाई थी।"
-      },
-      "explanation": {
-        "en": "Emperor Aurangzeb banned the playing of the musical instrument pungi in the royal residence for its unpleasant sound.",
-        "hi": "मुगल सम्राट औरंगज़ेब ने पुंगी की कर्कश और तीखी ध्वनि के कारण महल के भीतर इसके बजाने पर पाबंदी लगा दी थी।"
-      },
-      "key_takeaway": {
-        "en": "Ban enforcer = Emperor Aurangzeb.",
-        "hi": "प्रतिबंध लागू करने वाला = सम्राट औरंगज़ेब।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 10,
       "question": {
-        "en": "Who modified and improved the tonal quality of the 'pungi' into the 'shehnai'?",
-        "hi": "किसने 'पुंगी' की सुरीली गुणवत्ता में सुधार किया और इसे 'शहनाई' के रूप में बदल दिया था?"
+        "en": "Why did Evelyn not want to give up?",
+        "hi": "एवलिन हार क्यों नहीं मानना चाहती थी?"
       },
       "options": {
-        "a": {"en": "A barber belonging to a family of professional musicians", "hi": "पेशेवर संगीतकारों के परिवार से ताल्लुक रखने वाले एक नाई ने (A barber)"},
-        "b": {"en": "A general in Aurangzeb's guard", "hi": "औरंगज़ेब के रक्षक दल के एक जनरल ने"},
-        "c": {"en": "A young foreign European trader", "hi": "एक युवा विदेशी यूरोपीय व्यापारी ने"},
-        "d": {"en": "A saint from Benaras temples", "hi": "बनारस के मंदिरों के एक संत ने"}
+        "a": {"en": "She wanted to be rich", "hi": "वह अमीर बनना चाहती थी"},
+        "b": {"en": "She was determined to lead a normal life", "hi": "वह सामान्य जीवन जीने के लिए दृढ़ थी"},
+        "c": {"en": "Her parents forced her", "hi": "उसके माता-पिता ने मजबूर किया"},
+        "d": {"en": "She wanted fame", "hi": "वह प्रसिद्धि चाहती थी"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "He chose a hollow stem wider and longer than the pungi and made seven holes on it.",
-        "hi": "उसने पुंगी से अधिक चौड़े और लंबे पाइप को चुना और उसमें सात छेद करके नया यंत्र बनाया।"
-      },
-      "explanation": {
-        "en": "A barber of a family of professional musicians, who had access to the royal palace, improved the pungi's tone.",
-        "hi": "शाही महलों में आने-जाने वाले संगीतकार परिवार के एक नाई (barber) ने पुंगी के खोखले पाइप में सुधार करके शहनाई बनाई।"
-      },
-      "key_takeaway": {
-        "en": "Creator of Shehnai = A professional barber from a musical lineage.",
-        "hi": "शहनाई के निर्माता = संगीतकारों के परिवार से ताल्लुक रखने वाला एक नाई।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 11,
       "question": {
-        "en": "Why was the newly invented instrument named 'Shehnai'?",
-        "hi": "इस नए संशोधित वाद्ययंत्र का नाम 'शहनाई' क्यों रखा गया था?"
+        "en": "Who is the main character in the second part?",
+        "hi": "दूसरे भाग में मुख्य पात्र कौन है?"
       },
       "options": {
-        "a": {"en": "Because it was carved from Sheesham wood", "hi": "क्योंकि इसे शीशम की लकड़ी से तराशा गया था"},
-        "b": {"en": "Because it was first played in the Shah's chambers and by a nai (barber)", "hi": "क्योंकि इसे पहली बार शाह के कक्षों में बजाया गया था और एक नाई द्वारा बनाया गया था"},
-        "c": {"en": "It was named after Bismillah Khan's hometown", "hi": "इसका नाम बिस्मिल्लाह खान के गृहनगर पर रखा गया था"},
-        "d": {"en": "It means 'melodious stream' in Persian text", "hi": "फारसी पाठ में इसका अर्थ 'सुरीली धारा' होता है"}
+        "a": {"en": "Evelyn Glennie", "hi": "एवलिन ग्लेनी"},
+        "b": {"en": "Bismillah Khan", "hi": "बिस्मिल्लाह खान"},
+        "c": {"en": "Aurangzeb", "hi": "औरंगजेब"},
+        "d": {"en": "Ali Bux", "hi": "अली बख्श"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "The etymology combines the title of the monarch and the profession of its creator.",
-        "hi": "यह नाम राजा (Shah) और इसे पहली बार बजाने वाले के पेशे (Nai) का एक ऐतिहासिक संयोजन है।"
-      },
-      "explanation": {
-        "en": "Since it was first played in the Shah’s chambers and was played by a nai (barber), the instrument was named the 'shehnai'.",
-        "hi": "चूंकि यह यंत्र पहली बार शाह (मुगल राजा) के दरबार में बजा और एक नाई द्वारा बजाया गया, इसलिए इसका नाम शह-नाई पड़ा।"
-      },
-      "key_takeaway": {
-        "en": "Etymology of Shehnai = Shah (King's court) + Nai (Barber).",
-        "hi": "शहनाई का नामकरण = शाह (राजा का दरबार) + नाई (बजाने वाला)।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 12,
       "question": {
-        "en": "The shehnai was traditionally a component of the 'naubat', which means what?",
-        "hi": "पारंपरिक रूप से शहनाई 'नौबत' (naubat) का हिस्सा थी, नौबत से क्या तात्पर्य है?"
+        "en": "Which musical instrument did Aurangzeb ban?",
+        "hi": "औरंगजेब ने किस वाद्ययंत्र पर प्रतिबंध लगा दिया था?"
       },
       "options": {
-        "a": {"en": "A series of festive wedding classical dances", "hi": "उत्सवों की शादियों के शास्त्रीय नृत्यों की एक श्रृंखला"},
-        "b": {"en": "A traditional ensemble of nine instruments found at royal courts", "hi": "शाही दरबारों में पाए जाने वाले नौ वाद्ययंत्रों का पारंपरिक समूह (Ensemble of nine instruments)"},
-        "c": {"en": "The personal marching choir of the Emperor", "hi": "सम्राट का निजी मार्चिंग गायक दल"},
-        "d": {"en": "A spiritual evening temple prayer meet", "hi": "एक आध्यात्मिक शाम की मंदिर प्रार्थना सभा"}
+        "a": {"en": "Sitar", "hi": "सितार"},
+        "b": {"en": "Pungi", "hi": "पुंगी"},
+        "c": {"en": "Flute", "hi": "बाँसुरी"},
+        "d": {"en": "Tabla", "hi": "तबला"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "The prefix relates directly to the number nine in Hindustani language.",
-        "hi": "इस शब्द का प्रारंभिक भाग सीधे हिंदी भाषा की संख्या 'नौ' (9) से जुड़ा हुआ है।"
-      },
-      "explanation": {
-        "en": "Traditionally, the shehnai was part of the naubat or traditional ensemble of nine instruments at royal courts.",
-        "hi": "शाही महलों के प्रवेश द्वारों पर बजने वाले नौ पारंपरिक वाद्ययंत्रों के विशिष्ट समूह को 'नौबत' कहा जाता था।"
-      },
-      "key_takeaway": {
-        "en": "Naubat = Court ensemble of nine traditional instruments.",
-        "hi": "नौबत = शाही दरबारों में बजने वाले नौ पारंपरिक वाद्ययंत्रों का समूह।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 13,
       "question": {
-        "en": "Who is credited with elevating the shehnai onto the classical stage from temples and weddings?",
-        "hi": "शहनाई को केवल शादियों और मंदिरों से बाहर निकालकर शास्त्रीय मंच (classical stage) पर लाने का श्रेय किसे दिया जाता है?"
+        "en": "Who improved the Pungi and created the Shehnai?",
+        "hi": "पुंगी में सुधार कर शहनाई किसने बनाई?"
       },
       "options": {
-        "a": {"en": "Ustad Bismillah Khan", "hi": "उस्ताद बिस्मिल्लाह खान (Ustad Bismillah Khan)"},
-        "b": {"en": "Ali Bux Khan", "hi": "अली बक्स खान को"},
-        "c": {"en": "Paigambar Bux", "hi": "पैगंबर बक्स को"},
-        "d": {"en": "Rasool Bux", "hi": "रसूल बक्स को"}
+        "a": {"en": "A barber", "hi": "एक नाई"},
+        "b": {"en": "A royal musician", "hi": "एक शाही संगीतकार"},
+        "c": {"en": "Bismillah Khan", "hi": "बिस्मिल्लाह खान"},
+        "d": {"en": "Ali Bux", "hi": "अली बख्श"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "He was a maestro born in Bihar who eventually won India's highest civilian award.",
-        "hi": "वे बिहार में जन्मे शहनाई के एक महान जादूगर थे जिन्हें आगे चलकर भारत रत्न मिला।"
-      },
-      "explanation": {
-        "en": "The credit for bringing this instrument onto the classical stage goes to Ustad Bismillah Khan.",
-        "hi": "उस्ताद बिस्मिल्लाह खान ने अपनी अद्भुत साधना से शहनाई को रागों से जोड़कर शास्त्रीय संगीत के मुख्य मंच पर गरिमा दिलाई।"
-      },
-      "key_takeaway": {
-        "en": "Classical stage elevator = Ustad Bismillah Khan.",
-        "hi": "शास्त्रीय मंच पर स्थापित करने वाले = उस्ताद बिस्मिल्लाह खान।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 14,
       "question": {
-        "en": "Where was Bismillah Khan born in 1916, into a traditional family of musicians?",
-        "hi": "1916 में बिस्मिल्लाह खान का जन्म बिहार के किस प्रसिद्ध स्थान पर हुआ था?"
+        "en": "What was the Shehnai considered as?",
+        "hi": "शहनाई को क्या माना जाता था?"
       },
       "options": {
-        "a": {"en": "Patna", "hi": "पटना"},
-        "b": {"en": "Dumraon", "hi": "डुमरांव (Dumraon)"},
-        "c": {"en": "Gaya", "hi": "गया"},
-        "d": {"en": "Buxar", "hi": "बक्सर"}
+        "a": {"en": "An unlucky instrument", "hi": "एक अशुभ वाद्ययंत्र"},
+        "b": {"en": "An auspicious instrument", "hi": "एक शुभ वाद्ययंत्र"},
+        "c": {"en": "A modern instrument", "hi": "एक आधुनिक वाद्ययंत्र"},
+        "d": {"en": "A western instrument", "hi": "एक पश्चिमी वाद्ययंत्र"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is an ancient princely town and estate located in Bihar near the borders.",
-        "hi": "यह बिहार का एक ऐतिहासिक कस्बा और पुरानी रियासत है जिसका नाम 'डु...' से शुरू होता है।"
-      },
-      "explanation": {
-        "en": "Bismillah Khan was born on March 21, 1916, into a well-known family of musicians from Dumraon in Bihar.",
-        "hi": "उस्ताद बिस्मिल्लाह खान का जन्म 21 मार्च 1916 को बिहार के डुमरांव के एक पारंपरिक संगीतकार परिवार में हुआ था।"
-      },
-      "key_takeaway": {
-        "en": "Birthplace = Dumraon, Bihar.",
-        "hi": "जन्मस्थान = डुमरांव, बिहार।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 15,
       "question": {
-        "en": "What reward did Bismillah Khan receive from the local Bhojpur King for singing Chaita at the temple as a 5-year-old child?",
-        "hi": "पांच साल के बच्चे के रूप में मंदिर में 'चैता' गाने के लिए स्थानीय भोजपुर राजा से इनाम में बिस्मिल्लाह खान को क्या मिलता था?"
+        "en": "Where did Bismillah Khan practice his Shehnai?",
+        "hi": "बिस्मिल्लाह खान अपनी शहनाई का अभ्यास कहाँ करते थे?"
       },
       "options": {
-        "a": {"en": "A pure gold coin", "hi": "एक शुद्ध सोने का सिक्का"},
-        "b": {"en": "A big laddu weighing 1.25 kg", "hi": "1.25 किलोग्राम वजन का एक बड़ा लड्डू (A big laddu)"},
-        "c": {"en": "A miniature silver shehnai", "hi": "एक छोटी चांदी की शहनाई"},
-        "d": {"en": "A velvet royal coat", "hi": "एक रेशमी शाही कोट"}
+        "a": {"en": "In temples", "hi": "मंदिरों में"},
+        "b": {"en": "On the banks of Ganga", "hi": "गंगा के तट पर"},
+        "c": {"en": "In the palace", "hi": "महल में"},
+        "d": {"en": "Both a and b", "hi": "a और b दोनों"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is a massive round Indian sweet item given at the end of his recital.",
-        "hi": "यह एक प्रसिद्ध गोल भारतीय मिठाई है जो गायन के अंत में उन्हें पुरस्कार के रूप में दी जाती थी।"
-      },
-      "explanation": {
-        "en": "At the age of five, he would sing Chaita at Bihariji temple and earn a big laddu weighing 1.25 kg from the Maharaja.",
-        "hi": "स्थानीय बिहारीजी के मंदिर में चैता गाने पर वहाँ के महाराजा खुश होकर उन्हें सवा किलो (1.25 kg) का लड्डू देते थे।"
-      },
-      "key_takeaway": {
-        "en": "Childhood prize = 1.25 kg laddu from the local king.",
-        "hi": "बचपन का इनाम = स्थानीय राजा से सवा किलो का लड्डू।"
-      }
+      "correct_option": "d"
     },
     {
       "question_id": 16,
       "question": {
-        "en": "Who was Bismillah Khan's maternal uncle and first guru who introduced him to shehnai practice at Benaras temples?",
-        "hi": "बिस्मिल्लाह खान के मामा और पहले गुरु कौन थे, जिन्होंने बनारस के मंदिरों में उन्हें शहनाई बजाना सिखाया था?"
+        "en": "What was Bismillah Khan's paternal home?",
+        "hi": "बिस्मिल्लाह खान का पैतृक घर कहाँ था?"
       },
       "options": {
-        "a": {"en": "Ali Bux", "hi": "अली बक्स (Ali Bux)"},
-        "b": {"en": "Paigambar Bux", "hi": "पैगंबर बक्स"},
-        "c": {"en": "Rasool Bux Khan", "hi": "रसूल बक्स खान"},
-        "d": {"en": "Faiyaz Khan", "hi": "फैयाज खान"}
+        "a": {"en": "Lucknow", "hi": "लखनऊ"},
+        "b": {"en": "Dumraon (Bihar)", "hi": "डुमराँव (बिहार)"},
+        "c": {"en": "Varanasi", "hi": "वाराणसी"},
+        "d": {"en": "Delhi", "hi": "दिल्ली"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "He was officially employed to play the shehnai at the famous Vishwanath and Vishnu temples.",
-        "hi": "वे बनारस के प्रसिद्ध विश्वनाथ और विष्णु मंदिरों में आधिकारिक शहनाई वादक के रूप में नियुक्त थे।"
-      },
-      "explanation": {
-        "en": "His maternal uncle, Ali Bux, took him under his wing in Benaras and Bismillah watched him practice for hours.",
-        "hi": "बनारस आने पर उनके मामा अली बक्स ने उनकी प्रतिभा को निखारा और उन्हें शहनाई की बारीकियाँ सिखाईं।"
-      },
-      "key_takeaway": {
-        "en": "Uncle and guide = Ali Bux.",
-        "hi": "मामा और मार्गदर्शक = अली बक्स।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 17,
       "question": {
-        "en": "Which river in Benaras deeply inspired Bismillah Khan to invent new ragas on the shehnai?",
-        "hi": "बनारस की किस नदी के बहते पानी ने बिस्मिल्लाह खान को शहनाई पर नए रागों का आविष्कार करने के लिए प्रेरित किया था?"
+        "en": "What was the highest civilian award given to Bismillah Khan?",
+        "hi": "बिस्मिल्लाह खान को दिया गया सर्वोच्च नागरिक सम्मान कौन सा था?"
       },
       "options": {
-        "a": {"en": "The Yamuna", "hi": "यमुना नदी"},
-        "b": {"en": "The Ganga", "hi": "गंगा नदी (The Ganga)"},
-        "en": "The Brahmaputra", "hi": "ब्रह्मपुत्र नदी"},
-        "d": {"en": "The Godavari", "hi": "गोदावरी नदी"}
+        "a": {"en": "Padma Vibhushan", "hi": "पद्म विभूषण"},
+        "b": {"en": "Bharat Ratna", "hi": "भारत रत्न"},
+        "c": {"en": "Padma Bhushan", "hi": "पद्म भूषण"},
+        "d": {"en": "Padma Shri", "hi": "पद्म श्री"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is India's most sacred river, on whose quiet banks he practiced in solitude.",
-        "hi": "यह भारत की सबसे पवित्र नदी है, जिसके एकांत घाटों पर बैठकर वे घंटों रियाज़ किया करते थे।"
-      },
-      "explanation": {
-        "en": "The flowing waters of the Ganga inspired him to improvise and invent ragas considered beyond shehnai limits.",
-        "hi": "गंगा नदी के बहते जल के संगीत और शांति ने बिस्मिल्लाह खान को शहनाई पर नए सुर खोजने की प्रेरणा दी।"
-      },
-      "key_takeaway": {
-        "en": "Source of inspiration = The flowing water of River Ganga.",
-        "hi": "प्रेरणा का स्रोत = गंगा नदी का बहता जल।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 18,
       "question": {
-        "en": "What major professional break came for Bismillah Khan in 1938?",
-        "hi": "1938 में बिस्मिल्लाह खान के संगीत करियर में कौन सा बड़ा ब्रेकथ्रू (सफलता का मोड़) आया था?"
+        "en": "Who was Ali Bux?",
+        "hi": "अली बख्श कौन थे?"
       },
       "options": {
-        "a": {"en": "He went to perform in Europe", "hi": "उन्हें यूरोप में प्रदर्शन का अवसर मिला"},
-        "b": {"en": "The opening of All India Radio in Lucknow where he became an often-heard player", "hi": "लुकनाऊ में ऑल इंडिया रेडियो की शुरुआत हुई जहाँ वे अक्सर सुने जाने वाले वादक बने"},
-        "c": {"en": "He was awarded a national cash reward", "hi": "उन्हें एक राष्ट्रीय नकद पुरस्कार दिया गया था"},
-        "d": {"en": "He became the court musician of Jaipur", "hi": "वे जयपुर के दरबारी संगीतकार बने"}
+        "a": {"en": "Bismillah Khan's father", "hi": "बिस्मिल्लाह खान के पिता"},
+        "b": {"en": "Bismillah Khan's uncle", "hi": "बिस्मिल्लाह खान के चाचा"},
+        "c": {"en": "Bismillah Khan's student", "hi": "बिस्मिल्लाह खान के छात्र"},
+        "d": {"en": "A great king", "hi": "एक महान राजा"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "This radio station opened in the prominent capital city of Uttar Pradesh.",
-        "hi": "यह रेडियो स्टेशन उत्तर प्रदेश की ऐतिहासिक राजधानी लखनऊ में शुरू हुआ था।"
-      },
-      "explanation": {
-        "en": "With the opening of All India Radio in Lucknow in 1938 came Bismillah’s big break on air.",
-        "hi": "1938 में लखनऊ में ऑल इंडिया रेडियो की स्थापना के बाद रेडियो पर अक्सर उनकी शहनाई गूंजने लगी।"
-      },
-      "key_takeaway": {
-        "en": "Radio career launch = 1938 Lucknow All India Radio.",
-        "hi": "रेडियो करियर की शुरुआत = 1938 लखनऊ ऑल इंडिया रेडियो।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 19,
       "question": {
-        "en": "From which historical monument in Delhi did Bismillah Khan greet the nation on 15 August 1947?",
-        "hi": "15 अगस्त 1947 को आज़ादी की सुबह दिल्ली के किस ऐतिहासिक स्मारक से बिस्मिल्लाह खान ने शहनाई बजाकर राष्ट्र का स्वागत किया था?"
+        "en": "Where did Bismillah Khan play the Shehnai on 15 August 1947?",
+        "hi": "15 अगस्त 1947 को बिस्मिल्लाह खान ने शहनाई कहाँ बजाई थी?"
       },
       "options": {
-        "a": {"en": "Qutub Minar", "hi": "कुतुब मीनार से"},
-        "b": {"en": "Red Fort", "hi": "लाल किला से (Red Fort)"},
-        "c": {"en": "India Gate", "hi": "इंडिया गेट से"},
-        "d": {"en": "Purana Qila", "hi": "पुराना किला से"}
+        "a": {"en": "Red Fort", "hi": "लाल किला"},
+        "b": {"en": "India Gate", "hi": "इंडिया गेट"},
+        "c": {"en": "Varanasi Temple", "hi": "वाराणसी मंदिर"},
+        "d": {"en": "In front of the PM", "hi": "प्रधानमंत्री के सामने"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is the ancient fort where India's prime minister hoisted the tricolor flag for the first time.",
-        "hi": "यह वही मुगलकालीन किला है जहाँ स्वतंत्र भारत के प्रधानमंत्री ने पहली बार तिरंगा फहराया था।"
-      },
-      "explanation": {
-        "en": "On 15 August 1947, Bismillah Khan became the first Indian to greet the nation from the historic Red Fort.",
-        "hi": "15 अगस्त 1947 को आज़ादी के जश्न के अवसर पर लाल किले की प्राचीर से उन्होंने पूरे देश को मंत्रमुग्ध किया था।"
-      },
-      "key_takeaway": {
-        "en": "Independence day venue = Red Fort, Delhi.",
-        "hi": "स्वतंत्रता दिवस का स्थल = लाल किला, दिल्ली।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 20,
       "question": {
-        "en": "Which raga did Bismillah Khan pour his heart into from the Red Fort to an audience containing Nehru?",
-        "hi": "लाल किले से बिस्मिल्लाह खान ने जवाहरलाल नेहरू और अन्य श्रोताओं के सामने कौन सा राग दिल खोलकर बजाया था?"
+        "en": "Which city was Bismillah Khan's favorite?",
+        "hi": "बिस्मिल्लाह खान का पसंदीदा शहर कौन सा था?"
       },
       "options": {
-        "a": {"en": "Raga Bhairavi", "hi": "राग भैरवी"},
-        "b": {"en": "Raga Kafi", "hi": "राग काफ़ी (Raga Kafi)"},
-        "c": {"en": "Raga Bhairav", "hi": "राग भैरव"},
-        "d": {"en": "Raga Malkauns", "hi": "राग मालकौंस"}
+        "a": {"en": "Banaras and Dumraon", "hi": "बनारस और डुमराँव"},
+        "b": {"en": "Delhi and Mumbai", "hi": "दिल्ली और मुंबई"},
+        "c": {"en": "Lucknow and Delhi", "hi": "लखनऊ और दिल्ली"},
+        "d": {"en": "Kolkata and Patna", "hi": "कोलकाता और पटना"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "This raga starts with 'K' and was chosen to welcome the historic dawn of independence.",
-        "hi": "इस राग का नाम 'का...' से शुरू होता है और इसे स्वतंत्रता की ऐतिहासिक सुबह के स्वागत के लिए चुना गया था।"
-      },
-      "explanation": {
-        "en": "He poured his heart out into Raga Kafi from the Red Fort to an emotional audience.",
-        "hi": "15 अगस्त 1947 को लाल किले से बिस्मिल्लाह खान ने अपनी शहनाई से 'राग काफ़ी' (Raga Kafi) की धुन बिखेरी थी।"
-      },
-      "key_takeaway": {
-        "en": "Historic raga played = Raga Kafi.",
-        "hi": "बजाया गया ऐतिहासिक राग = राग काफ़ी।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 21,
       "question": {
-        "en": "Which country was Bismillah Khan's first international trip destination abroad?",
-        "hi": "बिस्मिल्लाह खान की पहली विदेशी यात्रा किस देश की थी जहाँ राजा ज़ाहिर शाह उनके संगीत के दीवाने हो गए थे?"
+        "en": "Why did Bismillah Khan refuse to start a Shehnai school in the USA?",
+        "hi": "बिस्मिल्लाह खान ने अमेरिका में शहनाई स्कूल शुरू करने से मना क्यों कर दिया?"
       },
       "options": {
-        "a": {"en": "Iran", "hi": "ईरान"},
-        "b": {"en": "Afghanistan", "hi": "अफगानिस्तान (Afghanistan)"},
-        "c": {"en": "Iraq", "hi": "इराक"},
-        "d": {"en": "Pakistan", "hi": "पाकिस्तान"}
+        "a": {"en": "He hated USA", "hi": "उसे अमेरिका से नफरत थी"},
+        "b": {"en": "Because he could not live away from Benaras and the Ganga", "hi": "क्योंकि वह बनारस और गंगा से दूर नहीं रह सकता था"},
+        "c": {"en": "He was too old", "hi": "वह बहुत बूढ़े थे"},
+        "d": {"en": "He did not know English", "hi": "उसे अंग्रेजी नहीं आती थी"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is India's historic neighbor to the northwest, with its capital at Kabul.",
-        "hi": "यह भारत का उत्तर-पश्चिम में स्थित पड़ोसी देश है जिसकी राजधानी काबुल शहर है।"
-      },
-      "explanation": {
-        "en": "Bismillah Khan’s first trip abroad was to Afghanistan where King Zahir Shah was highly fascinated.",
-        "hi": "उस्ताद बिस्मिल्लाह खान की पहली विदेश यात्रा अफगानिस्तान की थी, जहाँ के राजा ज़ाहिर शाह उनके मुरीद हो गए थे।"
-      },
-      "key_takeaway": {
-        "en": "First foreign trip = Afghanistan.",
-        "hi": "पहला विदेश दौरा = अफगानिस्तान।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 22,
       "question": {
-        "en": "What premium sovereign souvenirs did King Zahir Shah of Afghanistan gift to Bismillah Khan?",
-        "hi": "अफगानिस्तान के राजा ज़ाहिर शाह ने बिस्मिल्लाह खान को कला के प्रति सम्मान के रूप में क्या उपहार भेंट किए थे?"
+        "en": "Who gave Bismillah Khan his first Shehnai lessons?",
+        "hi": "बिस्मिल्लाह खान को शहनाई के पहले सबक किसने दिए?"
       },
       "options": {
-        "a": {"en": "Priceless Persian carpets and other souvenirs", "hi": "बहुमूल्य फारसी कालीन और अन्य स्मृति चिन्ह (Persian carpets)"},
-        "b": {"en": "A sword of pure gold", "hi": "शुद्ध सोने की एक तलवार"},
-        "c": {"en": "A diamond-studded royal shehnai", "hi": "एक हीरों से जड़ी शाही शहनाई"},
-        "d": {"en": "A rare historical horse carriage", "hi": "एक दुर्लभ ऐतिहासिक घोड़ा गाड़ी"}
+        "a": {"en": "His father", "hi": "उनके पिता"},
+        "b": {"en": "Ali Bux", "hi": "अली बख्श"},
+        "c": {"en": "His grandfather", "hi": "उनके दादा"},
+        "d": {"en": "Self-taught", "hi": "स्वयं सीखा"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "These are world-famous expensive woven floor coverings made in Iran/Persia.",
-        "hi": "ये दुनिया भर में अपनी बारीक बुनाई के लिए प्रसिद्ध फर्श पर बिछाने वाले कीमती कालीन हैं।"
-      },
-      "explanation": {
-        "en": "King Zahir Shah was so taken in by the maestro that he gifted him priceless Persian carpets.",
-        "hi": "अफगानिस्तान के शाह ने बिस्मिल्लाह खान को अमूल्य फारसी कालीन (Persian carpets) और कई स्मृति चिन्ह भेंट किए थे।"
-      },
-      "key_takeaway": {
-        "en": "Royal gift = Priceless Persian carpets.",
-        "hi": "शाही उपहार = बहुमूल्य फारसी कालीन।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 23,
       "question": {
-        "en": "Which Bollywood director named his movie 'Gunj Uthi Shehnai' after being fascinated by Bismillah Khan?",
-        "hi": "कौन से प्रसिद्ध भारतीय फिल्म निर्देशक बिस्मिल्लाह खान की कला से इतने प्रभावित थे कि उन्होंने अपनी फिल्म का नाम 'गूंज उठी शहनाई' रख दिया था?"
+        "en": "What was the name of the sound Pungi made?",
+        "hi": "पुंगी से निकलने वाली ध्वनि का नाम क्या था?"
       },
       "options": {
-        "a": {"en": "Satyajit Ray", "hi": "सत्यजीत रे"},
-        "b": {"en": "Vijay Bhatt", "hi": "विजय भट्ट (Vijay Bhatt)"},
-        "c": {"en": "Raj Kapoor", "hi": "राज कपूर"},
-        "d": {"en": "Guru Dutt", "hi": "गुरु दत्त"}
+        "a": {"en": "Melodious", "hi": "मधुर"},
+        "b": {"en": "Shrill and unpleasant", "hi": "तीखी और अप्रिय"},
+        "c": {"en": "Soft", "hi": "कोमल"},
+        "d": {"en": "None of these", "hi": "इनमें से कोई नहीं"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "The director heard him play at a music festival and immediately decided the film's title.",
-        "hi": "इस निर्देशक ने एक संगीत समारोह में उनकी शहनाई सुनी थी और तुरंत अपनी फिल्म का शीर्षक बदल दिया था।"
-      },
-      "explanation": {
-        "en": "Film director Vijay Bhatt was so impressed after hearing Bismillah play that he named a film 'Gunj Uthi Shehnai'.",
-        "hi": "फिल्म निर्माता विजय भट्ट उनकी शहनाई के जादू से प्रभावित होकर अपनी फिल्म का नाम 'गूंज उठी शहनाई' रखने को प्रेरित हुए।"
-      },
-      "key_takeaway": {
-        "en": "Film Director = Vijay Bhatt.",
-        "hi": "फिल्म निर्देशक = विजय भट्ट।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 24,
       "question": {
-        "en": "What was the name of the Kannada movie for which Bismillah Khan composed music?",
-        "hi": "उस एकमात्र प्रसिद्ध कन्नड़ फिल्म का नाम क्या था जिसके लिए बिस्मिल्लाह खान ने एक संगीत रचना तैयार की थी?"
+        "en": "Evelyn gave concerts in...",
+        "hi": "एवलिन ने संगीत कार्यक्रम किए..."
       },
       "options": {
-        "a": {"en": "Sanadhi Apanna", "hi": "सन्नाधि अपन्ना (Sanadhi Apanna)"},
-        "b": {"en": "Babruvahana", "hi": "बब्रुवाहन"},
-        "c": {"en": "Ranadheera", "hi": "रणधीरा"},
-        "d": {"en": "Kaviratna", "hi": "कविरत्न"}
+        "a": {"en": "Prisons and hospitals", "hi": "जेलों और अस्पतालों में"},
+        "b": {"en": "Schools", "hi": "स्कूलों में"},
+        "c": {"en": "Only in theatres", "hi": "केवल थिएटरों में"},
+        "d": {"en": "None of these", "hi": "इनमें से कोई नहीं"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "This film was produced by Vikram Srinivas and starred Kannada superstar Rajkumar.",
-        "hi": "इस फिल्म का निर्माण विक्रम श्रीनिवास ने किया था और इसमें कन्नड़ फिल्मों के दिग्गज अभिनेता राजकुमार मुख्य भूमिका में थे।"
-      },
-      "explanation": {
-        "en": "His ventures in film music were limited to two: 'Gunj Uthi Shehnai' and Vikram Srinivas’s Kannada venture, 'Sanadhi Apanna'.",
-        "hi": "सिनेमा जगत में उस्ताद का योगदान सीमित था, जिसमें कन्नड़ भाषा की फिल्म 'सन्नाधि अपन्ना' (Sanadhi Apanna) शामिल थी।"
-      },
-      "key_takeaway": {
-        "en": "Kannada film venture = Sanadhi Apanna.",
-        "hi": "कन्नड़ फिल्म उद्यम = सन्नाधि अपन्ना।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 25,
       "question": {
-        "en": "Why did Bismillah Khan distance himself from cinema despite massive money offers?",
-        "hi": "अत्यधिक धन और सफलता के बावजूद बिस्मिल्लाह खान ने खुद को फिल्म उद्योग से दूर क्यों कर लिया था?"
+        "en": "Who discovered that Evelyn had hearing problems?",
+        "hi": "किसने पता लगाया कि एवलिन को सुनने में समस्या है?"
       },
       "options": {
-        "a": {"en": "He found studio acoustics too stressful", "hi": "उन्हें स्टूडियो की ध्वनिकी (acoustics) बहुत तनावपूर्ण लगती थी"},
-        "b": {"en": "He couldn't come to terms with the artificiality and glamour of the film world", "hi": "वे फिल्म जगत के बनावटीपन (कृत्रिमता) और चकाचौंध को स्वीकार नहीं कर पा रहे थे"},
-        "c": {"en": "He was bound by a religious promise to Benaras temples", "hi": "वे बनारस के मंदिरों के प्रति एक धार्मिक वादे से बंधे थे"},
-        "d": {"en": "The travel schedules disrupted his health", "hi": "यात्रा के कार्यक्रमों ने उनके स्वास्थ्य को खराब कर दिया था"}
+        "a": {"en": "Her mother", "hi": "उसकी माँ"},
+        "b": {"en": "Her school principal", "hi": "उसके स्कूल के प्रिंसिपल"},
+        "c": {"en": "Her teacher", "hi": "उसके शिक्षक"},
+        "d": {"en": "Her friend", "hi": "उसकी दोस्त"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "He preferred the organic spiritual freedom of classical music over commercial restrictions.",
-        "hi": "वे व्यावसायिक हितों और दिखावे के बजाय संगीत की रूहानी और वास्तविक स्वतंत्रता को अधिक पसंद करते थे।"
-      },
-      "explanation": {
-        "en": "Bismillah Khan stated: 'I just can’t come to terms with the artificiality and glamour of the film world.'",
-        "hi": "उनका साफ़ कहना था कि वे सिनेमा की कृत्रिम (बनावटी) दुनिया और व्यावसायिक चकाचौंध के साथ तालमेल नहीं बिठा सकते।"
-      },
-      "key_takeaway": {
-        "en": "Reason for leaving cinema = Disliked the artificiality of the commercial film industry.",
-        "hi": "सिनेमा छोड़ने का कारण = व्यावसायिक फिल्म उद्योग के बनावटीपन को नापसंद करना।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 26,
       "question": {
-        "en": "Bismillah Khan was the first Indian to be invited to perform at which prestigious auditorium in the USA?",
-        "hi": "संयुक्त राज्य अमेरिका के किस प्रतिष्ठित सभागार (auditorium) में प्रदर्शन के लिए आमंत्रित होने वाले बिस्मिल्लाह खान पहले भारतीय थे?"
+        "en": "What did Evelyn do to hear music?",
+        "hi": "एवलिन संगीत सुनने के लिए क्या करती थी?"
       },
       "options": {
-        "a": {"en": "Lincoln Center Hall", "hi": "लिंकन सेंटर हॉल (Lincoln Center Hall)"},
-        "b": {"en": "Carnegie Hall", "hi": "कारनेगी हॉल"},
-        "c": {"en": "Madison Square Garden", "hi": "मैडिसन स्क्वायर गार्डन"},
-        "d": {"en": "Hollywood Bowl Arena", "hi": "हॉलीवुड बाउल एरिना"}
+        "a": {"en": "Use hearing aids", "hi": "हियरिंग एड का उपयोग"},
+        "b": {"en": "Remove her shoes on wooden platforms", "hi": "लकड़ी के मंच पर जूते उतारना"},
+        "c": {"en": "Close her eyes", "hi": "आँखें बंद करना"},
+        "d": {"en": "None of these", "hi": "इनमें से कोई नहीं"}
       },
-      "correct_option": "a",
-      "hint": {
-        "en": "This world-famous classical arts center is situated in New York City.",
-        "hi": "यह विश्व प्रसिद्ध शास्त्रीय कला केंद्र संयुक्त राज्य अमेरिका के न्यूयॉर्क शहर में स्थित है।"
-      },
-      "explanation": {
-        "en": "He became the first Indian to be invited to perform at the prestigious Lincoln Center Hall in the USA.",
-        "hi": "उस्ताद बिस्मिल्लाह खान को अमेरिका के न्यूयॉर्क में स्थित विख्यात 'लिंकन सेंटर हॉल' में प्रस्तुति का गौरव मिला था।"
-      },
-      "key_takeaway": {
-        "en": "US performance landmark = Lincoln Center Hall.",
-        "hi": "अमेरिकी प्रदर्शन स्थल = लिंकन सेंटर हॉल।"
-      }
+      "correct_option": "b"
     },
     {
       "question_id": 27,
       "question": {
-        "en": "An auditorium in which foreign Capital city was named 'Tehaar Musiquee Ustad Bismillah Khan'?",
-        "hi": "विदेश के किस राजधानी शहर में एक बड़े सभागार का नाम उनके सम्मान में 'तेहरान मौसकी उस्ताद बिस्मिल्लाह खान' रखा गया था?"
+        "en": "The Shehnai is a...",
+        "hi": "शहनाई एक... है।"
       },
       "options": {
-        "a": {"en": "Cairo", "hi": "काहिरा"},
-        "b": {"en": "Tehran", "hi": "तेहरान (Tehran)"},
-        "c": {"en": "Baghdad", "hi": "बगदाद"},
-        "d": {"en": "Damascus", "hi": "दमिश्क"}
+        "a": {"en": "Reeded instrument", "hi": "रीड वाला वाद्ययंत्र"},
+        "b": {"en": "String instrument", "hi": "तार वाला वाद्ययंत्र"},
+        "c": {"en": "Keyboard instrument", "hi": "कीबोर्ड वाद्ययंत्र"},
+        "d": {"en": "Percussion instrument", "hi": "ताल-वाद्य"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It is the major capital city of Iran, historically connected to Persian arts.",
-        "hi": "यह ईरान की राजधानी है जो कला और संगीत के इतिहास से गहराई से जुड़ी हुई है।"
-      },
-      "explanation": {
-        "en": "So famous did he become internationally that an auditorium in Tehran was named after him – Tehaar Musiquee Ustad Bismillah Khan.",
-        "hi": "उनकी अंतर्राष्ट्रीय प्रसिद्धि का आलम यह था कि ईरान की राजधानी तेहरान (Tehran) में एक सभागार का नाम उनके नाम पर समर्पित किया गया।"
-      },
-      "key_takeaway": {
-        "en": "International auditorium honors = Tehran, Iran.",
-        "hi": "अंतर्राष्ट्रीय सभागार सम्मान = तेहरान, ईरान।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 28,
       "question": {
-        "en": "In which year was Ustad Bismillah Khan awarded India's highest civilian honor, the Bharat Ratna?",
-        "hi": "उस्ताद बिस्मिल्लाह खान को किस वर्ष भारत के सर्वोच्च नागरिक सम्मान 'भारत रत्न' से अलंकृत किया गया था?"
+        "en": "What was Bismillah Khan's real name?",
+        "hi": "बिस्मिल्लाह खान का वास्तविक नाम क्या था?"
       },
       "options": {
-        "a": {"en": "1999", "hi": "1999 में"},
-        "b": {"en": "2001", "hi": "2001 में (2001)"},
-        "c": {"en": "2006", "hi": "2006 में"},
-        "d": {"en": "1991", "hi": "1991 में"}
+        "a": {"en": "Qamaruddin", "hi": "कमरुद्दीन"},
+        "b": {"en": "Bismillah", "hi": "बिस्मिल्लाह"},
+        "c": {"en": "Ali", "hi": "अली"},
+        "d": {"en": "Khan", "hi": "खान"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "It was the first year of the current 21st-century millennium block.",
-        "hi": "यह वर्तमान 21वीं सदी के सहस्राब्दी (millennium) का बिल्कुल पहला वर्ष था।"
-      },
-      "explanation": {
-        "en": "In 2001, Ustad Bismillah Khan was awarded India’s highest civilian award, the Bharat Ratna.",
-        "hi": "वर्ष 2001 में उस्ताद बिस्मिल्लाह खान को देश के सर्वोच्च सम्मान 'भारत रत्न' (Bharat Ratna) से सम्मानित किया गया था।"
-      },
-      "key_takeaway": {
-        "en": "Bharat Ratna year = 2001.",
-        "hi": "भारत रत्न मिलने का वर्ष = 2001।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 29,
       "question": {
-        "en": "What core message did Bismillah Khan give to Indian parents upon receiving the Bharat Ratna?",
-        "hi": "भारत रत्न प्राप्त करने के बाद बिस्मिल्लाह खान ने देश के माता-पिता को क्या मुख्य संदेश दिया था?"
+        "en": "Bismillah Khan's life is a perfect example of...",
+        "hi": "बिस्मिल्लाह खान का जीवन... का एक आदर्श उदाहरण है।"
       },
       "options": {
-        "a": {"en": "Focus exclusively on English communication", "hi": "केवल अंग्रेज़ी संचार पर ध्यान केंद्रित करें"},
-        "b": {"en": "Teach your children music, for it is Hindustani's richest tradition", "hi": "अपने बच्चों को संगीत सिखाएं, क्योंकि यह हिंदुस्तान की सबसे समृद्ध परंपरा है"},
-        "c": {"en": "Guide your children towards software engineering fields", "hi": "अपने बच्चों को सॉफ्टवेयर इंजीनियरिंग क्षेत्रों की ओर निर्देशित करें"},
-        "d": {"en": "Send your children abroad for high status jobs", "hi": "उच्च प्रतिष्ठा की नौकरियों के लिए अपने बच्चों को विदेश भेजें"}
+        "a": {"en": "Rich cultural heritage of India", "hi": "भारत की समृद्ध सांस्कृतिक विरासत"},
+        "b": {"en": "Western music", "hi": "पश्चिमी संगीत"},
+        "c": {"en": "Modern technology", "hi": "आधुनिक तकनीक"},
+        "d": {"en": "Poverty", "hi": "गरीबी"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "He noted that even western populations are now coming to learn our musical legacy.",
-        "hi": "उन्होंने याद दिलाया था कि अब पश्चिम (West) के लोग भी हमारे संगीत की विरासत को सीखने भारत आ रहे हैं।"
-      },
-      "explanation": {
-        "en": "He said: 'Teach your children music, this is Hindustani’s richest tradition; even the West is now coming to learn our music.'",
-        "hi": "उन्होंने देश से भावुक अपील की थी कि वे बच्चों को संगीत सिखाएं क्योंकि यह हिंदुस्तान की सबसे अनमोल और अमीर सांस्कृतिक धरोहर है।"
-      },
-      "key_takeaway": {
-        "en": "Advice to nation = Cultivate music education for children.",
-        "hi": "देश को सलाह = बच्चों के लिए संगीत शिक्षा को बढ़ावा देना।"
-      }
+      "correct_option": "a"
     },
     {
       "question_id": 30,
       "question": {
-        "en": "Why did Bismillah Khan turn down an offer to open a shehnai academy in the USA?",
-        "hi": "एक छात्र द्वारा बनारस जैसा माहौल बनाने का वादा करने के बावजूद बिस्मिल्लाह खान ने अमेरिका में शहनाई एकेडमी का प्रमुख बनने से क्यों मना कर दिया था?"
+        "en": "What does this chapter teach us?",
+        "hi": "यह अध्याय हमें क्या सिखाता है?"
       },
       "options": {
-        "a": {"en": "Because he found the financial contract insufficient", "hi": "क्योंकि उन्हें वित्तीय अनुबंध (पैसा) अपर्याप्त लगा था"},
-        "b": {"en": "Because he could never transplant the holy River Ganga to America", "hi": "क्योंकि वे पवित्र गंगा नदी को अमेरिका में स्थानांतरित (transplant) नहीं कर सकते थे"},
-        "c": {"en": "Because he was restricted by visa regulations", "hi": "क्योंकि वे वीज़ा नियमों द्वारा प्रतिबंधित थे"},
-        "d": {"en": "Because he disliked western climates and foods", "hi": "क्योंकि वे पश्चिमी जलवायु और भोजन को नापसंद करते थे"}
+        "a": {"en": "Determination and passion", "hi": "दृढ़ संकल्प और जुनून"},
+        "b": {"en": "To play musical instruments", "hi": "वाद्ययंत्र बजाना"},
+        "c": {"en": "To travel abroad", "hi": "विदेश यात्रा करना"},
+        "d": {"en": "Only music", "hi": "केवल संगीत"}
       },
-      "correct_option": "b",
-      "hint": {
-        "en": "His deep artistic and spiritual bond with the sacred river ghats couldn't be replicated by artificial temples.",
-        "hi": "बनारस की पवित्र गंगा और घाटों के साथ उनका आध्यात्मिक संबंध किसी भी कृत्रिम मंदिर की प्रतिकृति से बड़ा था।"
-      },
-      "explanation": {
-        "en": "A student promised to replicate Benaras in the USA, but Khan Sahab asked: 'Would he be able to transport River Ganga as well?'",
-        "hi": "उन्होंने अपने छात्र से पूछा कि तुम बनारस के जैसे मंदिर तो वहाँ बना लोगे, लेकिन क्या पवित्र गंगा मैया को भी अमेरिका ला सकोगे? उनका अपनी माटी से अटूट प्रेम था।"
-      },
-      "key_takeaway": {
-        "en": "Patriotic root bond = Absolute attachment to River Ganga and Benaras.",
-        "hi": "देशभक्ति और जड़ों से जुड़ाव = गंगा नदी और बनारस के प्रति उनका अटूट प्रेम।"
-      }
+      "correct_option": "a"
     }
   ]
 }
