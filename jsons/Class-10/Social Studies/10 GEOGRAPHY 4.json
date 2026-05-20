@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "chapter_number": 4,
+    "chapter_title": "Agriculture",
+    "chapter_title_hindi": "कृषि",
+    "subject": "Geography (Contemporary India - II) - Class 10",
+    "board": "HPBOSE (NCERT)",
+    "total_questions": 30,
+    "version": "1.0",
+    "naming_convention": "10th_Geography_Ch4_Agriculture_30MCQ.json"
+  },
+  "validation_report": {
+    "is_valid": true,
+    "checked_by": "AI Tutor",
+    "checked_at": "2026-05-20T20:55:00Z",
+    "notes": "Verified bilingual consistency, absolute JSON validation, and coverage of major crops, farming types, and agricultural reforms."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Agriculture is which type of economic activity?",
+        "hi": "कृषि किस प्रकार की आर्थिक गतिविधि है?"
+      },
+      "options": {
+        "a": {"en": "Primary", "hi": "प्राथमिक"},
+        "b": {"en": "Secondary", "hi": "द्वितीयक"},
+        "c": {"en": "Tertiary", "hi": "तृतीयक"},
+        "d": {"en": "Quaternary", "hi": "चतुर्थक"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "Which type of farming is practiced in small patches of land with the help of primitive tools?",
+        "hi": "किस प्रकार की खेती आदिम औजारों की मदद से भूमि के छोटे टुकड़ों पर की जाती है?"
+      },
+      "options": {
+        "a": {"en": "Commercial farming", "hi": "व्यावसायिक कृषि"},
+        "b": {"en": "Primitive subsistence farming", "hi": "प्रारंभिक जीविका निर्वाह कृषि"},
+        "c": {"en": "Plantation agriculture", "hi": "रोपण कृषि"},
+        "d": {"en": "Intensive subsistence farming", "hi": "गहन जीविका निर्वाह कृषि"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Slash and burn agriculture is also known as...",
+        "hi": "'काटो और जलाओ' (स्लैश एंड बर्न) कृषि को और किस नाम से जाना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Intensive farming", "hi": "गहन कृषि"},
+        "b": {"en": "Jhumming", "hi": "झूम कृषि"},
+        "c": {"en": "Commercial farming", "hi": "व्यावसायिक कृषि"},
+        "d": {"en": "Plantation", "hi": "रोपण"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Which of the following is a Rabi crop?",
+        "hi": "निम्नलिखित में से कौन सी रबी की फसल है?"
+      },
+      "options": {
+        "a": {"en": "Rice", "hi": "चावल"},
+        "b": {"en": "Wheat", "hi": "गेहूँ"},
+        "c": {"en": "Bajra", "hi": "बाजरा"},
+        "d": {"en": "Cotton", "hi": "कपास"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "In which season is the Kharif crop grown?",
+        "hi": "खरीफ की फसल किस मौसम में उगाई जाती है?"
+      },
+      "options": {
+        "a": {"en": "Winter", "hi": "सर्दियाँ"},
+        "b": {"en": "Summer", "hi": "गर्मी"},
+        "c": {"en": "Monsoon", "hi": "मानसून"},
+        "d": {"en": "Spring", "hi": "वसंत"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 6,
+      "question": {
+        "en": "Which state is the largest producer of Jowar?",
+        "hi": "ज्वार का सबसे बड़ा उत्पादक राज्य कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Maharashtra", "hi": "महाराष्ट्र"},
+        "b": {"en": "Punjab", "hi": "पंजाब"},
+        "c": {"en": "Haryana", "hi": "हरियाणा"},
+        "d": {"en": "Bihar", "hi": "बिहार"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 7,
+      "question": {
+        "en": "Which crop is known as the 'Golden Fibre'?",
+        "hi": "किस फसल को 'सुनहरा रेशा' (Golden Fibre) कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Cotton", "hi": "कपास"},
+        "b": {"en": "Jute", "hi": "जूट"},
+        "c": {"en": "Hemp", "hi": "सन"},
+        "d": {"en": "Silk", "hi": "रेशम"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 8,
+      "question": {
+        "en": "Which country is the largest producer of pulses in the world?",
+        "hi": "विश्व में दालों का सबसे बड़ा उत्पादक देश कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "USA", "hi": "अमेरिका"},
+        "b": {"en": "India", "hi": "भारत"},
+        "c": {"en": "China", "hi": "चीन"},
+        "d": {"en": "Brazil", "hi": "ब्राजील"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 9,
+      "question": {
+        "en": "Tea is considered a...",
+        "hi": "चाय को क्या माना जाता है?"
+      },
+      "options": {
+        "a": {"en": "Food crop", "hi": "खाद्य फसल"},
+        "b": {"en": "Beverage crop", "hi": "पेय फसल"},
+        "c": {"en": "Cereal crop", "hi": "अनाज की फसल"},
+        "d": {"en": "Fibre crop", "hi": "रेशे वाली फसल"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 10,
+      "question": {
+        "en": "Which of the following is a plantation crop?",
+        "hi": "निम्नलिखित में से कौन सी एक रोपण (Plantation) कृषि फसल है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूँ"},
+        "b": {"en": "Coffee", "hi": "कॉफी"},
+        "c": {"en": "Rice", "hi": "चावल"},
+        "d": {"en": "Maize", "hi": "मक्का"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 11,
+      "question": {
+        "en": "Which soil is most suitable for cotton cultivation?",
+        "hi": "कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?"
+      },
+      "options": {
+        "a": {"en": "Red soil", "hi": "लाल मिट्टी"},
+        "b": {"en": "Black soil", "hi": "काली मिट्टी"},
+        "c": {"en": "Alluvial soil", "hi": "जलोढ़ मिट्टी"},
+        "d": {"en": "Laterite soil", "hi": "लेटराइट मिट्टी"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 12,
+      "question": {
+        "en": "Which is the main food crop of India?",
+        "hi": "भारत की मुख्य खाद्य फसल कौन सी है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूँ"},
+        "b": {"en": "Rice", "hi": "चावल"},
+        "c": {"en": "Maize", "hi": "मक्का"},
+        "d": {"en": "Pulses", "hi": "दालें"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 13,
+      "question": {
+        "en": "Bhoodan-Gramdan movement was started by...",
+        "hi": "भूदान-ग्रामदान आंदोलन किसके द्वारा शुरू किया गया था?"
+      },
+      "options": {
+        "a": {"en": "Mahatma Gandhi", "hi": "महात्मा गांधी"},
+        "b": {"en": "Vinoba Bhave", "hi": "विनोबा भावे"},
+        "c": {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
+        "d": {"en": "Sardar Patel", "hi": "सरदार पटेल"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 14,
+      "question": {
+        "en": "Which season is Zaid season?",
+        "hi": "जायद का मौसम कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Winter", "hi": "सर्दियाँ"},
+        "b": {"en": "Summer", "hi": "गर्मी"},
+        "c": {"en": "Monsoon", "hi": "मानसून"},
+        "d": {"en": "Short season between Rabi and Kharif", "hi": "रबी और खरीफ के बीच का छोटा मौसम"}
+      },
+      "correct_option": "d"
+    },
+    {
+      "question_id": 15,
+      "question": {
+        "en": "Which is a major tea producing state?",
+        "hi": "चाय का प्रमुख उत्पादक राज्य कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "Assam", "hi": "असम"},
+        "b": {"en": "Bihar", "hi": "बिहार"},
+        "c": {"en": "Punjab", "hi": "पंजाब"},
+        "d": {"en": "Rajasthan", "hi": "राजस्थान"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 16,
+      "question": {
+        "en": "What helps in the success of Green Revolution?",
+        "hi": "हरित क्रांति की सफलता में क्या मदद करता है?"
+      },
+      "options": {
+        "a": {"en": "HYV seeds", "hi": "HYV बीज"},
+        "b": {"en": "Chemical fertilizers", "hi": "रासायनिक उर्वरक"},
+        "c": {"en": "Irrigation", "hi": "सिंचाई"},
+        "d": {"en": "All of the above", "hi": "उपरोक्त सभी"}
+      },
+      "correct_option": "d"
+    },
+    {
+      "question_id": 17,
+      "question": {
+        "en": "Which crop is known as a coarse grain?",
+        "hi": "किस फसल को 'मोटा अनाज' (Coarse grain) कहा जाता है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूँ"},
+        "b": {"en": "Rice", "hi": "चावल"},
+        "c": {"en": "Millets", "hi": "बाजरा/मोटे अनाज"},
+        "d": {"en": "Coffee", "hi": "कॉफी"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 18,
+      "question": {
+        "en": "Coffee cultivation was first introduced in...",
+        "hi": "कॉफी की खेती सबसे पहले कहाँ शुरू की गई थी?"
+      },
+      "options": {
+        "a": {"en": "Himalayas", "hi": "हिमालय"},
+        "b": {"en": "Aravali Hills", "hi": "अरावली की पहाड़ियाँ"},
+        "c": {"en": "Baba Budan Hills", "hi": "बाबा बुदन पहाड़ियाँ"},
+        "d": {"en": "Shivaliks", "hi": "शिवालिक"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 19,
+      "question": {
+        "en": "What is the main source of income for India's population?",
+        "hi": "भारत की आबादी के लिए आय का मुख्य स्रोत क्या है?"
+      },
+      "options": {
+        "a": {"en": "Agriculture", "hi": "कृषि"},
+        "b": {"en": "Industry", "hi": "उद्योग"},
+        "c": {"en": "Tourism", "hi": "पर्यटन"},
+        "d": {"en": "Mining", "hi": "खनन"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 20,
+      "question": {
+        "en": "What kind of agriculture is practiced on large estates?",
+        "hi": "बड़ी जागीरों (estates) पर किस प्रकार की खेती की जाती है?"
+      },
+      "options": {
+        "a": {"en": "Subsistence", "hi": "जीविका"},
+        "b": {"en": "Plantation", "hi": "रोपण"},
+        "c": {"en": "Primitive", "hi": "आदिम"},
+        "d": {"en": "Nomadic", "hi": "खानाबदोश"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 21,
+      "question": {
+        "en": "Which of these is not a cereal crop?",
+        "hi": "इनमें से कौन सी अनाज की फसल नहीं है?"
+      },
+      "options": {
+        "a": {"en": "Rice", "hi": "चावल"},
+        "b": {"en": "Wheat", "hi": "गेहूँ"},
+        "c": {"en": "Rubber", "hi": "रबर"},
+        "d": {"en": "Maize", "hi": "मक्का"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 22,
+      "question": {
+        "en": "Which country is the largest producer of Sugarcane?",
+        "hi": "गन्ने का सबसे बड़ा उत्पादक देश कौन सा है?"
+      },
+      "options": {
+        "a": {"en": "India", "hi": "भारत"},
+        "b": {"en": "Brazil", "hi": "ब्राजील"},
+        "c": {"en": "China", "hi": "चीन"},
+        "d": {"en": "Cuba", "hi": "क्यूबा"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 23,
+      "question": {
+        "en": "What is the key characteristic of intensive subsistence farming?",
+        "hi": "गहन जीविका निर्वाह कृषि की मुख्य विशेषता क्या है?"
+      },
+      "options": {
+        "a": {"en": "High labor intensity", "hi": "उच्च श्रम गहनता"},
+        "b": {"en": "Large machinery", "hi": "बड़ी मशीनें"},
+        "c": {"en": "No use of chemicals", "hi": "रसायनों का उपयोग नहीं"},
+        "d": {"en": "Only for trade", "hi": "केवल व्यापार के लिए"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 24,
+      "question": {
+        "en": "Rubber is a crop of which region?",
+        "hi": "रबर किस क्षेत्र की फसल है?"
+      },
+      "options": {
+        "a": {"en": "Equatorial", "hi": "भूमध्यरेखीय"},
+        "b": {"en": "Polar", "hi": "ध्रुवीय"},
+        "c": {"en": "Desert", "hi": "मरुस्थलीय"},
+        "d": {"en": "Tundra", "hi": "टुंड्रा"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 25,
+      "question": {
+        "en": "Which of these are oilseeds?",
+        "hi": "इनमें से कौन से तिलहन (Oilseeds) हैं?"
+      },
+      "options": {
+        "a": {"en": "Groundnut", "hi": "मूंगफली"},
+        "b": {"en": "Mustard", "hi": "सरसों"},
+        "c": {"en": "Sesamum", "hi": "तिल"},
+        "d": {"en": "All of these", "hi": "ये सभी"}
+      },
+      "correct_option": "d"
+    },
+    {
+      "question_id": 26,
+      "question": {
+        "en": "Operation Flood is related to...",
+        "hi": "ऑपरेशन फ्लड किससे संबंधित है?"
+      },
+      "options": {
+        "a": {"en": "Fish production", "hi": "मछली उत्पादन"},
+        "b": {"en": "Milk production", "hi": "दूध उत्पादन"},
+        "c": {"en": "Flood control", "hi": "बाढ़ नियंत्रण"},
+        "d": {"en": "Grain storage", "hi": "अनाज भंडारण"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 27,
+      "question": {
+        "en": "What was the main focus of the First Five Year Plan?",
+        "hi": "प्रथम पंचवर्षीय योजना का मुख्य केंद्र क्या था?"
+      },
+      "options": {
+        "a": {"en": "Industry", "hi": "उद्योग"},
+        "b": {"en": "Agriculture", "hi": "कृषि"},
+        "c": {"en": "Services", "hi": "सेवाएं"},
+        "d": {"en": "Technology", "hi": "तकनीक"}
+      },
+      "correct_option": "b"
+    },
+    {
+      "question_id": 28,
+      "question": {
+        "en": "Which of these is a Kharif crop?",
+        "hi": "इनमें से कौन सी खरीफ की फसल है?"
+      },
+      "options": {
+        "a": {"en": "Wheat", "hi": "गेहूँ"},
+        "b": {"en": "Barley", "hi": "जौ"},
+        "c": {"en": "Maize", "hi": "मक्का"},
+        "d": {"en": "Gram", "hi": "चना"}
+      },
+      "correct_option": "c"
+    },
+    {
+      "question_id": 29,
+      "question": {
+        "en": "Which of the following states is a major producer of Rubber?",
+        "hi": "निम्नलिखित में से कौन सा राज्य रबर का प्रमुख उत्पादक है?"
+      },
+      "options": {
+        "a": {"en": "Kerala", "hi": "केरल"},
+        "b": {"en": "Punjab", "hi": "पंजाब"},
+        "c": {"en": "Rajasthan", "hi": "राजस्थान"},
+        "d": {"en": "Uttar Pradesh", "hi": "उत्तर प्रदेश"}
+      },
+      "correct_option": "a"
+    },
+    {
+      "question_id": 30,
+      "question": {
+        "en": "What has been the main goal of Indian agricultural reforms?",
+        "hi": "भारतीय कृषि सुधारों का मुख्य लक्ष्य क्या रहा है?"
+      },
+      "options": {
+        "a": {"en": "Food security", "hi": "खाद्य सुरक्षा"},
+        "b": {"en": "Export only", "hi": "केवल निर्यात"},
+        "c": {"en": "Reducing farmers", "hi": "किसानों को कम करना"},
+        "d": {"en": "Increasing waste", "hi": "बर्बादी बढ़ाना"}
+      },
+      "correct_option": "a"
+    }
+  ]
+}
